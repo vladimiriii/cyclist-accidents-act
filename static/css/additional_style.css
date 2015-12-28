@@ -1,0 +1,42 @@
+
+body { margin:0;
+	padding:0; 
+}
+		
+#map {
+	height:50em; 
+}
+
+.mapboxgl-popup {
+	max-width: 400px;
+	font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+.marker-title {
+	font-weight: 700;
+}
+		
+.share-btn {
+	display: inline-block;
+	border-radius: 50px;
+	color: #ffffff;
+	border: 2px solid #fff;
+	padding: 0.5em;
+	width: 2.8em;
+	opacity: 0.9;
+	outline: none;
+	text-align: center;
+}
+.share-btn:hover {
+	color: #363636;
+	background-color: #fff;
+	border: 2px solid #fff;
+}
+		
+.share-btn:active {
+	position: relative;
+	top: 2px;
+	box-shadow: none;
+	color: #e2e2e2;
+	outline: none;
+}
