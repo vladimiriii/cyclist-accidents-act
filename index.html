@@ -12,6 +12,7 @@
 	
 	<!-- JQuery -->	
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+	<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
 	<!-- Data -->
     <script src='data/data.js'></script>
@@ -25,6 +26,7 @@
 	
 	<!-- Other Styling -->
     <link rel="stylesheet" href="./static/css/additional_style.css">
+	<link rel="stylesheet" href="./static/slider/jquery-ui.css">
 	
 </head>
 <body>
@@ -46,24 +48,32 @@
 		</div>
 		<div class="row">
 			<div class="col-md-2">
-				<br>
-				<div class="form">
-					<p>Show accidents as:</p>
-					<div class="btn-group-vertical btn-group" data-toggle="buttons">
-						<label class="btn btn-primary btn-block active"><input type="radio" name="optradio" value="heatmap" checked>Heatmap</label>
-						<label class="btn btn-primary btn-block"><input type="radio" name="optradio" value="featureLayer">Markers</label>
+				<div class="menu">
+					<h4>Display Type</h4>
+					<div class="form">
+						<div class="btn-group-vertical btn-group" data-toggle="buttons">
+							<label class="btn btn-primary btn-block active" id="hButton"><input type="radio" name="optradio" value="heatmap" checked>Heatmap</label>
+							<label class="btn btn-primary btn-block" id="mButton"><input type="radio" name="optradio" value="featureLayer">Markers</label>
+						</div>
 					</div>
-				</div>
-				<br>
-				<div class="form">
-					<p>Loop through all accidents:</p>
-					<div class="btn-group-vertical btn-group" data-toggle="buttons">
-						<button type="button" class="btn btn-primary" id="mbm">
-							<span class="glyphicon glyphicon-play"></span> Month by Month
-						</button>	
-						<button type="button" class="btn btn-primary" id="hbh">
-							<span class="glyphicon glyphicon-play"></span> Hour by Hour
-						</button>
+					<br>
+					<h4>Change Over Time</h4>
+					<div class="form">
+						<div class="btn-group-vertical btn-group" data-toggle="buttons">
+							<button type="button" class="btn btn-primary" id="mbm">
+								<span class="glyphicon glyphicon-play"></span> Month by Month
+							</button>	
+							<button type="button" class="btn btn-primary" id="hbh">
+								<span class="glyphicon glyphicon-play"></span> Hour of the day
+							</button>
+						</div>
+						<p></p>
+						<div>
+							<p>Time at each interval:
+								<input type="text" id="amount" readonly style="border:0; color: #FFF869; background-color: #363636; font-weight:bold;">
+							</p>
+						</div>
+						<div id="slider"></div>
 					</div>
 				</div>
 			</div>
@@ -71,10 +81,12 @@
 				<div id='map'>
 					<script>
 					//Settings
-					var delay = 500 // Loop delay
 					var monthNames = ["January", "February", "March", "April", "May", "June",
 				  		"July", "August", "September", "October", "November", "December"
 						];
+					
+					var mbm = document.getElementById("mbm");
+					var hbh = document.getElementById("hbh");
 					
 					//Activate Map
 					L.mapbox.accessToken = 'pk.eyJ1IjoiYnJldHRyb21lcm8iLCJhIjoiMDNmMGMyNDlmYTNhOTE1OTMxMDBlOTlmMzlhYWI1NzcifQ.8h_c4cDzPK3GMVVDlbE-VQ';
@@ -114,6 +126,14 @@
 					};
 					
 					function monthlyLoop() {
+						// Disable buttons
+						mbm.disabled = true;
+						hbh.disabled = true;
+						$('#mButton').attr('disabled', 'disabled');
+						$('#hButton').attr('disabled', 'disabled');
+						
+						//Delay value
+						window.delay = 1000*$( "#slider" ).slider( "value" );
 						
 						// Remove current layer
 						if (map.hasLayer(featureLayer)) {
@@ -130,6 +150,14 @@
 					};
 					
 					function hourlyLoop() {
+						// Disable buttons
+						mbm.disabled = true;
+						hbh.disabled = true;
+						$('#hButton').attr('disabled', 'disabled');
+						$('#mButton').attr('disabled', 'disabled');
+						
+						//Delay value
+						window.delay = 1000*$( "#slider" ).slider( "value" );
 						
 						// Remove current layer
 						if (map.hasLayer(featureLayer)) {
@@ -260,6 +288,12 @@
 							}
 							// If last loop, redisplay all data
 							else if (i > max_i) {
+								//Reenable buttons
+								mbm.disabled = false;
+								hbh.disabled = false;
+								$('#mButton').removeAttr( "disabled" );
+								$('#hButton').removeAttr( "disabled" );
+								
 								// Remove legend
 								map.legendControl.removeLegend(legendText);
 								if (view == "markers") {
@@ -275,21 +309,29 @@
 					$('input[name=optradio]:radio').change(function() {
 						changeView(this.value);
 					});
-					
+										
 					// Loop button events
-					var mbm = document.getElementById("mbm");
-					var hbh = document.getElementById("hbh");
-					
 					$(mbm).on('click', monthlyLoop);
 					$(hbh).on('click', hourlyLoop);
 					
-					//mbm.addEventListener("click", monthlyMarkerLoop(), false);
-					//hbh.addEventListener("click", hourlyMarkerLoop(), false);
+					// Speed Slider
+					$(function() {
+					    $( "#slider" ).slider({
+							range: "min",
+					      	value:1.5,
+					      	min: 0.25,
+					      	max: 3,
+					      	step: 0.25,
+					      	slide: function( event, ui ) {
+					        	$( "#amount" ).val( ui.value + " seconds" );
+					      	}
+					    });
+					    $( "#amount" ).val($( "#slider" ).slider( "value" ) + " seconds");
+					});
 								
 				</script>
 			</div>
-		</div>
-			
+		</div>	
 	</div>
 	<div class="row">
 		<footer class="" style="text-align: center; margin-top:10px; background-color:#363636; color: #FFF;">
@@ -298,7 +340,7 @@
 					<div class="row">
 						<div class="footer-col col-md-6">
 							<h4>About</h4>
-							<p>The above map was created as a project to...</p>
+							<p>The above map was created as a project to explore the open data provided by the Federal and State Governments in Australia at <a href="http://data.gov.au">data.gov.au</a>.</p>
 						</div>
 						<div class="footer-col col-md-6">
 							<h4>Get in Touch!</h4>

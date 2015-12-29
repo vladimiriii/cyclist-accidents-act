@@ -4,7 +4,9 @@ body { margin:0;
 }
 		
 #map {
-	height:50em; 
+	height:50em;
+	border: 2px solid #363636;
+	border-radius: 5px;
 }
 
 .mapboxgl-popup {
@@ -44,7 +46,7 @@ body { margin:0;
 .my-legend {
 	width: 180px !important;
 	text-align: center;
-	background-color: #000000 !important;
+	background-color: #363636 !important;
 	color: #FFFFFF !important;
 	margin: -10px -10px -10px -10px !important;
 	padding: 10px 10px 0px 10px !important;
@@ -55,4 +57,13 @@ body { margin:0;
 	font-family: Eurostile, Tahoma, sans-serif;
 	font-size: 150%;
 	font-weight: bold;
+}
+
+.menu {
+	background-color: #363636 !important;
+	height: 43em;
+	color: #FFFFFF;
+	padding: 5px 20px 20px 20px;
+	margin: 0px -10px -10px -10px;
+	border-radius: 5px;
 }
