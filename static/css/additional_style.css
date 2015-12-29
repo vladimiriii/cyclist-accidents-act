@@ -44,7 +44,7 @@ body { margin:0;
 }
 
 .my-legend {
-	width: 180px !important;
+	width: 200px !important;
 	text-align: center;
 	background-color: #363636 !important;
 	color: #FFFFFF !important;
@@ -71,4 +71,9 @@ body { margin:0;
 	padding: 5px 20px 20px 20px;
 	margin: 0px -10px -10px -10px;
 	border-radius: 5px;
+}
+
+.datepicker {
+	color: #000000;
+	margin: 5px 0px 0px 0px;
 }

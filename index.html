@@ -13,6 +13,11 @@
 	<!-- JQuery -->	
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 	<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+	
+	<!-- Datepicker -->	
+	<script type="text/javascript" src="http://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+	<script type="text/javascript" src="http://cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css" />
 
 	<!-- Data -->
     <script src='data/data.js'></script>
@@ -75,295 +80,55 @@
 						</div>
 						<div id="slider"></div>
 					</div>
-				</div>
-			</div>
-			<div class="col-md-10">
-				<div id='map'>
-					<script>
-					//Settings
-					var monthNames = ["January", "February", "March", "April", "May", "June",
-				  		"July", "August", "September", "October", "November", "December"
-						];
-					
-					var mbm = document.getElementById("mbm");
-					var hbh = document.getElementById("hbh");
-					
-					//Activate Map
-					L.mapbox.accessToken = 'pk.eyJ1IjoiYnJldHRyb21lcm8iLCJhIjoiMDNmMGMyNDlmYTNhOTE1OTMxMDBlOTlmMzlhYWI1NzcifQ.8h_c4cDzPK3GMVVDlbE-VQ';
-					
-					var map = L.mapbox.map('map', 'mapbox.streets')
-						.setView([-35.3075, 149.124417], 12);
-
-					// Heat Map Layer
-					var heatmap = L.heatLayer( locations, 
-						{
-							minOpacity: 0.4,
-							maxZoom: 18,
-							radius: 30,
-							blur: 15,
-							max: 1.0
-						})
-						.addTo(map);
-					
-					// Marker Layer
-					var featureLayer = L.mapbox.featureLayer( markers, 
-						{
-							id: "markers",
-							interactive: true,
-							type: "symbol",
-							source: "markers",
-						});
-					
-					// Layer Toggle
-					function changeView(layer) {
-						if (layer == "heatmap") {
-							map.removeLayer(featureLayer);
-							heatmap.addTo(map);
-						} else if (layer == "featureLayer") {
-							map.removeLayer(heatmap);
-							featureLayer.addTo(map);
-						}
-					};
-					
-					function monthlyLoop() {
-						// Disable buttons
-						mbm.disabled = true;
-						hbh.disabled = true;
-						$('#mButton').attr('disabled', 'disabled');
-						$('#hButton').attr('disabled', 'disabled');
-						
-						//Delay value
-						window.delay = 1000*$( "#slider" ).slider( "value" );
-						
-						// Remove current layer
-						if (map.hasLayer(featureLayer)) {
-							map.removeLayer(featureLayer);
-							var currentView = "markers";
-						} else if (map.hasLayer(heatmap)) {
-							map.removeLayer(heatmap);
-							var currentView = "heatmap";
-						}
-						
-						var records = markers["features"];
-						i = 0;
-						timedLoop(i, "monthly", records, currentView);
-					};
-					
-					function hourlyLoop() {
-						// Disable buttons
-						mbm.disabled = true;
-						hbh.disabled = true;
-						$('#hButton').attr('disabled', 'disabled');
-						$('#mButton').attr('disabled', 'disabled');
-						
-						//Delay value
-						window.delay = 1000*$( "#slider" ).slider( "value" );
-						
-						// Remove current layer
-						if (map.hasLayer(featureLayer)) {
-							map.removeLayer(featureLayer);
-							var currentView = "markers";
-						} else if (map.hasLayer(heatmap)) {
-							map.removeLayer(heatmap);
-							var currentView = "heatmap";
-						}
-
-						var records = markers["features"];
-						i = 0;
-						timedLoop(i, "hourly", records, currentView);
-					};
-					
-					function timedLoop(i, type, records, view) {
-					    setTimeout(function(x) {
-							var features = [];
-							
-							//Remove previous layer and legend
-							if (i > 0) {
-								map.removeLayer(filteredLayer);
-								map.legendControl.removeLegend(legendText);
-							}
-							
-							// If currently viewing markers:
-							if (view == "markers") {
-							
-								//Data for monthly loop
-								if (type == "monthly") {
-									var max_i = 12;
-									for (record in records) {
-										current_record = records[record];
-										record_month = new Date(current_record["other_info"]["date"]).getMonth();
-										if (record_month == i) {
-											features.push(current_record);
-										}; //if correct month
-									}; // loop
-									window.legendText = '<div class="my-legend"><p><span class="legend">' + monthNames[i] + '</span></p></div>'
-								}; // if monthly
-							
-								//Data for hourly loop
-								if (type == "hourly") {
-									var max_i = 24;
-									for (record in records) {
-										current_record = records[record];
-										record_hour = Number(current_record["other_info"]["time"].substr(0,2));
-										if (record_hour == i) {
-											features.push(current_record);
-										} // if correct hour
-									} // loop
-									if (i == 23) {j = 0;} else {j = i+1;}
-									window.legendText = '<div class="my-legend"><p><span class="legend">' + i + ':00 - ' + j + ':00' + '</span></p></div>'
-								} // if hourly
-								
-								var filtered = {features: features};
-							
-								//Create layer object
-								window.filteredLayer = L.mapbox.featureLayer( filtered, 
-									{
-										id: "filtered",
-										interactive: true,
-										type: "symbol",
-										source: "filtered",
-									});
-							
-							// If heatmap layer:
-							} else if (view == "heatmap") {
-								
-								//Data for monthly loop
-								if (type == "monthly") {
-									var max_i = 12;
-									for (record in records) {
-										current_record = records[record];
-										record_month = new Date(current_record["other_info"]["date"]).getMonth();
-										if (record_month == i) {
-											row = [];
-											row.push(current_record["geometry"]["coordinates"][1]);
-											row.push(current_record["geometry"]["coordinates"][0]);
-											row.push(1);
-											features.push(row);
-										};
-									}; // loop
-									window.legendText = '<div class="my-legend"><p><span class="legend">' + monthNames[i] + '</span></p></div>'
-								}; // if monthly
-							
-								//Data for hourly loop
-								if (type == "hourly") {
-									var max_i = 24;
-									for (record in records) {
-										current_record = records[record];
-										record_hour = Number(current_record["other_info"]["time"].substr(0,2));
-										if (record_hour == i) {
-											row = [];
-											row.push(current_record["geometry"]["coordinates"][1]);
-											row.push(current_record["geometry"]["coordinates"][0]);
-											row.push(1);
-											features.push(row);
-										} // if correct hour
-									} // loop
-									if (i == 23) {j = 0;} else {j = i+1;}
-									window.legendText = '<div class="my-legend"><p><span class="legend">' + i + ':00 - ' + j + ':00' + '</span></p></div>'
-								} // if hourly
-								var filtered = features
-								
-								// Heat Map Layer
-								window.filteredLayer = L.heatLayer( filtered, 
-									{
-										minOpacity: 0.4,
-										maxZoom: 18,
-										radius: 30,
-										blur: 15,
-										max: 1.0
-									})
-								
-							} // if heatmap
-							
-							//Add New layer to map
-							filteredLayer.addTo(map);
-							
-							// Add Text
-							map.legendControl.addLegend(legendText);
-							
-							//Advance loop
-							i = i + 1
-							if (i <= max_i) {
-								timedLoop(i, type, records, view);
-							}
-							// If last loop, redisplay all data
-							else if (i > max_i) {
-								//Reenable buttons
-								mbm.disabled = false;
-								hbh.disabled = false;
-								$('#mButton').removeAttr( "disabled" );
-								$('#hButton').removeAttr( "disabled" );
-								
-								// Remove legend
-								map.legendControl.removeLegend(legendText);
-								if (view == "markers") {
-									featureLayer.addTo(map);
-								} else if (view == "heatmap") {
-									heatmap.addTo(map);
-								}
-							}
-						}, delay);
-					};
-					
-					// Layer Toggle Input
-					$('input[name=optradio]:radio').change(function() {
-						changeView(this.value);
-					});
-										
-					// Loop button events
-					$(mbm).on('click', monthlyLoop);
-					$(hbh).on('click', hourlyLoop);
-					
-					// Speed Slider
-					$(function() {
-					    $( "#slider" ).slider({
-							range: "min",
-					      	value:1.5,
-					      	min: 0.25,
-					      	max: 3,
-					      	step: 0.25,
-					      	slide: function( event, ui ) {
-					        	$( "#amount" ).val( ui.value + " seconds" );
-					      	}
-					    });
-					    $( "#amount" ).val($( "#slider" ).slider( "value" ) + " seconds");
-					});
-								
-				</script>
-			</div>
-		</div>	
-	</div>
-	<div class="row">
-		<footer class="" style="text-align: center; margin-top:10px; background-color:#363636; color: #FFF;">
-			<div class="" style="width:100%">
-				<div class="container">
-					<div class="row">
-						<div class="footer-col col-md-6">
-							<h4>About</h4>
-							<p>The above map was created as a project to explore the open data provided by the Federal and State Governments in Australia at <a href="http://data.gov.au">data.gov.au</a>.</p>
-						</div>
-						<div class="footer-col col-md-6">
-							<h4>Get in Touch!</h4>
-							<!-- Twitter -->
-							<a href="https://twitter.com/MrBrettRomero" data-toggle="tooltip" title="Twitter" target="_blank" class="share-btn twitter">
-								<i class="fa fa-twitter"></i>
-							</a>
-							<!-- LinkedIn -->
-							<a href="https://www.linkedin.com/in/brett-romero-0880b049" data-toggle="tooltip" title="LinkedIn" target="_blank" class="share-btn linkedin">
-								<i class="fa fa-linkedin"></i>
-							</a>
-							<!-- Blog -->
-							<a href="http://brettromero.com/" data-toggle="tooltip" title="Brett Romero" target="_blank" class="share-btn home">
-								<i class="fa fa-home"></i>
-							</a>
-							<br><br>
+					<br>
+					<div>
+						<h4>Filter</h4>
+						<p>Select date range:
+						<input type="text" class="datepicker" name="daterange" value="01/01/2012 - 12/31/2015"/>
+						<p></p>
+						<div class="form">
+								<button type="button" class="btn btn-success" id="filter">Filter</button>	
+								<button type="button" class="btn btn-danger" id="reset">Reset</button>
 						</div>
 					</div>
 				</div>
 			</div>
-		</footer>
+			<div class="col-md-10">
+				<div id='map'>
+					<script src='static/js/page_functionality.js'></script>
+				</div>
+			</div>	
+		</div>
+		<div class="row">
+			<footer class="" style="text-align: center; margin-top:10px; background-color:#363636; color: #FFF;">
+				<div class="" style="width:100%">
+					<div class="container">
+						<div class="row">
+							<div class="footer-col col-md-6">
+								<h4>About</h4>
+								<p>The above map was created as a project to explore the open data provided by the Federal and State Governments in Australia at <a href="http://data.gov.au">data.gov.au</a>.</p>
+							</div>
+							<div class="footer-col col-md-6">
+								<h4>Get in Touch!</h4>
+								<!-- Twitter -->
+								<a href="https://twitter.com/MrBrettRomero" data-toggle="tooltip" title="Twitter" target="_blank" class="share-btn twitter">
+									<i class="fa fa-twitter"></i>
+								</a>
+								<!-- LinkedIn -->
+								<a href="https://www.linkedin.com/in/brett-romero-0880b049" data-toggle="tooltip" title="LinkedIn" target="_blank" class="share-btn linkedin">
+									<i class="fa fa-linkedin"></i>
+								</a>
+								<!-- Blog -->
+								<a href="http://brettromero.com/" data-toggle="tooltip" title="Brett Romero" target="_blank" class="share-btn home">
+									<i class="fa fa-home"></i>
+								</a>
+								<br><br>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
 	</div>
-</div>
-
 </body>
 </html>
