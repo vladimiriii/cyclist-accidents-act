@@ -40,3 +40,19 @@ body { margin:0;
 	color: #e2e2e2;
 	outline: none;
 }
+
+.my-legend {
+	width: 180px !important;
+	text-align: center;
+	background-color: #000000 !important;
+	color: #FFFFFF !important;
+	margin: -10px -10px -10px -10px !important;
+	padding: 10px 10px 0px 10px !important;
+	border: 2px solid #FFF869;
+}
+  
+.legend {
+	font-family: Eurostile, Tahoma, sans-serif;
+	font-size: 150%;
+	font-weight: bold;
+}

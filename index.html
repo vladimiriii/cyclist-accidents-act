@@ -71,7 +71,10 @@
 				<div id='map'>
 					<script>
 					//Settings
-					var delay = 1500 // Loop delay
+					var delay = 500 // Loop delay
+					var monthNames = ["January", "February", "March", "April", "May", "June",
+				  		"July", "August", "September", "October", "November", "December"
+						];
 					
 					//Activate Map
 					L.mapbox.accessToken = 'pk.eyJ1IjoiYnJldHRyb21lcm8iLCJhIjoiMDNmMGMyNDlmYTNhOTE1OTMxMDBlOTlmMzlhYWI1NzcifQ.8h_c4cDzPK3GMVVDlbE-VQ';
@@ -146,9 +149,10 @@
 					    setTimeout(function(x) {
 							var features = [];
 							
-							//Remove previous layer
+							//Remove previous layer and legend
 							if (i > 0) {
 								map.removeLayer(filteredLayer);
+								map.legendControl.removeLegend(legendText);
 							}
 							
 							// If currently viewing markers:
@@ -164,6 +168,7 @@
 											features.push(current_record);
 										}; //if correct month
 									}; // loop
+									window.legendText = '<div class="my-legend"><p><span class="legend">' + monthNames[i] + '</span></p></div>'
 								}; // if monthly
 							
 								//Data for hourly loop
@@ -176,6 +181,8 @@
 											features.push(current_record);
 										} // if correct hour
 									} // loop
+									if (i == 23) {j = 0;} else {j = i+1;}
+									window.legendText = '<div class="my-legend"><p><span class="legend">' + i + ':00 - ' + j + ':00' + '</span></p></div>'
 								} // if hourly
 								
 								var filtered = {features: features};
@@ -206,6 +213,7 @@
 											features.push(row);
 										};
 									}; // loop
+									window.legendText = '<div class="my-legend"><p><span class="legend">' + monthNames[i] + '</span></p></div>'
 								}; // if monthly
 							
 								//Data for hourly loop
@@ -222,6 +230,8 @@
 											features.push(row);
 										} // if correct hour
 									} // loop
+									if (i == 23) {j = 0;} else {j = i+1;}
+									window.legendText = '<div class="my-legend"><p><span class="legend">' + i + ':00 - ' + j + ':00' + '</span></p></div>'
 								} // if hourly
 								var filtered = features
 								
@@ -240,6 +250,9 @@
 							//Add New layer to map
 							filteredLayer.addTo(map);
 							
+							// Add Text
+							map.legendControl.addLegend(legendText);
+							
 							//Advance loop
 							i = i + 1
 							if (i <= max_i) {
@@ -247,6 +260,8 @@
 							}
 							// If last loop, redisplay all data
 							else if (i > max_i) {
+								// Remove legend
+								map.legendControl.removeLegend(legendText);
 								if (view == "markers") {
 									featureLayer.addTo(map);
 								} else if (view == "heatmap") {
