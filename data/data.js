@@ -13,7 +13,7 @@ var markers = {
                 "time": "12:37"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 14 May 2012 Time: 12:37", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> CAPITAL CIRCLE (COMMONWEALTH/COMMSPARLERM -> CANBERRA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 May 2012, 12:37</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -33,7 +33,7 @@ var markers = {
                 "time": "07:57"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 20 February 2013 Time: 07:57", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MORPHETT/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 February 2013, 07:57</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -53,7 +53,7 @@ var markers = {
                 "time": "07:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 17 March 2014 Time: 07:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BUNDA/NORTHBOURNE/RUDD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 March 2014, 07:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -73,7 +73,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 04 January 2012 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY/COOYONG/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 January 2012, 08:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -93,7 +93,7 @@ var markers = {
                 "time": "08:05"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 07 April 2015 Time: 08:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> NORTHBOURNE AVENUE (MORPHETT -> MURDOCH)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 April 2015, 08:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -113,7 +113,7 @@ var markers = {
                 "time": "16:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 10 June 2012 Time: 16:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HIBBERSON STREET (GOZZARD -> GUNGAHLIN)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 June 2012, 16:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -133,7 +133,7 @@ var markers = {
                 "time": "11:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 26 April 2014 Time: 11:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> TELOPEA/WENTWORTH/EASTLAKE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 26 April 2014, 11:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -153,7 +153,7 @@ var markers = {
                 "time": "16:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 27 April 2012 Time: 16:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MACARTHUR/NORTHBOURNE/WAKEFIELD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 April 2012, 16:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -173,7 +173,7 @@ var markers = {
                 "time": "17:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 05 February 2014 Time: 17:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> TORRENS STREET (BALLUMBIR/COOYONG -> ELOUERA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 February 2014, 17:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -193,7 +193,7 @@ var markers = {
                 "time": "05:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 03 February 2012 Time: 05:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> STONEHAVEN/MELBOURNE/GOWRIE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 February 2012, 05:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -213,7 +213,7 @@ var markers = {
                 "time": "13:50"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 14 June 2014 Time: 13:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> LAMBERT/WATTLE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 June 2014, 13:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -233,7 +233,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 04 November 2013 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CHALLIS STREET (MORPHETT -> CAPE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 November 2013, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -253,7 +253,7 @@ var markers = {
                 "time": "16:30"
             }, 
             "properties": {
-                "description": "Struck pedestrian (On Road) Date: 03 September 2014 Time: 16:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck pedestrian (On Road)<br><strong>Location:</strong> COLLEGE/KIRINARI INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 September 2014, 16:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -273,7 +273,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 07 August 2014 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MURDOCH/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 August 2014, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -293,7 +293,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 12 September 2012 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COTTER/SWALLOWTAIL INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 September 2012, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -313,7 +313,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 22 October 2014 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> LISTER CRESCENT (DRAKE -> CORROBOREE)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 22 October 2014, 08:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -333,7 +333,7 @@ var markers = {
                 "time": "16:38"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 29 October 2013 Time: 16:38", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CATCHPOLE/FULTON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 29 October 2013, 16:38</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -353,7 +353,7 @@ var markers = {
                 "time": "07:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 06 February 2013 Time: 07:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ANZAC/BLAMEY/CURRONG INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 06 February 2013, 07:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -373,7 +373,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 08 August 2014 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> PERTH/STATE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 August 2014, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -393,7 +393,7 @@ var markers = {
                 "time": "16:05"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 March 2013 Time: 16:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MOLONGLO/NEWCASTLE/WOLLONGONG INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 March 2013, 16:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -413,7 +413,7 @@ var markers = {
                 "time": "19:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 January 2012 Time: 19:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BALDWIN/GINNINDERRA/HAYDON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 January 2012, 19:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -433,7 +433,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 13 October 2014 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> KNOWLES/LONDON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 October 2014, 17:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -453,7 +453,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 March 2014 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CLUNIES ROSS/DICKSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 March 2014, 08:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -473,7 +473,7 @@ var markers = {
                 "time": "12:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 26 September 2013 Time: 12:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CHISHOLM/DONALDSON/LIMESTONE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 September 2013, 12:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -493,7 +493,7 @@ var markers = {
                 "time": "07:25"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 August 2013 Time: 07:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> STEPHEN/TYSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 August 2013, 07:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -513,7 +513,7 @@ var markers = {
                 "time": "08:25"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 27 November 2014 Time: 08:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ALBANY/COLLIE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 27 November 2014, 08:25</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -533,7 +533,7 @@ var markers = {
                 "time": "06:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 May 2013 Time: 06:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> NULLARBOR AV/PINNACLES ST INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 23 May 2013, 06:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -553,7 +553,7 @@ var markers = {
                 "time": "10:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 17 January 2015 Time: 10:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ELOUERA/GOULD/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 17 January 2015, 10:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -573,7 +573,7 @@ var markers = {
                 "time": "08:35"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 21 December 2012 Time: 08:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> PATERSON STREET (CHAFFEY/CORROBOREE -> FOVEAUX)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 December 2012, 08:35</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -593,7 +593,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 20 March 2014 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BARRINE DRIVE (ALBERT ST -> COMMONWEALTH AV)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 March 2014, 08:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -613,7 +613,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 07 March 2012 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> NORTHBOURNE AVENUE (BUNDA/RUDD -> BARRY/COOYONG)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 March 2012, 16:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -633,7 +633,7 @@ var markers = {
                 "time": "15:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 21 February 2014 Time: 15:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CHALLIS STREET (MORPHETT -> CAPE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 February 2014, 15:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -653,7 +653,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 December 2014 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CAPTAIN COOK/HOVELL INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 15 December 2014, 08:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -673,7 +673,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 28 August 2013 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (ELOUERA/GOULD -> GIRRAHWEEN/MASSON)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 August 2013, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -693,7 +693,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 August 2014 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BATTYE/BRAYBROOKE/PURDIE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 August 2014, 18:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -713,7 +713,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 March 2012 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> STATE/SYDNEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 March 2012, 17:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -733,7 +733,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 05 January 2015 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> BELCONNEN WAY (GUNGAHLIN DR -> BARRY DR)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 January 2015, 08:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -753,7 +753,7 @@ var markers = {
                 "time": "15:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 29 April 2014 Time: 15:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ATHLLON/DRAKEFORD/ISABELLA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 29 April 2014, 15:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -773,7 +773,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road) Date: 10 September 2012 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other -  Single Vehicle (On Road)<br><strong>Location:</strong> ANTILL/FEDERAL INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 September 2012, 08:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -793,7 +793,7 @@ var markers = {
                 "time": "17:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 November 2013 Time: 17:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARTON/GUNDAROO/WILLIAM SLIM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 November 2013, 17:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -813,7 +813,7 @@ var markers = {
                 "time": "14:25"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 14 January 2014 Time: 14:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MOORE/RUDD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 14 January 2014, 14:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -833,7 +833,7 @@ var markers = {
                 "time": "19:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 31 May 2012 Time: 19:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BOLDREWOOD/RIDLEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 31 May 2012, 19:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -853,7 +853,7 @@ var markers = {
                 "time": "18:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 13 May 2013 Time: 18:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COOYONG/LONSDALE/GENGE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 May 2013, 18:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -873,7 +873,7 @@ var markers = {
                 "time": "14:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 May 2015 Time: 14:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GORDON/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 May 2015, 14:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -893,7 +893,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 03 April 2012 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> LONDON CIRCUIT (EDINBURGH -> COMMNLONDWRM)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 April 2012, 08:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -913,7 +913,7 @@ var markers = {
                 "time": "15:45"
             }, 
             "properties": {
-                "description": "Struck pedestrian (On Road) Date: 28 April 2014 Time: 15:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck pedestrian (On Road)<br><strong>Location:</strong> NORTHBOURNE AVENUE (BUNDA/RUDD -> BARRY/COOYONG)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 28 April 2014, 15:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -933,7 +933,7 @@ var markers = {
                 "time": "08:35"
             }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road) Date: 24 July 2012 Time: 08:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other -  Single Vehicle (On Road)<br><strong>Location:</strong> HOPETOUN/MACGREGOR INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 July 2012, 08:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -953,7 +953,7 @@ var markers = {
                 "time": "15:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 17 March 2013 Time: 15:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ANTILL/MOUAT/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 17 March 2013, 15:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -973,7 +973,7 @@ var markers = {
                 "time": "06:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 May 2013 Time: 06:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COBBY/TRELOAR INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 May 2013, 06:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -993,7 +993,7 @@ var markers = {
                 "time": "11:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 22 May 2014 Time: 11:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ATKINS/LIVINGSTON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 22 May 2014, 11:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1013,7 +1013,7 @@ var markers = {
                 "time": "16:13"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 27 March 2013 Time: 16:13", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DALEY ROAD (DICKSON -> SULLIVANS)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 27 March 2013, 16:13</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1033,7 +1033,7 @@ var markers = {
                 "time": "17:55"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 17 October 2012 Time: 17:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BLACKMAN/LOCHBUY (SW) INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 October 2012, 17:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1053,7 +1053,7 @@ var markers = {
                 "time": "15:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 07 May 2013 Time: 15:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ATHLLON/DRAKEFORD/ISABELLA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 May 2013, 15:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1073,7 +1073,7 @@ var markers = {
                 "time": "07:47"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 10 February 2015 Time: 07:47", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BUNDA STREET (MORT -> NORTHBOURNE/RUDD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 February 2015, 07:47</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1093,7 +1093,7 @@ var markers = {
                 "time": "17:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 04 June 2013 Time: 17:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> LA PEROUSE/MUGGA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 June 2013, 17:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1113,7 +1113,7 @@ var markers = {
                 "time": "17:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 13 November 2012 Time: 17:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ELOUERA STREET (GOULD/NORTHBOURNE -> MORT)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 November 2012, 17:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1133,7 +1133,7 @@ var markers = {
                 "time": "07:30"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 05 October 2012 Time: 07:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> LEXCEN/NORTHAM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 October 2012, 07:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1153,7 +1153,7 @@ var markers = {
                 "time": "23:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 25 May 2015 Time: 23:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COOYONG/CORANDERRK INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 25 May 2015, 23:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1173,7 +1173,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 18 March 2014 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NATIONAL CIRCUIT (BLIGH -> KINGS/QUEEN VICTORIA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 March 2014, 08:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1193,7 +1193,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 March 2013 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> KINGSFORD SMITH/KREFFT INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 March 2013, 18:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1213,7 +1213,7 @@ var markers = {
                 "time": "09:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 24 May 2012 Time: 09:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BELCONNEN/BINDUBI/EASTERN VALLEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 24 May 2012, 09:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1233,7 +1233,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 25 May 2015 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MAJURA/OFFICER INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 25 May 2015, 09:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1253,7 +1253,7 @@ var markers = {
                 "time": "13:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 21 June 2012 Time: 13:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ALLAMBEE/DOONKUNA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 June 2012, 13:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1273,7 +1273,7 @@ var markers = {
                 "time": "11:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 27 September 2012 Time: 11:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MASSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 27 September 2012, 11:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1293,7 +1293,7 @@ var markers = {
                 "time": "05:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 06 January 2014 Time: 05:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DRAKEFORD/NOOROOMA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 January 2014, 05:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1313,7 +1313,7 @@ var markers = {
                 "time": "13:05"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 11 May 2012 Time: 13:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> CORONATION/FORSTER INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 May 2012, 13:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1333,7 +1333,7 @@ var markers = {
                 "time": "17:26"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 26 June 2012 Time: 17:26", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> CANBERRA/EYRE/LEFROY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 June 2012, 17:26</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1353,7 +1353,7 @@ var markers = {
                 "time": "18:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 28 July 2013 Time: 18:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COWPER/SHERBROOKE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 July 2013, 18:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1373,7 +1373,7 @@ var markers = {
                 "time": "12:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 06 October 2013 Time: 12:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ANTILL/MELBA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 October 2013, 12:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1393,7 +1393,7 @@ var markers = {
                 "time": "17:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 05 February 2015 Time: 17:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> LIMESTONE AVENUE (HENTY -> HARGRAVES)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 February 2015, 17:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1413,7 +1413,7 @@ var markers = {
                 "time": "18:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 14 June 2013 Time: 18:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CANBERRA/EMPIRE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 June 2013, 18:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1433,7 +1433,7 @@ var markers = {
                 "time": "16:00"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 11 December 2014 Time: 16:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> IRVING/SPOERING INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 December 2014, 16:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1453,7 +1453,7 @@ var markers = {
                 "time": "07:30"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 17 February 2014 Time: 07:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> CANBERRA/MANUKA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 February 2014, 07:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1473,7 +1473,7 @@ var markers = {
                 "time": "09:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 06 January 2012 Time: 09:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> LHOTSKY/TOWNSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 January 2012, 09:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1493,7 +1493,7 @@ var markers = {
                 "time": "09:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 02 March 2015 Time: 09:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (ELOUERA/GOULD -> GIRRAHWEEN/MASSON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 March 2015, 09:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1513,7 +1513,7 @@ var markers = {
                 "time": "08:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 27 August 2012 Time: 08:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DONALDSON/DOONKUNA/ELOUERA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 August 2012, 08:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1533,7 +1533,7 @@ var markers = {
                 "time": "07:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 March 2015 Time: 07:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> STONEHAVEN/MELBOURNE/GOWRIE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 March 2015, 07:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1553,7 +1553,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 19 February 2013 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> MACARTHUR/NORTHBOURNE/WAKEFIELD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 February 2013, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1573,7 +1573,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 01 August 2013 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARRY/WATSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 August 2013, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1593,7 +1593,7 @@ var markers = {
                 "time": "19:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 02 December 2014 Time: 19:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> EMU BANK (BENJAMIN -> SOUNDY/VERYARD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 December 2014, 19:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1613,7 +1613,7 @@ var markers = {
                 "time": "17:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 02 November 2013 Time: 17:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BEETALOO/HAWKER (SW) INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 02 November 2013, 17:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1633,7 +1633,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 27 August 2014 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY DRIVE (BARRNDRYASRM -> CLUNIES ROSS/FROGGATT)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 27 August 2014, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1653,7 +1653,7 @@ var markers = {
                 "time": "15:40"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 10 September 2013 Time: 15:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BUNDA STREET (MURULLA -> MORT)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 September 2013, 15:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1673,7 +1673,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 17 September 2014 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ELOUERA/GOULD/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 September 2014, 09:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1693,7 +1693,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 08 July 2013 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CAPTAIN COOK/CARNEGIE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 July 2013, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1713,7 +1713,7 @@ var markers = {
                 "time": "08:55"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 28 August 2014 Time: 08:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (CONDAMINE/IPIMA -> MACARTHUR/WAKEFIELD)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 August 2014, 08:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1733,7 +1733,7 @@ var markers = {
                 "time": "17:55"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 11 April 2012 Time: 17:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> JEANNE YOUNG/WILLIAM WEBB INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 April 2012, 17:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1753,7 +1753,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 January 2015 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MASSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 19 January 2015, 18:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1773,7 +1773,7 @@ var markers = {
                 "time": "14:55"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 05 December 2013 Time: 14:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MAPLETON AV/WIMMERA ST INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 December 2013, 14:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1793,7 +1793,7 @@ var markers = {
                 "time": "17:35"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 October 2013 Time: 17:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CANBERRA/MANUKA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 October 2013, 17:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1813,7 +1813,7 @@ var markers = {
                 "time": "18:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 06 May 2013 Time: 18:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DAVID/MACARTHUR/WATTLE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 May 2013, 18:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1833,7 +1833,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 19 November 2014 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> GEEVES/TILLYARD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 November 2014, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1853,7 +1853,7 @@ var markers = {
                 "time": "12:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 March 2015 Time: 12:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DIXON/MULLEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 March 2015, 12:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1873,7 +1873,7 @@ var markers = {
                 "time": "17:45"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 07 June 2012 Time: 17:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> BARRY/COOYONG/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 June 2012, 17:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1893,7 +1893,7 @@ var markers = {
                 "time": "11:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 29 March 2013 Time: 11:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> NORTHBOURNE AVENUE (ALINGA -> BUNDA/RUDD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 29 March 2013, 11:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1913,7 +1913,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 22 May 2015 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (ALINGA -> BUNDA/RUDD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 May 2015, 17:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1933,7 +1933,7 @@ var markers = {
                 "time": "18:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 01 February 2012 Time: 18:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MELROSE/THEODORE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 February 2012, 18:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1953,7 +1953,7 @@ var markers = {
                 "time": "09:15"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 21 November 2014 Time: 09:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> LONSDALE STREET (GIRRAHWEEN -> ELOUERA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 November 2014, 09:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1973,7 +1973,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 28 April 2015 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> BLAMEY/BORELLA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 April 2015, 08:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1993,7 +1993,7 @@ var markers = {
                 "time": "15:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 30 June 2012 Time: 15:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ANTILL/PHILLIP INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 June 2012, 15:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2013,7 +2013,7 @@ var markers = {
                 "time": "18:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 02 September 2014 Time: 18:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MOORE/McKAY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 September 2014, 18:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2033,7 +2033,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 10 September 2013 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARRITT/BODDINGTON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 September 2013, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2053,7 +2053,7 @@ var markers = {
                 "time": "05:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 24 February 2012 Time: 05:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MOORE/RUDD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 February 2012, 05:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2073,7 +2073,7 @@ var markers = {
                 "time": "07:04"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 06 October 2012 Time: 07:04", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ERINDALE/STERNBERG INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 06 October 2012, 07:04</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2093,7 +2093,7 @@ var markers = {
                 "time": "20:26"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 17 April 2012 Time: 20:26", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BONYTHON/GALE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 17 April 2012, 20:26</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2113,7 +2113,7 @@ var markers = {
                 "time": "09:20"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 09 September 2013 Time: 09:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> ANTILL/ROSEVEAR INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 09 September 2013, 09:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2133,7 +2133,7 @@ var markers = {
                 "time": "10:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 28 June 2012 Time: 10:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> NORTHBOURNE AVENUE (ELOUERA/GOULD -> GIRRAHWEEN/MASSON)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 June 2012, 10:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2153,7 +2153,7 @@ var markers = {
                 "time": "18:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 07 May 2013 Time: 18:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BOLDREWOOD/RIDLEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 May 2013, 18:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2173,7 +2173,7 @@ var markers = {
                 "time": "07:20"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 29 November 2012 Time: 07:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> BARTON HIGHWAY (RANDWICK -> ELLEWBARTNRM)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 29 November 2012, 07:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2193,7 +2193,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 15 October 2014 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CHALLIS STREET (MORPHETT -> CAPE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 October 2014, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2213,7 +2213,7 @@ var markers = {
                 "time": "07:12"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 15 April 2015 Time: 07:12", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> BALDWIN DRIVE (GUM -> GUM ACCESS DRIVEWAY)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 15 April 2015, 07:12</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2233,7 +2233,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 21 October 2013 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> MORT STREET (ALINGA/CITY/EAST -> BUNDA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 October 2013, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2253,7 +2253,7 @@ var markers = {
                 "time": "08:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 21 January 2014 Time: 08:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CARRUTHERS/MCCULLOCH/STRANGWAYS INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 January 2014, 08:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2273,7 +2273,7 @@ var markers = {
                 "time": "08:38"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 21 February 2015 Time: 08:38", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COTTER/LADY DENMAN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 February 2015, 08:38</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2293,7 +2293,7 @@ var markers = {
                 "time": "17:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 26 November 2012 Time: 17:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> YAMBA DRIVE (JUSTINIAN -> KITCHENER)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 November 2012, 17:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2313,7 +2313,7 @@ var markers = {
                 "time": "11:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 09 September 2012 Time: 11:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MASSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 09 September 2012, 11:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2333,7 +2333,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 02 December 2013 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> NORTHBOURNE AVENUE (GREENWAY -> CONDAMINE/IPIMA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 02 December 2013, 08:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2353,7 +2353,7 @@ var markers = {
                 "time": "21:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 06 February 2015 Time: 21:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MOORE/RUDD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 February 2015, 21:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2373,7 +2373,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 02 March 2014 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> CRESWELL STREET (CONSTITUTION -> GETTING)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 02 March 2014, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2393,7 +2393,7 @@ var markers = {
                 "time": "07:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 December 2014 Time: 07:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MAITLAND/MILLS INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 December 2014, 07:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2413,7 +2413,7 @@ var markers = {
                 "time": "05:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 10 May 2013 Time: 05:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FINCHAM/STERNBERG INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 May 2013, 05:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2433,7 +2433,7 @@ var markers = {
                 "time": "18:24"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 December 2014 Time: 18:24", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ANKETELL/COWLISHAW INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 December 2014, 18:24</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2453,7 +2453,7 @@ var markers = {
                 "time": "10:30"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 18 January 2014 Time: 10:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> NORTHBOURNE AVENUE (McKAY -> ELOUERA/GOULD)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 January 2014, 10:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2473,7 +2473,7 @@ var markers = {
                 "time": "12:00"
             }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road) Date: 04 April 2012 Time: 12:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other -  Single Vehicle (On Road)<br><strong>Location:</strong> COMMONWEALTH AVENUE (LONDWCOMMSRM -> COMMNLONDWRM).M.END_29052012<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 April 2012, 12:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2493,7 +2493,7 @@ var markers = {
                 "time": "07:10"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 12 September 2013 Time: 07:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> GINNINDERRA DRIVE (WILLIAM WEBB -> COULTER)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 September 2013, 07:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2513,7 +2513,7 @@ var markers = {
                 "time": "07:00"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 18 June 2014 Time: 07:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> MONARO HIGHWAY (MONANNEWCWRM -> MONANCANBWRM)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 June 2014, 07:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2533,7 +2533,7 @@ var markers = {
                 "time": "09:10"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 15 February 2012 Time: 09:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> BONNEY/COWPER/FOVEAUX INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 15 February 2012, 09:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2553,7 +2553,7 @@ var markers = {
                 "time": "07:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 07 January 2013 Time: 07:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> TORRENS STREET (HENTY -> HELEMON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 January 2013, 07:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2573,7 +2573,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 28 October 2013 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HOVEA/MACARTHUR INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 October 2013, 08:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2593,7 +2593,7 @@ var markers = {
                 "time": "08:53"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 21 November 2012 Time: 08:53", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> NORTHBOURNE/SWINDEN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 November 2012, 08:53</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2613,7 +2613,7 @@ var markers = {
                 "time": "22:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 16 August 2014 Time: 22:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COWPER/DICKSON SHOPS ACCESS INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 August 2014, 22:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2633,7 +2633,7 @@ var markers = {
                 "time": "07:50"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 15 January 2015 Time: 07:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (McKAY -> ELOUERA/GOULD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 January 2015, 07:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2653,7 +2653,7 @@ var markers = {
                 "time": "09:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 20 March 2012 Time: 09:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (McKAY -> ELOUERA/GOULD)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 March 2012, 09:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2673,7 +2673,7 @@ var markers = {
                 "time": "01:05"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 21 April 2014 Time: 01:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> ALINGA/CITY/EAST/MORT INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 April 2014, 01:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2693,7 +2693,7 @@ var markers = {
                 "time": "15:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 24 February 2015 Time: 15:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MONARO CRESCENT (FLINDERS -> GOLDEN)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 February 2015, 15:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2713,7 +2713,7 @@ var markers = {
                 "time": "06:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 16 May 2014 Time: 06:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MELBOURNE/STATE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 May 2014, 06:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2733,7 +2733,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 08 January 2014 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> PERTH/STATE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 January 2014, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2753,7 +2753,7 @@ var markers = {
                 "time": "17:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 16 October 2013 Time: 17:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARTON/GUNDAROO/WILLIAM SLIM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 October 2013, 17:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2773,7 +2773,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 08 April 2015 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BENNELONG CRESCENT (ERSKINE -> ELIZABETH)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 April 2015, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2793,7 +2793,7 @@ var markers = {
                 "time": "07:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 20 June 2014 Time: 07:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BUNBURY/NAMATJIRA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 June 2014, 07:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2813,7 +2813,7 @@ var markers = {
                 "time": "19:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 27 April 2013 Time: 19:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CAMPBELL/COX INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 27 April 2013, 19:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2833,7 +2833,7 @@ var markers = {
                 "time": "07:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 February 2013 Time: 07:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MENINDEE/MORSHEAD/RUSSELL INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 February 2013, 07:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2853,7 +2853,7 @@ var markers = {
                 "time": "16:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 25 March 2013 Time: 16:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ATHLLON/LEARMONTH INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 25 March 2013, 16:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2873,7 +2873,7 @@ var markers = {
                 "time": "16:40"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 04 February 2013 Time: 16:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MOORE STREET (GOULD -> MASSON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 February 2013, 16:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2893,7 +2893,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 01 September 2014 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARRY/COOYONG/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 September 2014, 08:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2913,7 +2913,7 @@ var markers = {
                 "time": "18:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 26 April 2012 Time: 18:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CURRIE/MANUKA/NEW SOUTH WALES/TELOPEA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 26 April 2012, 18:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2933,7 +2933,7 @@ var markers = {
                 "time": "17:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 28 August 2013 Time: 17:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> EMU BANK (BENJAMIN -> SOUNDY/VERYARD)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 August 2013, 17:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2953,7 +2953,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 04 July 2012 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> FORBES STREET (TOWNS -> CONDAMINE)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 July 2012, 18:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2973,7 +2973,7 @@ var markers = {
                 "time": "08:05"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 17 February 2015 Time: 08:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> LIMESTONE AVENUE (ELDER -> FARRER)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 17 February 2015, 08:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2993,7 +2993,7 @@ var markers = {
                 "time": "05:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 07 April 2014 Time: 05:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MELROSE DRIVE (HINDMARSH -> BREWER)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 April 2014, 05:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3013,7 +3013,7 @@ var markers = {
                 "time": "14:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 June 2014 Time: 14:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ANTHONY ROLFE//BOREHAM/BOON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 June 2014, 14:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3033,7 +3033,7 @@ var markers = {
                 "time": "11:55"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 March 2012 Time: 11:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CORANDERRK STREET (CONSTITUTION -> AMAROO)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 March 2012, 11:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3053,7 +3053,7 @@ var markers = {
                 "time": "14:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 05 July 2013 Time: 14:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> MACARTHUR/NORTHBOURNE/WAKEFIELD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 July 2013, 14:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3073,7 +3073,7 @@ var markers = {
                 "time": "18:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 02 May 2013 Time: 18:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MASSON/WATSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 May 2013, 18:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3093,7 +3093,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 19 November 2013 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> FURZER/WORGAN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 November 2013, 08:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3113,7 +3113,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Struck pedestrian (On Road) Date: 14 May 2015 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck pedestrian (On Road)<br><strong>Location:</strong> NATIONAL CIRCUIT (BLIGH -> KINGS/QUEEN VICTORIA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 May 2015, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3133,7 +3133,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 24 January 2013 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> LONDON CIRCUIT (EDINBURGH -> COMMNLONDWRM)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 24 January 2013, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3153,7 +3153,7 @@ var markers = {
                 "time": "18:45"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 28 March 2014 Time: 18:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> CURRAN/TEMPERLEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 March 2014, 18:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3173,7 +3173,7 @@ var markers = {
                 "time": "08:55"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 13 August 2013 Time: 08:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> ALINGA/MOORE/WEST INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 August 2013, 08:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3193,7 +3193,7 @@ var markers = {
                 "time": "19:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 07 May 2014 Time: 19:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BLAMEY/WATT INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 May 2014, 19:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3213,7 +3213,7 @@ var markers = {
                 "time": "12:00"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 14 December 2013 Time: 12:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> DRAKEFORD/JOHNSON/WOODCOCK INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 14 December 2013, 12:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3233,7 +3233,7 @@ var markers = {
                 "time": "17:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 28 June 2013 Time: 17:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DOMINION/MELBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 28 June 2013, 17:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3253,7 +3253,7 @@ var markers = {
                 "time": "18:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 July 2012 Time: 18:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GARTSIDE/MCBRYDE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 July 2012, 18:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3273,7 +3273,7 @@ var markers = {
                 "time": "16:00"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 15 May 2015 Time: 16:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> CHAN/LATHLAIN/WEEDON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 May 2015, 16:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3293,7 +3293,7 @@ var markers = {
                 "time": "16:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 28 October 2012 Time: 16:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> FLYNN DRIVE (KAYE -> KAYE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 28 October 2012, 16:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3313,7 +3313,7 @@ var markers = {
                 "time": "10:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 26 October 2014 Time: 10:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> EAST ROW (ALINGA/CITY/MORT -> LONDON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 October 2014, 10:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3333,7 +3333,7 @@ var markers = {
                 "time": "13:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 26 May 2015 Time: 13:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ATHLLON/DRAKEFORD/ISABELLA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 May 2015, 13:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3353,7 +3353,7 @@ var markers = {
                 "time": "16:36"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 30 January 2012 Time: 16:36", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> EASTY/LAUNCESTON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 January 2012, 16:36</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3373,7 +3373,7 @@ var markers = {
                 "time": "18:10"
             }, 
             "properties": {
-                "description": "Struck object (Off Road) Date: 22 September 2012 Time: 18:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck object (Off Road)<br><strong>Location:</strong> FITZHARDINGE CRESCENT (CALLAGHAN -> READ)<br><strong>Severity:</strong> Fatal<br><strong>Date/time:</strong> 22 September 2012, 18:10</span></p>", 
                 "marker-color": "#2A0A0A", 
                 "marker-size": "large", 
                 "marker-symbol": "cemetery"
@@ -3393,7 +3393,7 @@ var markers = {
                 "time": "07:46"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 December 2012 Time: 07:46", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DAWES/WENTWORTH INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 December 2012, 07:46</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3413,7 +3413,7 @@ var markers = {
                 "time": "09:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 May 2014 Time: 09:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DONALDSON/DOONKUNA/ELOUERA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 19 May 2014, 09:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3433,7 +3433,7 @@ var markers = {
                 "time": "16:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 23 February 2015 Time: 16:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DRAKEFORD/ERINDALE/SOWARD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 February 2015, 16:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3453,7 +3453,7 @@ var markers = {
                 "time": "16:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 17 December 2014 Time: 16:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> LONDON CIRCUIT (KNOWLES -> UNIVERSITY)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 December 2014, 16:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3473,7 +3473,7 @@ var markers = {
                 "time": "08:05"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 08 February 2013 Time: 08:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> CONSTITUTION/NORTHCOTT/SELHEIM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 February 2013, 08:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3493,7 +3493,7 @@ var markers = {
                 "time": "20:17"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 16 February 2015 Time: 20:17", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CONDAMINE/IPIMA/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 February 2015, 20:17</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3513,7 +3513,7 @@ var markers = {
                 "time": "05:50"
             }, 
             "properties": {
-                "description": "Struck object  (On Road) Date: 21 March 2014 Time: 05:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck object  (On Road)<br><strong>Location:</strong> HINDMARSH/LAUNCESTON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 March 2014, 05:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3533,7 +3533,7 @@ var markers = {
                 "time": "20:45"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 18 April 2015 Time: 20:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> NORTHBOURNE AVENUE (ELOUERA/GOULD -> GIRRAHWEEN/MASSON)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 April 2015, 20:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3553,7 +3553,7 @@ var markers = {
                 "time": "06:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 08 July 2014 Time: 06:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GINNINDERRA/WILLIAM SLIM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 08 July 2014, 06:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3573,7 +3573,7 @@ var markers = {
                 "time": "10:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 09 July 2014 Time: 10:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COWPER/TOMS INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 09 July 2014, 10:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3593,7 +3593,7 @@ var markers = {
                 "time": "07:55"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 08 November 2013 Time: 07:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> ASHLEY/STERNBERG INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 08 November 2013, 07:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3613,7 +3613,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 14 November 2014 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BENJAMIN/CHANDLER INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 14 November 2014, 08:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3633,7 +3633,7 @@ var markers = {
                 "time": "18:05"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 04 September 2013 Time: 18:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DOORING/MONCRIEFF INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 September 2013, 18:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3653,7 +3653,7 @@ var markers = {
                 "time": "10:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 20 July 2013 Time: 10:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> LEWIS LUXTON/WOODCOCK (NW) INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 July 2013, 10:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3673,7 +3673,7 @@ var markers = {
                 "time": "17:50"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 16 February 2015 Time: 17:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (ALINGA -> BUNDA/RUDD)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 February 2015, 17:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3693,7 +3693,7 @@ var markers = {
                 "time": "17:25"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 27 April 2015 Time: 17:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FLEMINGTON/LYSAGHT INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 April 2015, 17:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3713,7 +3713,7 @@ var markers = {
                 "time": "10:44"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 30 June 2014 Time: 10:44", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FARRELL/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 30 June 2014, 10:44</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3733,7 +3733,7 @@ var markers = {
                 "time": "13:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 17 June 2013 Time: 13:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BUNDA/NORTHBOURNE/RUDD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 June 2013, 13:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3753,7 +3753,7 @@ var markers = {
                 "time": "15:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 06 December 2012 Time: 15:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> WILBOW STREET (CALLAM/NEPTUNE -> WILBOW)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 December 2012, 15:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3773,7 +3773,7 @@ var markers = {
                 "time": "19:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 13 January 2014 Time: 19:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COLLEGE STREET (EASTERN VALLEY -> WHELAN)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 January 2014, 19:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3793,7 +3793,7 @@ var markers = {
                 "time": "08:20"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 04 September 2013 Time: 08:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> AINSLIE/LIMESTONE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 September 2013, 08:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3813,7 +3813,7 @@ var markers = {
                 "time": "16:49"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 31 October 2014 Time: 16:49", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FLEMINGTON/HIBBERSON/KATE CRACE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 31 October 2014, 16:49</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3833,7 +3833,7 @@ var markers = {
                 "time": "07:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 06 November 2013 Time: 07:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DAVID/MACPHERSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 November 2013, 07:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3853,7 +3853,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 19 March 2015 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> BEISSEL/EMU INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 March 2015, 18:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3873,7 +3873,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 February 2013 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> JARDINE STREET (TELOPEA -> GILES)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 February 2013, 08:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3893,7 +3893,7 @@ var markers = {
                 "time": "08:20"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 03 April 2014 Time: 08:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> COPLAND DRIVE (GINNINDERRA/JOHN CLELAND -> CARLILE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 April 2014, 08:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3913,7 +3913,7 @@ var markers = {
                 "time": "10:00"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 16 April 2012 Time: 10:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> MORT STREET (ELOUERA -> GIRRAHWEEN)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 April 2012, 10:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3933,7 +3933,7 @@ var markers = {
                 "time": "09:10"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 31 March 2015 Time: 09:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> KING GEORGE/LANGTON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 31 March 2015, 09:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3953,7 +3953,7 @@ var markers = {
                 "time": "12:40"
             }, 
             "properties": {
-                "description": "Struck animal (not ridden On Road) Date: 23 June 2013 Time: 12:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck animal (not ridden On Road)<br><strong>Location:</strong> COTTER/EUCUMBENE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 23 June 2013, 12:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3973,7 +3973,7 @@ var markers = {
                 "time": "08:35"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 29 October 2012 Time: 08:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> CHALLIS STREET (CAPE -> ANTILL SRV.RD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 29 October 2012, 08:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3993,7 +3993,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 09 December 2014 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> RUSSELL/VIVIAN BULLWINKEL INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 09 December 2014, 08:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4013,7 +4013,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 30 January 2015 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARRY/MCCAUGHEY/NORTH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 January 2015, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4033,7 +4033,7 @@ var markers = {
                 "time": "18:01"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 07 February 2012 Time: 18:01", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COMMONWEALTH/PARKWCOMMSRM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 February 2012, 18:01</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4053,7 +4053,7 @@ var markers = {
                 "time": "18:25"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 April 2014 Time: 18:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HENTY/IPIMA/LOWANNA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 April 2014, 18:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4073,7 +4073,7 @@ var markers = {
                 "time": "16:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 21 November 2013 Time: 16:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BENJAMIN/CONDELL INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 November 2013, 16:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4093,7 +4093,7 @@ var markers = {
                 "time": "11:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 11 January 2015 Time: 11:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> STONEHAVEN/MELBOURNE/GOWRIE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 January 2015, 11:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4113,7 +4113,7 @@ var markers = {
                 "time": "08:47"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 13 February 2015 Time: 08:47", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> DARWIN/UNIVERSITY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 February 2015, 08:47</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4133,7 +4133,7 @@ var markers = {
                 "time": "13:55"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 08 August 2012 Time: 13:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (BARRY/COOYONG -> McKAY)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 August 2012, 13:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4153,7 +4153,7 @@ var markers = {
                 "time": "13:10"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 02 January 2013 Time: 13:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> MORT STREET (ELOUERA -> GIRRAHWEEN)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 January 2013, 13:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4173,7 +4173,7 @@ var markers = {
                 "time": "15:47"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 28 December 2012 Time: 15:47", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MELROSE DRIVE (PARRAMATTA -> EGGLESTON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 28 December 2012, 15:47</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4193,7 +4193,7 @@ var markers = {
                 "time": "06:58"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 November 2014 Time: 06:58", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HEARD/MAWSON (SW) INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 November 2014, 06:58</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4213,7 +4213,7 @@ var markers = {
                 "time": "11:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 28 December 2012 Time: 11:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MELROSE/THEODORE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 December 2012, 11:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4233,7 +4233,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 21 June 2012 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> BLAMEY/BLAMEY PL INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 June 2012, 08:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4253,7 +4253,7 @@ var markers = {
                 "time": "16:20"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 11 April 2012 Time: 16:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BUNDA/NORTHBOURNE/RUDD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 April 2012, 16:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4273,7 +4273,7 @@ var markers = {
                 "time": "08:39"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 26 November 2014 Time: 08:39", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MORPHETT/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 26 November 2014, 08:39</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4293,7 +4293,7 @@ var markers = {
                 "time": "13:05"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 26 July 2012 Time: 13:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COOYONG/BOOLEE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 26 July 2012, 13:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4313,7 +4313,7 @@ var markers = {
                 "time": "07:56"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 26 September 2013 Time: 07:56", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GARRAN/LIVERSIDGE/McCOY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 September 2013, 07:56</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4333,7 +4333,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 24 March 2013 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> AINSWORTH/HINDMARSH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 March 2013, 17:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4353,7 +4353,7 @@ var markers = {
                 "time": "16:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 02 February 2014 Time: 16:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BATTYE/BRAYBROOKE/PURDIE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 February 2014, 16:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4373,7 +4373,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 28 January 2014 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CHILDERS STREET (HUTTON -> ALLSOP)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 January 2014, 16:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4393,7 +4393,7 @@ var markers = {
                 "time": "07:55"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 31 July 2013 Time: 07:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> HORSE PARK/KATHERINE (SW) INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 31 July 2013, 07:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4413,7 +4413,7 @@ var markers = {
                 "time": "16:43"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 13 April 2012 Time: 16:43", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> CORINNA/MELROSE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 13 April 2012, 16:43</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4433,7 +4433,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 11 May 2012 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> HUTTON STREET (CHILDERS -> KINGSLEY)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 May 2012, 17:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4453,7 +4453,7 @@ var markers = {
                 "time": "12:55"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 January 2012 Time: 12:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> LAUNCESTON/YAMBA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 January 2012, 12:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4473,7 +4473,7 @@ var markers = {
                 "time": "07:55"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 March 2012 Time: 07:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CAPTAIN COOK/CARNEGIE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 March 2012, 07:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4493,7 +4493,7 @@ var markers = {
                 "time": "14:55"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 April 2013 Time: 14:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CHALLIS STREET (MORPHETT -> CAPE)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 April 2013, 14:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4513,7 +4513,7 @@ var markers = {
                 "time": "14:15"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 04 June 2014 Time: 14:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> BOLDREWOOD STREET (RIDLEY -> FROGGATT)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 June 2014, 14:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4533,7 +4533,7 @@ var markers = {
                 "time": "17:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 December 2014 Time: 17:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BREMER/CAPTAIN COOK INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 December 2014, 17:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4553,7 +4553,7 @@ var markers = {
                 "time": "16:35"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 April 2014 Time: 16:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ELDER/LIMESTONE/HIGGINS INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 April 2014, 16:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4573,7 +4573,7 @@ var markers = {
                 "time": "07:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 November 2013 Time: 07:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MORPHETT/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 November 2013, 07:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4593,7 +4593,7 @@ var markers = {
                 "time": "14:05"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 13 May 2014 Time: 14:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BENJAMIN/SWANSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 May 2014, 14:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4613,7 +4613,7 @@ var markers = {
                 "time": "17:50"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 21 August 2014 Time: 17:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> GLENLOCH 24/GLENLOCH 25/GLENLOCH 27 INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 August 2014, 17:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4633,7 +4633,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 16 July 2014 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HOBART/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 July 2014, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4653,7 +4653,7 @@ var markers = {
                 "time": "07:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 April 2013 Time: 07:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> EUREE/LIMESTONE/TRELOAR INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 April 2013, 07:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4673,7 +4673,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 16 January 2015 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> FARRELL/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 January 2015, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4693,7 +4693,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 30 October 2012 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARTON/GOLD CREEK INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 October 2012, 16:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4713,7 +4713,7 @@ var markers = {
                 "time": "09:30"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 07 January 2015 Time: 09:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> BLACK MOUNTAIN DRIVE (CLUNIES ROSS -> BLACK MOUNTAIN)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 January 2015, 09:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4733,7 +4733,7 @@ var markers = {
                 "time": "13:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 07 February 2012 Time: 13:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ELLENBOROUGH/GINNINDERRA/MOUAT/RIGGALL INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 February 2012, 13:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4753,7 +4753,7 @@ var markers = {
                 "time": "18:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 26 July 2013 Time: 18:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (ALINGA -> BUNDA/RUDD)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 26 July 2013, 18:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4773,7 +4773,7 @@ var markers = {
                 "time": "08:35"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 01 May 2013 Time: 08:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> ADELAIDE AVENUE (STATNADELWRM -> NATIONAL)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 01 May 2013, 08:35</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4793,7 +4793,7 @@ var markers = {
                 "time": "14:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 24 September 2013 Time: 14:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> LADY DENMAN DRIVE (BARRENJOEY -> COTTER)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 September 2013, 14:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4813,7 +4813,7 @@ var markers = {
                 "time": "14:20"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 21 April 2013 Time: 14:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> EASTLAKE PDE (WENTWORTH AV -> TREVILLIAN QY)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 April 2013, 14:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4833,7 +4833,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 April 2013 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BERRIGAN/DE BURGH/WATTLE (SW) INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 April 2013, 18:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4853,7 +4853,7 @@ var markers = {
                 "time": "09:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 August 2013 Time: 09:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY/MCCAUGHEY/NORTH INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 August 2013, 09:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4873,7 +4873,7 @@ var markers = {
                 "time": "17:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 06 May 2014 Time: 17:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> KINGSLEY/KINGSLEY/RIMMER INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 May 2014, 17:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4893,7 +4893,7 @@ var markers = {
                 "time": "14:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 14 March 2012 Time: 14:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ATHLLON/DRAKEFORD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 14 March 2012, 14:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4913,7 +4913,7 @@ var markers = {
                 "time": "14:00"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 26 November 2014 Time: 14:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> MATARANKA STREET (ERLDUNDA -> ELSEY)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 26 November 2014, 14:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4933,7 +4933,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 February 2013 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BOWES/LAUNCESTON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 19 February 2013, 08:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4953,7 +4953,7 @@ var markers = {
                 "time": "07:40"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 22 May 2013 Time: 07:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ATHLLON/BEASLEY/MAWSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 May 2013, 07:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4973,7 +4973,7 @@ var markers = {
                 "time": "17:39"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 27 March 2015 Time: 17:39", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> MOUAT STREET (GOODWIN -> BRIGALOW)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 March 2015, 17:39</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4993,7 +4993,7 @@ var markers = {
                 "time": "06:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 14 July 2012 Time: 06:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ATHLLON/MELROSE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 July 2012, 06:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5013,7 +5013,7 @@ var markers = {
                 "time": "08:07"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 08 August 2013 Time: 08:07", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (McKAY -> ELOUERA/GOULD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 August 2013, 08:07</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5033,7 +5033,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 01 February 2013 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GOSSE/WENTWORTH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 February 2013, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5053,7 +5053,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 16 January 2014 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MOORE STREET (GOULD -> MASSON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 January 2014, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5073,7 +5073,7 @@ var markers = {
                 "time": "17:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 16 January 2015 Time: 17:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> LEICHHARDT/MILDURA/WENTWORTH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 January 2015, 17:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5093,7 +5093,7 @@ var markers = {
                 "time": "18:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 03 July 2012 Time: 18:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DRAKEFORD/SULWOOD/TUGGERANONG INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 July 2012, 18:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5113,7 +5113,7 @@ var markers = {
                 "time": "08:35"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 April 2014 Time: 08:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GOULD/MOORE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 April 2014, 08:35</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5133,7 +5133,7 @@ var markers = {
                 "time": "12:30"
             }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road) Date: 09 May 2013 Time: 12:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other -  Single Vehicle (On Road)<br><strong>Location:</strong> BALDWIN/GINNINDERRA/HAYDON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 09 May 2013, 12:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5153,7 +5153,7 @@ var markers = {
                 "time": "07:55"
             }, 
             "properties": {
-                "description": "Struck pedestrian (On Road) Date: 07 May 2014 Time: 07:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck pedestrian (On Road)<br><strong>Location:</strong> RED HILL DRIVE (GOWRIE -> RED HILL)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 May 2014, 07:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5173,7 +5173,7 @@ var markers = {
                 "time": "15:55"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 31 July 2014 Time: 15:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DALEY ROAD (DICKSON -> SULLIVANS)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 31 July 2014, 15:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5193,7 +5193,7 @@ var markers = {
                 "time": "19:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 January 2015 Time: 19:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MOYES/STANBURY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 January 2015, 19:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5213,7 +5213,7 @@ var markers = {
                 "time": "16:37"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 18 March 2014 Time: 16:37", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> YARRA GLEN (CARRWYARRSRM -> MELRYARRRA/YARRYAMBRA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 March 2014, 16:37</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5233,7 +5233,7 @@ var markers = {
                 "time": "17:15"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 19 March 2015 Time: 17:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> GINNINDERRA DRIVE (BRAYBROOKE -> BALDWIN/HAYDON)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 19 March 2015, 17:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5253,7 +5253,7 @@ var markers = {
                 "time": "12:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 04 February 2015 Time: 12:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> FLEMINGTON/MORISSET/SANDFORD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 February 2015, 12:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5273,7 +5273,7 @@ var markers = {
                 "time": "17:55"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 27 April 2015 Time: 17:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 April 2015, 17:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5293,7 +5293,7 @@ var markers = {
                 "time": "14:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 May 2015 Time: 14:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MCEWAN AVENUE (RAILWAY -> HAZEL)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 May 2015, 14:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5313,7 +5313,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 26 June 2014 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COTTER ROAD (DUNROSSIL -> ADELWCOTTWRM/COTTEADELERM/DUDLEY)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 June 2014, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5333,7 +5333,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 10 April 2014 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MONARO/PELSART INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 April 2014, 08:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5353,7 +5353,7 @@ var markers = {
                 "time": "12:30"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 21 July 2012 Time: 12:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> FLEMINGTON/HIBBERSON/KATE CRACE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 July 2012, 12:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5373,7 +5373,7 @@ var markers = {
                 "time": "14:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 July 2014 Time: 14:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> NEWCASTLE/IRON KNOB INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 July 2014, 14:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5393,7 +5393,7 @@ var markers = {
                 "time": "12:55"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 08 January 2015 Time: 12:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> TASMANIA CIRCLE (DAMPIER -> TASMANIA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 January 2015, 12:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5413,7 +5413,7 @@ var markers = {
                 "time": "15:25"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 16 October 2013 Time: 15:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HORSE PARK/GUNDAROO/DAVID WALSH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 October 2013, 15:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5433,7 +5433,7 @@ var markers = {
                 "time": "14:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 12 September 2014 Time: 14:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CHISHOLM/DONALDSON/LIMESTONE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 12 September 2014, 14:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5453,7 +5453,7 @@ var markers = {
                 "time": "09:05"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 19 March 2015 Time: 09:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (ELOUERA/GOULD -> GIRRAHWEEN/MASSON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 March 2015, 09:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5473,7 +5473,7 @@ var markers = {
                 "time": "09:05"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 01 July 2014 Time: 09:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FAUNCE/MILLER INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 01 July 2014, 09:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5493,7 +5493,7 @@ var markers = {
                 "time": "14:10"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 27 September 2013 Time: 14:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> CONNAH/JOHN CLELAND INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 September 2013, 14:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5513,7 +5513,7 @@ var markers = {
                 "time": "16:55"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 February 2013 Time: 16:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> SULLIVANS/FELLOWS INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 February 2013, 16:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5533,7 +5533,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 20 December 2012 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ANTILL STREET (HAWDON -> ROSEVEAR)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 December 2012, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5553,7 +5553,7 @@ var markers = {
                 "time": "19:01"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 14 May 2012 Time: 19:01", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COMMNSTATERM/COMMONWEALTH INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 May 2012, 19:01</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5573,7 +5573,7 @@ var markers = {
                 "time": "17:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 16 June 2014 Time: 17:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COOYONG/DONALDSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 June 2014, 17:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5593,7 +5593,7 @@ var markers = {
                 "time": "08:36"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 16 March 2015 Time: 08:36", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> GUNGAHLIN/KOSCIUSZKO/THE VALLEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 March 2015, 08:36</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5613,7 +5613,7 @@ var markers = {
                 "time": "08:33"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 01 February 2013 Time: 08:33", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DONALDSON/DOONKUNA/ELOUERA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 01 February 2013, 08:33</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5633,7 +5633,7 @@ var markers = {
                 "time": "17:25"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 01 June 2012 Time: 17:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BUNDA/MORT INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 June 2012, 17:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5653,7 +5653,7 @@ var markers = {
                 "time": "12:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 27 February 2015 Time: 12:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COTTER/SWALLOWTAIL INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 27 February 2015, 12:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5673,7 +5673,7 @@ var markers = {
                 "time": "18:30"
             }, 
             "properties": {
-                "description": "Head on collision Date: 29 November 2013 Time: 18:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Head on collision<br><strong>Location:</strong> AMBALINDUM STREET (GOODPARLA -> MARRAKAI) (SW)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 29 November 2013, 18:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5693,7 +5693,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 22 February 2012 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> ADELAIDE AVENUE (EMPIRE -> ADELWHOPESRM)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 22 February 2012, 08:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5713,7 +5713,7 @@ var markers = {
                 "time": "11:30"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 12 May 2012 Time: 11:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> ADELAIDE AVENUE (COTTEADELERM -> YARRA GLEN)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 12 May 2012, 11:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5733,7 +5733,7 @@ var markers = {
                 "time": "17:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 17 May 2015 Time: 17:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> CANBERRA/STATE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 17 May 2015, 17:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5753,7 +5753,7 @@ var markers = {
                 "time": "09:40"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 22 November 2014 Time: 09:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HORSEPARK/WHITROD/BURRUMARRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 November 2014, 09:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5773,7 +5773,7 @@ var markers = {
                 "time": "06:08"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 04 September 2012 Time: 06:08", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> CANBERRA/HINDMARSH/NEWCASTLE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 September 2012, 06:08</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5793,7 +5793,7 @@ var markers = {
                 "time": "17:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 December 2013 Time: 17:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MACARTHUR/NORTHBOURNE/WAKEFIELD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 December 2013, 17:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5813,7 +5813,7 @@ var markers = {
                 "time": "09:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 23 March 2012 Time: 09:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BARRY/COOYONG/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 March 2012, 09:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5833,7 +5833,7 @@ var markers = {
                 "time": "08:55"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 21 March 2014 Time: 08:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CONDAMINE/FORBES INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 March 2014, 08:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5853,7 +5853,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 17 September 2014 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (CONDAMINE/IPIMA -> MACARTHUR/WAKEFIELD)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 September 2014, 08:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5873,7 +5873,7 @@ var markers = {
                 "time": "16:25"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 10 September 2013 Time: 16:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY/COOYONG/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 September 2013, 16:25</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5893,7 +5893,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Struck pedestrian (On Road) Date: 16 April 2014 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck pedestrian (On Road)<br><strong>Location:</strong> NORTHBOURNE AVENUE (VERNON -> LONDON)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 April 2014, 17:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5913,7 +5913,7 @@ var markers = {
                 "time": "17:52"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 January 2012 Time: 17:52", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MILFORD STREET (O'LOGHLEN -> O'LOGHLEN)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 January 2012, 17:52</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5933,7 +5933,7 @@ var markers = {
                 "time": "15:35"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 07 June 2012 Time: 15:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MORT STREET (COOYONG -> ELOUERA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 June 2012, 15:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5953,7 +5953,7 @@ var markers = {
                 "time": "07:52"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 08 May 2013 Time: 07:52", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ALLARA STREET (BINARA/CITY -> NANGARI)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 May 2013, 07:52</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5973,7 +5973,7 @@ var markers = {
                 "time": "18:43"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 04 September 2012 Time: 18:43", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MANNING CLARK CR/OODGEROO AV/ALICE CRIST ST INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 September 2012, 18:43</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5993,7 +5993,7 @@ var markers = {
                 "time": "16:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 March 2015 Time: 16:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> EDINBURGH/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 13 March 2015, 16:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6013,7 +6013,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 17 September 2014 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> GUNGAHLIN/KOSCIUSZKO/THE VALLEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 17 September 2014, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6033,7 +6033,7 @@ var markers = {
                 "time": "16:25"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 28 July 2013 Time: 16:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> REDFERN STREET (BOWMAN -> BINDEL/BINDUBI)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 28 July 2013, 16:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6053,7 +6053,7 @@ var markers = {
                 "time": "09:05"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 04 September 2012 Time: 09:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> FURZER/LAUNCESTON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 September 2012, 09:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6073,7 +6073,7 @@ var markers = {
                 "time": "16:03"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 12 September 2014 Time: 16:03", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> YARRA GLEN/YARRNCARRWRM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 12 September 2014, 16:03</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6093,7 +6093,7 @@ var markers = {
                 "time": "14:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 March 2012 Time: 14:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GARRYOWEN DRIVE (LADY DENMAN -> RUSTY ROBERTSON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 March 2012, 14:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6113,7 +6113,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 24 August 2012 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> REDFERN/TEMPLETON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 August 2012, 17:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6133,7 +6133,7 @@ var markers = {
                 "time": "12:01"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 February 2015 Time: 12:01", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 February 2015, 12:01</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6153,7 +6153,7 @@ var markers = {
                 "time": "14:11"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 January 2012 Time: 14:11", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> TORRENS STREET (IPIMA -> IJONG)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 January 2012, 14:11</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6173,7 +6173,7 @@ var markers = {
                 "time": "10:30"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 12 April 2015 Time: 10:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> BARTON HIGHWAY (GOLD CREEK -> CURRAN)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 12 April 2015, 10:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6193,7 +6193,7 @@ var markers = {
                 "time": "06:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 April 2012 Time: 06:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> NORMAN LINDSAY/THARWA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 April 2012, 06:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6213,7 +6213,7 @@ var markers = {
                 "time": "10:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 31 May 2015 Time: 10:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARTON/GOLD CREEK INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 31 May 2015, 10:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6233,7 +6233,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 12 August 2012 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> NOVAR/SCHLICH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 August 2012, 16:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6253,7 +6253,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 24 May 2012 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> REDFERN STREET (BOWMAN -> BINDEL/BINDUBI)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 May 2012, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6273,7 +6273,7 @@ var markers = {
                 "time": "07:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 30 May 2014 Time: 07:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> FLYNN/STATE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 30 May 2014, 07:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6293,7 +6293,7 @@ var markers = {
                 "time": "09:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 March 2015 Time: 09:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MELROSE/THEODORE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 March 2015, 09:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6313,7 +6313,7 @@ var markers = {
                 "time": "17:25"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 06 May 2015 Time: 17:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FLINDERS/MONARO INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 06 May 2015, 17:25</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6333,7 +6333,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 07 August 2013 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DAVID STREET (HAY -> SARGOOD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 August 2013, 08:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6353,7 +6353,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 15 April 2015 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BRIGALOW STREET (HALL -> WATTLE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 April 2015, 16:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6373,7 +6373,7 @@ var markers = {
                 "time": "16:40"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 01 May 2013 Time: 16:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BENJAMIN/SWANSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 May 2013, 16:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6393,7 +6393,7 @@ var markers = {
                 "time": "18:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 04 July 2013 Time: 18:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FLINDERS/MUGGA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 July 2013, 18:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6413,7 +6413,7 @@ var markers = {
                 "time": "18:05"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 17 April 2012 Time: 18:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BEASLEY/WILKINS INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 17 April 2012, 18:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6433,7 +6433,7 @@ var markers = {
                 "time": "10:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 04 September 2014 Time: 10:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> FELLOWS ROAD (SULLIVANS CREEK -> EAST)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 September 2014, 10:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6453,7 +6453,7 @@ var markers = {
                 "time": "18:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 11 February 2014 Time: 18:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> AINSLIE/DOONKUNA INTERSECTION<br><strong>Severity:</strong> Fatal<br><strong>Date/time:</strong> 11 February 2014, 18:20</span></p>", 
                 "marker-color": "#2A0A0A", 
                 "marker-size": "large", 
                 "marker-symbol": "cemetery"
@@ -6473,7 +6473,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 20 June 2013 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> HINDMARSH DRIVE (MELROSE -> EGGLESTON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 June 2013, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6493,7 +6493,7 @@ var markers = {
                 "time": "15:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 02 April 2015 Time: 15:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> FLEMINGTON/MAPLETON/MANNING CLARK INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 April 2015, 15:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6513,7 +6513,7 @@ var markers = {
                 "time": "08:23"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 28 November 2014 Time: 08:23", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BELCONNEN/HAYDON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 November 2014, 08:23</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6533,7 +6533,7 @@ var markers = {
                 "time": "18:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 November 2013 Time: 18:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MACARTHUR/MACPHERSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 November 2013, 18:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6553,7 +6553,7 @@ var markers = {
                 "time": "10:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 27 May 2014 Time: 10:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> GUNGAHLIN/KOSCIUSZKO INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 May 2014, 10:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6573,7 +6573,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 05 May 2013 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> BELCONNEN/BINDUBI/EASTERN VALLEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 May 2013, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6593,7 +6593,7 @@ var markers = {
                 "time": "10:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 24 April 2014 Time: 10:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BARRIER/NEWCASTLE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 April 2014, 10:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6613,7 +6613,7 @@ var markers = {
                 "time": "18:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 10 April 2012 Time: 18:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BADHAM STREET (WOOLLEY -> DICKSON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 April 2012, 18:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6633,7 +6633,7 @@ var markers = {
                 "time": "15:45"
             }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road) Date: 16 January 2015 Time: 15:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other -  Single Vehicle (On Road)<br><strong>Location:</strong> CHIRNSIDE/CHIRNSIDE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 January 2015, 15:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6653,7 +6653,7 @@ var markers = {
                 "time": "08:56"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 03 December 2013 Time: 08:56", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ALPEN STREET (CLIFFORD -> BADDELEY)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 December 2013, 08:56</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6673,7 +6673,7 @@ var markers = {
                 "time": "17:03"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 March 2012 Time: 17:03", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DOORING/MONCRIEFF INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 March 2012, 17:03</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6693,7 +6693,7 @@ var markers = {
                 "time": "09:07"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 24 August 2012 Time: 09:07", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> SANDFORD STREET (GUNGAHLIN -> HOSKINS)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 24 August 2012, 09:07</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6713,7 +6713,7 @@ var markers = {
                 "time": "07:00"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 18 November 2013 Time: 07:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> MELROSE DRIVE (PARRAMATTA -> EGGLESTON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 November 2013, 07:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6733,7 +6733,7 @@ var markers = {
                 "time": "17:28"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 22 May 2012 Time: 17:28", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BUNDA/NORTHBOURNE/RUDD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 22 May 2012, 17:28</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6753,7 +6753,7 @@ var markers = {
                 "time": "17:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 12 May 2014 Time: 17:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ANTHONY ROLFE AVENUE (GUNDAROO/MIRRABEI -> GUNDAROO)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 May 2014, 17:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6773,7 +6773,7 @@ var markers = {
                 "time": "06:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 09 January 2012 Time: 06:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> EGGLESTON/MELROSE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 09 January 2012, 06:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6793,7 +6793,7 @@ var markers = {
                 "time": "16:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 July 2014 Time: 16:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> FINDLAY/KINGSFORD SMITH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 July 2014, 16:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6813,7 +6813,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 04 July 2013 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> MORT STREET (COOYONG -> ELOUERA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 July 2013, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6833,7 +6833,7 @@ var markers = {
                 "time": "14:25"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 24 April 2015 Time: 14:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MORPHETT/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 24 April 2015, 14:25</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6853,7 +6853,7 @@ var markers = {
                 "time": "17:13"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 25 May 2012 Time: 17:13", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> KINGSLEY STREET (HUTTON -> KINGSLEY)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 25 May 2012, 17:13</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6873,7 +6873,7 @@ var markers = {
                 "time": "13:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 November 2014 Time: 13:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COTTER/MCCULLOCH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 November 2014, 13:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6893,7 +6893,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 28 November 2012 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> WORGAN STREET (FURZER -> BOWES)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 28 November 2012, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6913,7 +6913,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 15 May 2012 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> HAYDON/JAEGER INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 May 2012, 17:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6933,7 +6933,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 11 April 2013 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> FARRELL/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 April 2013, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6953,7 +6953,7 @@ var markers = {
                 "time": "07:55"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 01 April 2015 Time: 07:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> MORT STREET (COOYONG -> ELOUERA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 April 2015, 07:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6973,7 +6973,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 09 April 2013 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MUELLER/WESTON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 09 April 2013, 18:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6993,7 +6993,7 @@ var markers = {
                 "time": "09:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 27 July 2014 Time: 09:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> LYTTLETON/REDFERN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 July 2014, 09:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7013,7 +7013,7 @@ var markers = {
                 "time": "17:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 06 November 2013 Time: 17:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BARRY/COOYONG/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 06 November 2013, 17:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7033,7 +7033,7 @@ var markers = {
                 "time": "16:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 January 2015 Time: 16:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> NEWMAN-MORRIS/NUNAN (SW) INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 19 January 2015, 16:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7053,7 +7053,7 @@ var markers = {
                 "time": "16:55"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 10 September 2013 Time: 16:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MACARTHUR/NORTHBOURNE/WAKEFIELD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 September 2013, 16:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7073,7 +7073,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 23 August 2014 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CANBERRA AVENUE (DOMINION -> EMPIRE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 August 2014, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7093,7 +7093,7 @@ var markers = {
                 "time": "13:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 07 October 2013 Time: 13:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ANTHONY ROLFE//BOREHAM/BOON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 October 2013, 13:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7113,7 +7113,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 November 2012 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ADELWKENTSRM/KENT INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 November 2012, 18:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7133,7 +7133,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 07 August 2014 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> WAKEFIELD AVENUE (EBDEN -> O'CONNELL)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 August 2014, 08:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7153,7 +7153,7 @@ var markers = {
                 "time": "08:16"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 October 2012 Time: 08:16", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MASSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 23 October 2012, 08:16</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7173,7 +7173,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 15 February 2012 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CARRUTHERS STREET (THROSSELL -> AYERS)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 15 February 2012, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7193,7 +7193,7 @@ var markers = {
                 "time": "19:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 10 April 2014 Time: 19:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HINDMARSH/JERRABOMBERRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 April 2014, 19:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7213,7 +7213,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 18 December 2013 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ANKETELL/ATHLLON (SW) INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 December 2013, 08:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7233,7 +7233,7 @@ var markers = {
                 "time": "18:25"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 29 July 2013 Time: 18:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> TENISON - WOODS CIRCUIT (BROOKER -> TENISON-WOODS)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 29 July 2013, 18:25</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7253,7 +7253,7 @@ var markers = {
                 "time": "18:22"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 26 May 2014 Time: 18:22", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ELOUERA/GOULD/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 May 2014, 18:22</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7273,7 +7273,7 @@ var markers = {
                 "time": "19:00"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 12 November 2014 Time: 19:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> EASTLAKE PDE (TREVILLIAN QY -> GILES ST)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 12 November 2014, 19:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7293,7 +7293,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Struck pedestrian (Off Road) Date: 17 April 2013 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck pedestrian (Off Road)<br><strong>Location:</strong> BELCONNEN WAY (SPRINGVALE -> SHUMACK)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 April 2013, 18:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7313,7 +7313,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 07 February 2014 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> HODGSON/MELROSE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 February 2014, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7333,7 +7333,7 @@ var markers = {
                 "time": "18:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 March 2015 Time: 18:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> EDINBURGH/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 March 2015, 18:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7353,7 +7353,7 @@ var markers = {
                 "time": "21:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 June 2013 Time: 21:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ASPINALL/KNOX/STIRLING INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 June 2013, 21:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7373,7 +7373,7 @@ var markers = {
                 "time": "16:38"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 November 2014 Time: 16:38", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MACKENNAL/MILLER/WATTLE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 November 2014, 16:38</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7393,7 +7393,7 @@ var markers = {
                 "time": "17:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 20 May 2015 Time: 17:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CHISHOLM/EBDEN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 May 2015, 17:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7413,7 +7413,7 @@ var markers = {
                 "time": "16:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 27 October 2012 Time: 16:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BRAYBROOKE/MASTERMAN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 27 October 2012, 16:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7433,7 +7433,7 @@ var markers = {
                 "time": "18:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 01 April 2015 Time: 18:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MARCUS CLARKE/UNIVERSITY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 April 2015, 18:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7453,7 +7453,7 @@ var markers = {
                 "time": "08:05"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 18 October 2012 Time: 08:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ALINGA/MOORE/WEST INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 October 2012, 08:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7473,7 +7473,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 04 June 2013 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COBBY/TRELOAR INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 June 2013, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7493,7 +7493,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 06 May 2015 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> MONARO CRESCENT (FLINDERS -> GOLDEN)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 06 May 2015, 08:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7513,7 +7513,7 @@ var markers = {
                 "time": "13:00"
             }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road) Date: 04 April 2012 Time: 13:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other -  Single Vehicle (On Road)<br><strong>Location:</strong> DUMAS/WILLIAM WEBB INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 April 2012, 13:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7533,7 +7533,7 @@ var markers = {
                 "time": "09:20"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 02 May 2013 Time: 09:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> LONDON CIRCUIT (EDINBURGH -> COMMNLONDWRM)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 02 May 2013, 09:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7553,7 +7553,7 @@ var markers = {
                 "time": "09:18"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 28 March 2013 Time: 09:18", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HOVEA/MACARTHUR INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 March 2013, 09:18</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7573,7 +7573,7 @@ var markers = {
                 "time": "05:45"
             }, 
             "properties": {
-                "description": "Head on collision Date: 04 November 2014 Time: 05:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Head on collision<br><strong>Location:</strong> BARTON HIGHWAY (BELLENDEN -> GUNDAROO/WILLIAM SLIM)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 November 2014, 05:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7593,7 +7593,7 @@ var markers = {
                 "time": "08:35"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 September 2012 Time: 08:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COWPER/IPIMA/LIMESTONE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 September 2012, 08:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7613,7 +7613,7 @@ var markers = {
                 "time": "06:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 March 2015 Time: 06:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> LONDON/WEST INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 March 2015, 06:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7633,7 +7633,7 @@ var markers = {
                 "time": "12:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 27 August 2012 Time: 12:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> KINGSFORD SMITH/SOUTHERN CROSS INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 August 2012, 12:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7653,7 +7653,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 27 June 2012 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MUGGA WAY (TORRES -> VANCOUVER)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 June 2012, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7673,7 +7673,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 21 November 2014 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BEATTIE/HEMMINGS INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 November 2014, 08:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7693,7 +7693,7 @@ var markers = {
                 "time": "18:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 September 2013 Time: 18:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COWPER/DICKSON SHOPS ACCESS INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 September 2013, 18:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7713,7 +7713,7 @@ var markers = {
                 "time": "17:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 01 August 2014 Time: 17:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> NOVAR/SCHLICH INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 01 August 2014, 17:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7733,7 +7733,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 29 May 2013 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> LONSDALE STREET (GIRRAHWEEN -> ELOUERA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 29 May 2013, 08:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7753,7 +7753,7 @@ var markers = {
                 "time": "10:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 28 May 2012 Time: 10:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DE BURGH STREET (DE BURGH -> MURDOCH)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 May 2012, 10:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7773,7 +7773,7 @@ var markers = {
                 "time": "15:48"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 February 2015 Time: 15:48", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ROSE/WINTER INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 15 February 2015, 15:48</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7793,7 +7793,7 @@ var markers = {
                 "time": "19:50"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 16 December 2014 Time: 19:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> CAPTAIN COOK CRESCENT (MURRAY/STUART -> FRANKLIN)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 December 2014, 19:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7813,7 +7813,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 28 May 2013 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MACARTHUR/NORTHBOURNE/WAKEFIELD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 28 May 2013, 08:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7833,7 +7833,7 @@ var markers = {
                 "time": "16:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 13 May 2015 Time: 16:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ATHLLON/SULWOOD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 May 2015, 16:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7853,7 +7853,7 @@ var markers = {
                 "time": "08:48"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 02 October 2014 Time: 08:48", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BELCONNEN/BELCWGUNGS RAMP/GUNGSBELCERM RAMP INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 02 October 2014, 08:48</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7873,7 +7873,7 @@ var markers = {
                 "time": "06:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 November 2014 Time: 06:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HOOKER STREET (MUELLER -> NOVAR)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 November 2014, 06:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7893,7 +7893,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 20 May 2013 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (GREENWAY -> CONDAMINE/IPIMA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 May 2013, 08:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7913,7 +7913,7 @@ var markers = {
                 "time": "08:35"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 08 April 2014 Time: 08:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FAIRBAIRN/ROBERT CAMPBELL INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 April 2014, 08:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7933,7 +7933,7 @@ var markers = {
                 "time": "09:15"
             }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road) Date: 18 January 2015 Time: 09:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other -  Single Vehicle (On Road)<br><strong>Location:</strong> PARKES WAY ( ANZAC -> PARKEKINGERM RAMP)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 January 2015, 09:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7953,7 +7953,7 @@ var markers = {
                 "time": "08:35"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 13 April 2015 Time: 08:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BUNDA STREET (GENGE -> MURULLA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 April 2015, 08:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7973,7 +7973,7 @@ var markers = {
                 "time": "08:05"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 10 May 2012 Time: 08:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MELROSE/THEODORE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 May 2012, 08:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7993,7 +7993,7 @@ var markers = {
                 "time": "20:28"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 09 January 2014 Time: 20:28", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> COOYONG/TORRENS INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 09 January 2014, 20:28</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8013,7 +8013,7 @@ var markers = {
                 "time": "17:25"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 27 February 2013 Time: 17:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DE BURGH STREET (BERRIGAN/WATTLE -> OWEN)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 February 2013, 17:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8033,7 +8033,7 @@ var markers = {
                 "time": "09:40"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 14 December 2014 Time: 09:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HINDETUGGNRM/HINDMARSH/TUGGNHINDWRM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 14 December 2014, 09:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8053,7 +8053,7 @@ var markers = {
                 "time": "08:58"
             }, 
             "properties": {
-                "description": "Struck pedestrian (On Road) Date: 23 January 2013 Time: 08:58", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck pedestrian (On Road)<br><strong>Location:</strong> ALINGA/CITY/EAST/MORT INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 23 January 2013, 08:58</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8073,7 +8073,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 21 October 2013 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> FLOREY/OSBURN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 October 2013, 08:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8093,7 +8093,7 @@ var markers = {
                 "time": "07:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 December 2014 Time: 07:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COWPER/WAKEFIELD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 December 2014, 07:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8113,7 +8113,7 @@ var markers = {
                 "time": "17:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 10 March 2015 Time: 17:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MORPHETT/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 March 2015, 17:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8133,7 +8133,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 23 October 2012 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> LAUNCESTON STREET (DENNES -> BURNIE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 October 2012, 16:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8153,7 +8153,7 @@ var markers = {
                 "time": "13:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 26 March 2015 Time: 13:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> LANGDON AVENUE (LONGMORE -> BRUNTON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 March 2015, 13:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8173,7 +8173,7 @@ var markers = {
                 "time": "08:44"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 22 February 2013 Time: 08:44", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ATHLLON/MELROSE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 February 2013, 08:44</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8193,7 +8193,7 @@ var markers = {
                 "time": "11:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 24 February 2013 Time: 11:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MASSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 24 February 2013, 11:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8213,7 +8213,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 27 August 2012 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> ALLARA STREET (NANGARI -> CONSTITUTION)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 27 August 2012, 18:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8233,7 +8233,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 02 November 2012 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MORPHETT/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 02 November 2012, 08:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8253,7 +8253,7 @@ var markers = {
                 "time": "12:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 09 June 2015 Time: 12:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COWPER/DICKSON SHOPS ACCESS INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 09 June 2015, 12:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8273,7 +8273,7 @@ var markers = {
                 "time": "17:55"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 14 May 2014 Time: 17:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GOYDER/JERRABOMBERRA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 May 2014, 17:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8293,7 +8293,7 @@ var markers = {
                 "time": "15:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 23 February 2015 Time: 15:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CONSTITUTION/CORANDERRK INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 23 February 2015, 15:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8313,7 +8313,7 @@ var markers = {
                 "time": "07:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 19 March 2012 Time: 07:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CONSTITUTION AVENUE (ALLARA -> CORANDERRK)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 March 2012, 07:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8333,7 +8333,7 @@ var markers = {
                 "time": "12:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 02 July 2014 Time: 12:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MACPHERSON/MOORHOUSE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 July 2014, 12:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8353,7 +8353,7 @@ var markers = {
                 "time": "16:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 February 2013 Time: 16:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ELLENBOROUGH/GINNINDERRA/MOUAT/RIGGALL INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 February 2013, 16:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8373,7 +8373,7 @@ var markers = {
                 "time": "11:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 30 June 2014 Time: 11:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HINDMARSH/HINDWTUGGSRM/TUGGSHINDERM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 June 2014, 11:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8393,7 +8393,7 @@ var markers = {
                 "time": "16:15"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 11 January 2014 Time: 16:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> POINT HUT ROAD (FRESHFORD -> JIM PIKE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 January 2014, 16:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8413,7 +8413,7 @@ var markers = {
                 "time": "11:23"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 16 June 2013 Time: 11:23", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> RUSSELL/VIVIAN BULLWINKEL INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 June 2013, 11:23</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8433,7 +8433,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 24 December 2013 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> LEICHHARDT/MILDURA/WENTWORTH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 December 2013, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8453,7 +8453,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 06 March 2014 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> EGGLESTON/GARRAN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 March 2014, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8473,7 +8473,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 08 December 2014 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (CONDAMINE/IPIMA -> MACARTHUR/WAKEFIELD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 December 2014, 08:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8493,7 +8493,7 @@ var markers = {
                 "time": "14:50"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 22 December 2014 Time: 14:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> COOYONG/MORT INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 22 December 2014, 14:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8513,7 +8513,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 July 2012 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ISABELLA DRIVE (ASHLEY -> COCKCROFT)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 July 2012, 08:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8533,7 +8533,7 @@ var markers = {
                 "time": "13:30"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 08 October 2013 Time: 13:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> CONSTITUTION/LONDON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 October 2013, 13:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8553,7 +8553,7 @@ var markers = {
                 "time": "09:12"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 17 October 2013 Time: 09:12", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CHILDERS STREET (RUDD -> HUTTON)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 October 2013, 09:12</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8573,7 +8573,7 @@ var markers = {
                 "time": "13:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 May 2014 Time: 13:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BOX/CHARTERISVILLE/HEIDELBERG (NE) INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 May 2014, 13:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8593,7 +8593,7 @@ var markers = {
                 "time": "21:26"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 08 February 2012 Time: 21:26", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> AINSWORTH/POWER INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 08 February 2012, 21:26</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8613,7 +8613,7 @@ var markers = {
                 "time": "17:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 August 2014 Time: 17:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> GIRRAHWEEN/MASSON/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 August 2014, 17:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8633,7 +8633,7 @@ var markers = {
                 "time": "15:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 10 February 2012 Time: 15:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ATHLLON/BEASLEY (SW) INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 February 2012, 15:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8653,7 +8653,7 @@ var markers = {
                 "time": "13:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 29 October 2013 Time: 13:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ALEXANDRINA/CORONATION/FLYNN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 29 October 2013, 13:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8673,7 +8673,7 @@ var markers = {
                 "time": "08:05"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 24 September 2013 Time: 08:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BARRY/MCCAUGHEY/NORTH INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 24 September 2013, 08:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8693,7 +8693,7 @@ var markers = {
                 "time": "15:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 02 November 2012 Time: 15:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> KATHERINE/MARRETT INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 November 2012, 15:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8713,7 +8713,7 @@ var markers = {
                 "time": "08:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 02 April 2014 Time: 08:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GORDON/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 02 April 2014, 08:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8733,7 +8733,7 @@ var markers = {
                 "time": "19:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 14 October 2013 Time: 19:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GARRAN/LIVERSIDGE/McCOY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 14 October 2013, 19:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8753,7 +8753,7 @@ var markers = {
                 "time": "07:48"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 04 February 2013 Time: 07:48", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> HINDMARSH/WILLIAMSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 February 2013, 07:48</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8773,7 +8773,7 @@ var markers = {
                 "time": "09:30"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 14 May 2012 Time: 09:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> MACPHERSON STREET (LILLEY -> TATE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 14 May 2012, 09:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8793,7 +8793,7 @@ var markers = {
                 "time": "17:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 12 November 2012 Time: 17:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CONDAMINE/FORBES INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 November 2012, 17:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8813,7 +8813,7 @@ var markers = {
                 "time": "14:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 06 January 2014 Time: 14:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> MELROSE DRIVE (BOTANY -> HINDMARSH)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 January 2014, 14:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8833,7 +8833,7 @@ var markers = {
                 "time": "14:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 14 June 2013 Time: 14:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> NORTHBOURNE AVENUE (ELOUERA/GOULD -> GIRRAHWEEN/MASSON)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 June 2013, 14:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8853,7 +8853,7 @@ var markers = {
                 "time": "12:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 30 August 2012 Time: 12:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BELCONNEN WAY (GUNGAHLIN DR -> BARRY DR)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 30 August 2012, 12:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8873,7 +8873,7 @@ var markers = {
                 "time": "17:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 August 2012 Time: 17:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARRY/MOORE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 August 2012, 17:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8893,7 +8893,7 @@ var markers = {
                 "time": "07:43"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 25 September 2012 Time: 07:43", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> DRAKEFORD/HURTLE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 25 September 2012, 07:43</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8913,7 +8913,7 @@ var markers = {
                 "time": "19:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 10 May 2013 Time: 19:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> NORTHBOURNE AVENUE (SWINDEN -> BARTON/FEDERAL)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 May 2013, 19:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8933,7 +8933,7 @@ var markers = {
                 "time": "07:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 07 March 2012 Time: 07:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FINCHAM/WHEELER INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 March 2012, 07:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8953,7 +8953,7 @@ var markers = {
                 "time": "15:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 July 2012 Time: 15:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HANNAFORD/PAGE/PETTERD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 23 July 2012, 15:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8973,7 +8973,7 @@ var markers = {
                 "time": "16:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 16 March 2012 Time: 16:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY DRIVE (MCCAUGHEY/NORTH -> KINGSLEY)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 March 2012, 16:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8993,7 +8993,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 03 September 2012 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MORPHETT/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 September 2012, 08:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9013,7 +9013,7 @@ var markers = {
                 "time": "12:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 06 November 2012 Time: 12:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ALEXANDRINA/CORONATION/FLYNN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 06 November 2012, 12:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9033,7 +9033,7 @@ var markers = {
                 "time": "08:55"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 08 September 2013 Time: 08:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> NORTHBOURNE AVENUE (ALINGA -> BUNDA/RUDD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 September 2013, 08:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9053,7 +9053,7 @@ var markers = {
                 "time": "08:35"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 20 June 2014 Time: 08:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GORDON/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 June 2014, 08:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9073,7 +9073,7 @@ var markers = {
                 "time": "17:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 21 March 2012 Time: 17:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HAYDON/UNIVERSITY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 March 2012, 17:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9093,7 +9093,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 22 August 2013 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CAPTAIN COOK/HOVELL INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 August 2013, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9113,7 +9113,7 @@ var markers = {
                 "time": "16:35"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 15 January 2014 Time: 16:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ELLENBOROUGH/GINNINDERRA/MOUAT/RIGGALL INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 January 2014, 16:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9133,7 +9133,7 @@ var markers = {
                 "time": "14:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 04 May 2015 Time: 14:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> SULLIVANS CREEK ROAD (NORTH -> FELLOWS/SULLIVANS)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 May 2015, 14:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9153,7 +9153,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 20 November 2013 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (BARRY/COOYONG -> McKAY)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 November 2013, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9173,7 +9173,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 26 November 2014 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> MOUAT STREET (ANTILL/NORTHBOURNE -> GOODWIN)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 26 November 2014, 16:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9193,7 +9193,7 @@ var markers = {
                 "time": "17:25"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 12 September 2012 Time: 17:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (ALINGA -> BUNDA/RUDD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 September 2012, 17:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9213,7 +9213,7 @@ var markers = {
                 "time": "07:42"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 26 June 2012 Time: 07:42", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COTTER ROAD (KIRKPATRICK -> COTTETUGGNRM/TUGGNCOTTWRM)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 June 2012, 07:42</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9233,7 +9233,7 @@ var markers = {
                 "time": "15:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 November 2012 Time: 15:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> FLOREY/HAYWARD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 November 2012, 15:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9253,7 +9253,7 @@ var markers = {
                 "time": "08:18"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 11 November 2012 Time: 08:18", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> MACARTHUR/NORTHBOURNE/WAKEFIELD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 November 2012, 08:18</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9273,7 +9273,7 @@ var markers = {
                 "time": "10:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 August 2014 Time: 10:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CARLILE/COPLAND INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 August 2014, 10:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9293,7 +9293,7 @@ var markers = {
                 "time": "12:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 16 December 2013 Time: 12:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> GINNINDERRA/WILLIAM SLIM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 December 2013, 12:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9313,7 +9313,7 @@ var markers = {
                 "time": "18:55"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 March 2014 Time: 18:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BEASLEY STREET (LAMBRIGG -> ATHLLON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 March 2014, 18:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9333,7 +9333,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 05 July 2013 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> GIRRAHWEEN/GRIMES/LIMESTONE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 July 2013, 16:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9353,7 +9353,7 @@ var markers = {
                 "time": "15:00"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 17 February 2012 Time: 15:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> MIRRABEI/PAUL COE/SHOALHAVEN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 February 2012, 15:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9373,7 +9373,7 @@ var markers = {
                 "time": "08:25"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 April 2014 Time: 08:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ALINGA/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 April 2014, 08:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9393,7 +9393,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 08 August 2012 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (MACARTHUR/WAKEFIELD -> MORPHETT)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 August 2012, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9413,7 +9413,7 @@ var markers = {
                 "time": "13:55"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 04 June 2014 Time: 13:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> EBDEN/OFFICER/TYSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 June 2014, 13:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9433,7 +9433,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 16 April 2012 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BEASLEY/LAMBRIGG INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 April 2012, 08:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9453,7 +9453,7 @@ var markers = {
                 "time": "08:20"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 31 October 2012 Time: 08:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> NORTHBOURNE/SWINDEN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 31 October 2012, 08:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9473,7 +9473,7 @@ var markers = {
                 "time": "13:00"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 07 July 2012 Time: 13:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> DONALDSON/DOONKUNA/ELOUERA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 07 July 2012, 13:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9493,7 +9493,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 05 June 2012 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BARRY/MOORE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 June 2012, 09:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9513,7 +9513,7 @@ var markers = {
                 "time": "17:14"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 14 December 2014 Time: 17:14", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> SCOTTS CROSSING (COOYONG -> NARELLAN)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 14 December 2014, 17:14</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9533,7 +9533,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 15 August 2013 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CAPTAIN COOK/FRANKLIN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 15 August 2013, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9553,7 +9553,7 @@ var markers = {
                 "time": "18:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 August 2014 Time: 18:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BONNEY/COWPER/FOVEAUX INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 August 2014, 18:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9573,7 +9573,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 11 March 2015 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> CLUNIES ROSS STREET (DICKSON -> SOUTH)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 March 2015, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9593,7 +9593,7 @@ var markers = {
                 "time": "18:55"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 12 May 2015 Time: 18:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY DRIVE (WATSON -> MARCUS CLARKE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 May 2015, 18:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9613,7 +9613,7 @@ var markers = {
                 "time": "16:05"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 26 March 2015 Time: 16:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BELCONNEN/BINDUBI/EASTERN VALLEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 26 March 2015, 16:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9633,7 +9633,7 @@ var markers = {
                 "time": "06:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 02 October 2014 Time: 06:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY DRIVE (WATSON -> MARCUS CLARKE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 October 2014, 06:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9653,7 +9653,7 @@ var markers = {
                 "time": "16:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 27 April 2015 Time: 16:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> TELOPEA/WENTWORTH/EASTLAKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 April 2015, 16:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9673,7 +9673,7 @@ var markers = {
                 "time": "07:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 09 August 2012 Time: 07:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ELOUERA/TORRENS INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 09 August 2012, 07:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9693,7 +9693,7 @@ var markers = {
                 "time": "15:40"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 12 December 2013 Time: 15:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CHALLIS STREET (CAPE -> ANTILL SRV.RD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 December 2013, 15:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9713,7 +9713,7 @@ var markers = {
                 "time": "16:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 11 September 2014 Time: 16:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HUDDART/LYSAGHT INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 September 2014, 16:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9733,7 +9733,7 @@ var markers = {
                 "time": "07:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 10 July 2014 Time: 07:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COTTER ROAD (MCCULLOCH -> LADY DENMAN)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 July 2014, 07:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9753,7 +9753,7 @@ var markers = {
                 "time": "16:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 30 September 2014 Time: 16:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GOYDER/JERRABOMBERRA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 30 September 2014, 16:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9773,7 +9773,7 @@ var markers = {
                 "time": "16:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 20 September 2013 Time: 16:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CAMERON/CHANDLER INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 September 2013, 16:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9793,7 +9793,7 @@ var markers = {
                 "time": "06:50"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 25 November 2013 Time: 06:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> GINNINDERRA DRIVE (COULTER -> COPLAND/JOHN CLELAND)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 25 November 2013, 06:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9813,7 +9813,7 @@ var markers = {
                 "time": "18:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 22 April 2013 Time: 18:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CHAFFEY/CORROBOREE/PATERSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 April 2013, 18:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9833,7 +9833,7 @@ var markers = {
                 "time": "23:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 14 March 2014 Time: 23:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> LONDON/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 March 2014, 23:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9853,7 +9853,7 @@ var markers = {
                 "time": "17:30"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 04 February 2012 Time: 17:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> BASTOW CIRCUIT (BASTOW -> BASTOW)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 February 2012, 17:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9873,7 +9873,7 @@ var markers = {
                 "time": "08:09"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 13 February 2013 Time: 08:09", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COOYONG/LONSDALE/GENGE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 13 February 2013, 08:09</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9893,7 +9893,7 @@ var markers = {
                 "time": "18:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 June 2013 Time: 18:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> EASTY/LAUNCESTON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 June 2013, 18:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9913,7 +9913,7 @@ var markers = {
                 "time": "07:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 04 May 2012 Time: 07:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BELCONNEN/BENJAMIN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 May 2012, 07:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9933,7 +9933,7 @@ var markers = {
                 "time": "17:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 11 July 2012 Time: 17:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ANTILL/CADELL INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 July 2012, 17:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9953,7 +9953,7 @@ var markers = {
                 "time": "16:36"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 17 October 2012 Time: 16:36", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CANBERRA/EYRE/LEFROY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 October 2012, 16:36</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9973,7 +9973,7 @@ var markers = {
                 "time": "06:40"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 02 February 2015 Time: 06:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> BARTON/GOLD CREEK INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 February 2015, 06:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9993,7 +9993,7 @@ var markers = {
                 "time": "18:19"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 29 November 2012 Time: 18:19", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> LAUNCESTON/YAMBA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 29 November 2012, 18:19</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10013,7 +10013,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 23 January 2013 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BARRY/COOYONG/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 January 2013, 16:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10033,7 +10033,7 @@ var markers = {
                 "time": "09:16"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 01 May 2012 Time: 09:16", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> AUSTIN/BARRALLIER/CAPTAIN COOK INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 01 May 2012, 09:16</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10053,7 +10053,7 @@ var markers = {
                 "time": "19:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 10 April 2014 Time: 19:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MASSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 April 2014, 19:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10073,7 +10073,7 @@ var markers = {
                 "time": "18:05"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 25 February 2014 Time: 18:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (ALINGA -> BUNDA/RUDD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 25 February 2014, 18:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10093,7 +10093,7 @@ var markers = {
                 "time": "20:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 13 February 2014 Time: 20:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BERRIGAN/DE BURGH/WATTLE (SW) INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 February 2014, 20:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10113,7 +10113,7 @@ var markers = {
                 "time": "09:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 31 March 2015 Time: 09:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CONDAMINE/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 31 March 2015, 09:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10133,7 +10133,7 @@ var markers = {
                 "time": "08:43"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 30 April 2012 Time: 08:43", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CHALLIS STREET (MORPHETT -> CAPE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 April 2012, 08:43</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10153,7 +10153,7 @@ var markers = {
                 "time": "17:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 01 September 2014 Time: 17:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FROGGATT/MASSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 September 2014, 17:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10173,7 +10173,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 23 January 2015 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> ADELAIDE/ADELWKENTSRM/NOVASADELERM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 January 2015, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10193,7 +10193,7 @@ var markers = {
                 "time": "09:22"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 24 July 2012 Time: 09:22", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> MELROSE DRIVE (HINDMARSH -> BREWER)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 24 July 2012, 09:22</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10213,7 +10213,7 @@ var markers = {
                 "time": "16:06"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 13 February 2012 Time: 16:06", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> O'HALLORAN CIRCUIT (VANSITTART -> SNODGRASS)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 13 February 2012, 16:06</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10233,7 +10233,7 @@ var markers = {
                 "time": "19:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 25 October 2012 Time: 19:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CITY WALK (ALINGA/EAST/MORT -> GAREMA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 25 October 2012, 19:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10253,7 +10253,7 @@ var markers = {
                 "time": "20:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 May 2015 Time: 20:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COULTER/LACHLAN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 May 2015, 20:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10273,7 +10273,7 @@ var markers = {
                 "time": "18:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 11 January 2012 Time: 18:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ATHLLON/FLORENCE TAYLOR (SW) INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 January 2012, 18:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10293,7 +10293,7 @@ var markers = {
                 "time": "07:35"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 20 October 2014 Time: 07:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> EASTY STREET(GUARDIAN -> SURPRIZE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 October 2014, 07:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10313,7 +10313,7 @@ var markers = {
                 "time": "10:30"
             }, 
             "properties": {
-                "description": "Struck object  (On Road) Date: 15 April 2013 Time: 10:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck object  (On Road)<br><strong>Location:</strong> MCCAUGHEY STREET (MASSON -> BARRY/NORTH)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 April 2013, 10:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10333,7 +10333,7 @@ var markers = {
                 "time": "18:30"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 27 March 2014 Time: 18:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> AINSLIE/LIMESTONE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 March 2014, 18:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10353,7 +10353,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 28 May 2014 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DRAKEFORD/ERINDALE/SOWARD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 May 2014, 09:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10373,7 +10373,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 February 2014 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COWPER/DICKSON SHOPS ACCESS INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 19 February 2014, 08:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10393,7 +10393,7 @@ var markers = {
                 "time": "20:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 10 June 2013 Time: 20:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BARRY/MOORE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 June 2013, 20:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10413,7 +10413,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 04 December 2013 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ALEXANDRINA DRIVE (MARINER -> HOPETOUN)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 December 2013, 08:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10433,7 +10433,7 @@ var markers = {
                 "time": "18:10"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 21 August 2013 Time: 18:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> GOWRIE DRIVE (RED -> GOWRIE)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 August 2013, 18:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10453,7 +10453,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 04 January 2013 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> FEDERAL HIGHWAY (ZELLING -> ANTILL)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 January 2013, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10473,7 +10473,7 @@ var markers = {
                 "time": "14:53"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 31 December 2013 Time: 14:53", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COMMONWEALTH/COMMNPARKWRM RAMP INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 31 December 2013, 14:53</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10493,7 +10493,7 @@ var markers = {
                 "time": "09:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 25 October 2013 Time: 09:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ANTILL/MOUAT/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 25 October 2013, 09:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10513,7 +10513,7 @@ var markers = {
                 "time": "17:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 05 September 2013 Time: 17:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> TELOPEA/WENTWORTH/EASTLAKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 September 2013, 17:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10533,7 +10533,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 07 March 2013 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ELLENBOROUGH/GINNINDERRA/MOUAT/RIGGALL INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 March 2013, 08:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10553,7 +10553,7 @@ var markers = {
                 "time": "17:35"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 13 May 2014 Time: 17:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ADELAIDE/ADELWKENTSRM/NOVASADELERM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 13 May 2014, 17:35</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10573,7 +10573,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 May 2012 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> AUSTIN/BARRALLIER/CAPTAIN COOK INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 May 2012, 18:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10593,7 +10593,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 21 January 2015 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> LACHLAN STREET (ARNDELL -> BENNELONG)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 January 2015, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10613,7 +10613,7 @@ var markers = {
                 "time": "07:55"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 16 October 2013 Time: 07:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> CHALLIS STREET (CAPE -> ANTILL SRV.RD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 October 2013, 07:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10633,7 +10633,7 @@ var markers = {
                 "time": "17:35"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 05 March 2012 Time: 17:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> CONNAH/JOHN CLELAND INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 March 2012, 17:35</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10653,7 +10653,7 @@ var markers = {
                 "time": "15:32"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 01 August 2013 Time: 15:32", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> IPIMA/TORRENS INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 August 2013, 15:32</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10673,7 +10673,7 @@ var markers = {
                 "time": "13:44"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 January 2014 Time: 13:44", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FURNEAUX/MANUKA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 January 2014, 13:44</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10693,7 +10693,7 @@ var markers = {
                 "time": "12:35"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 03 May 2013 Time: 12:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> HINDMARSH/NAMATJIRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 May 2013, 12:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10713,7 +10713,7 @@ var markers = {
                 "time": "07:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 29 April 2013 Time: 07:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BANGALAY/HINDMARSH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 29 April 2013, 07:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10733,7 +10733,7 @@ var markers = {
                 "time": "07:55"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 10 June 2014 Time: 07:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> FLYNN/STATE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 June 2014, 07:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10753,7 +10753,7 @@ var markers = {
                 "time": "16:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 March 2012 Time: 16:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DAVID STREET (HAY -> SARGOOD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 March 2012, 16:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10773,7 +10773,7 @@ var markers = {
                 "time": "10:55"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 26 February 2012 Time: 10:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARTON/GUNDAROO/WILLIAM SLIM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 26 February 2012, 10:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10793,7 +10793,7 @@ var markers = {
                 "time": "05:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 25 February 2013 Time: 05:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CANDLEBARK/GUNDAROO/NUDURR INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 25 February 2013, 05:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10813,7 +10813,7 @@ var markers = {
                 "time": "06:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 December 2013 Time: 06:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FLEMINGTON RD/EVA WEST/MANNING CLARK INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 December 2013, 06:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10833,7 +10833,7 @@ var markers = {
                 "time": "08:05"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 12 August 2013 Time: 08:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HODGSON/MELROSE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 12 August 2013, 08:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10853,7 +10853,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 22 February 2013 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> THARWA DRIVE (NORMAN LINDSAY -> BOX/CORNFORTH)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 22 February 2013, 17:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10873,7 +10873,7 @@ var markers = {
                 "time": "18:35"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 16 June 2014 Time: 18:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COYNE/HAMBIDGE/ISABELLA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 June 2014, 18:35</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10893,7 +10893,7 @@ var markers = {
                 "time": "17:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 05 June 2014 Time: 17:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MORT STREET (ELOUERA -> GIRRAHWEEN)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 June 2014, 17:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10913,7 +10913,7 @@ var markers = {
                 "time": "22:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 16 April 2012 Time: 22:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GIRRAHWEEN/MASSON/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 April 2012, 22:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10933,7 +10933,7 @@ var markers = {
                 "time": "22:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 24 March 2015 Time: 22:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ARTHUR/MORESBY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 March 2015, 22:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10953,7 +10953,7 @@ var markers = {
                 "time": "16:30"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 12 May 2015 Time: 16:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> CONSTITUTION/NORTHCOTT/SELHEIM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 12 May 2015, 16:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10973,7 +10973,7 @@ var markers = {
                 "time": "09:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 March 2015 Time: 09:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COWPER/HOPE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 March 2015, 09:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10993,7 +10993,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 18 February 2015 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> MASSON/WATSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 February 2015, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11013,7 +11013,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 06 May 2015 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BADIMARA STREET (KALGOORLIE -> NEMARANG)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 May 2015, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11033,7 +11033,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 November 2014 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARRY/MOORE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 November 2014, 08:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11053,7 +11053,7 @@ var markers = {
                 "time": "07:26"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 15 January 2013 Time: 07:26", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> PIALLIGO AVENUE (GLENORA -> AIR DISASTER )<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 15 January 2013, 07:26</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11073,7 +11073,7 @@ var markers = {
                 "time": "11:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 21 October 2014 Time: 11:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GOYDER/JERRABOMBERRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 October 2014, 11:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11093,7 +11093,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 May 2013 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DAVID/MACPHERSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 May 2013, 08:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11113,7 +11113,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 10 September 2012 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> EASTY/LAUNCESTON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 September 2012, 18:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11133,7 +11133,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 October 2013 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> KINGS/BOWEN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 October 2013, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11153,7 +11153,7 @@ var markers = {
                 "time": "11:55"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 22 February 2015 Time: 11:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BANDJALONG/BARADA (SW) INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 February 2015, 11:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11173,7 +11173,7 @@ var markers = {
                 "time": "12:25"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 12 October 2013 Time: 12:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> KURINGA DRIVE (OWEN DIXON -> KINGSFORD SMITH)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 October 2013, 12:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11193,7 +11193,7 @@ var markers = {
                 "time": "16:50"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 06 March 2012 Time: 16:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> BENJAMIN/CHANDLER INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 06 March 2012, 16:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11213,7 +11213,7 @@ var markers = {
                 "time": "11:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 June 2013 Time: 11:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> EFKARPIDIS STREET (GOZZARD -> GUNGAHLIN)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 June 2013, 11:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11233,7 +11233,7 @@ var markers = {
                 "time": "15:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 24 September 2013 Time: 15:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COPLAND/VERBRUGGHEN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 September 2013, 15:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11253,7 +11253,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 30 June 2013 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DAMALA/NAMATJIRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 June 2013, 08:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11273,7 +11273,7 @@ var markers = {
                 "time": "13:55"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 12 July 2012 Time: 13:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MADIGAN/PHILLIP INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 12 July 2012, 13:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11293,7 +11293,7 @@ var markers = {
                 "time": "10:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 09 October 2012 Time: 10:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ANTHONY ROLFE/GUNDAROO/MIRRABEI INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 09 October 2012, 10:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11313,7 +11313,7 @@ var markers = {
                 "time": "17:25"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 October 2012 Time: 17:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> KOSCIUSZKO AVENUE (TIPTREE -> TINDERRY)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 October 2012, 17:25</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11333,7 +11333,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 10 October 2013 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> GIRRAHWEEN/GRIMES/LIMESTONE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 October 2013, 08:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11353,7 +11353,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 27 April 2012 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> SHUMACK STREET (WEETANGERA -> SOUTHWELL)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 April 2012, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11373,7 +11373,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 03 December 2013 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> LATHLAIN STREET (WEEDON -> WALES)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 December 2013, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11393,7 +11393,7 @@ var markers = {
                 "time": "07:25"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 November 2013 Time: 07:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DAVID/MACARTHUR/WATTLE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 November 2013, 07:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11413,7 +11413,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 28 February 2013 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> KATHERINE AVENUE (PIONEER  -> MORNINGTON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 28 February 2013, 08:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11433,7 +11433,7 @@ var markers = {
                 "time": "18:58"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 30 March 2015 Time: 18:58", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COLLEGE STREET (EASTERN VALLEY -> WHELAN)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 30 March 2015, 18:58</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11453,7 +11453,7 @@ var markers = {
                 "time": "20:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 November 2013 Time: 20:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GORDON/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 November 2013, 20:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11473,7 +11473,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 05 February 2015 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> NORTHBOURNE/SWINDEN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 February 2015, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11493,7 +11493,7 @@ var markers = {
                 "time": "17:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 17 March 2015 Time: 17:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> HOBART/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 17 March 2015, 17:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11513,7 +11513,7 @@ var markers = {
                 "time": "09:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 03 February 2014 Time: 09:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BONYTHON STREET (GALE -> GARDINER)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 February 2014, 09:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11533,7 +11533,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Struck pedestrian (On Road) Date: 03 April 2012 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck pedestrian (On Road)<br><strong>Location:</strong> BUNDA/NORTHBOURNE/RUDD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 April 2012, 16:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11553,7 +11553,7 @@ var markers = {
                 "time": "19:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 20 March 2015 Time: 19:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MARCUS CLARKE/RUDD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 March 2015, 19:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11573,7 +11573,7 @@ var markers = {
                 "time": "17:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 13 May 2015 Time: 17:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DAVID STREET (HAY -> SARGOOD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 May 2015, 17:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11593,7 +11593,7 @@ var markers = {
                 "time": "20:41"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 14 October 2013 Time: 20:41", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CONDAMINE STREET (BENT -> MCCAUGHEY)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 October 2013, 20:41</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11613,7 +11613,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 June 2013 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HOSKINS STREET (SANDFORD -> LYSAGHT)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 June 2013, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11633,7 +11633,7 @@ var markers = {
                 "time": "18:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 July 2012 Time: 18:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HINDMARSH/MELROSE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 July 2012, 18:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11653,7 +11653,7 @@ var markers = {
                 "time": "06:55"
             }, 
             "properties": {
-                "description": "Opposite direction side swipe Date: 25 October 2012 Time: 06:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Opposite direction side swipe<br><strong>Location:</strong> FLINDERS WAY (LA PEROUSE -> DURVILLE)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 25 October 2012, 06:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11673,7 +11673,7 @@ var markers = {
                 "time": "15:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 10 September 2013 Time: 15:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARRY/COOYONG/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 September 2013, 15:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11693,7 +11693,7 @@ var markers = {
                 "time": "09:20"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 14 May 2012 Time: 09:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (McKAY -> ELOUERA/GOULD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 14 May 2012, 09:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11713,7 +11713,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 23 May 2012 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> FLINDERS/LA PEROUSE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 May 2012, 08:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11733,7 +11733,7 @@ var markers = {
                 "time": "15:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 30 November 2013 Time: 15:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> LONDON/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 30 November 2013, 15:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11753,7 +11753,7 @@ var markers = {
                 "time": "11:00"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 29 April 2012 Time: 11:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> DAWES/WENTWORTH INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 29 April 2012, 11:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11773,7 +11773,7 @@ var markers = {
                 "time": "11:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 October 2013 Time: 11:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> STONEHAVEN/MELBOURNE/GOWRIE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 October 2013, 11:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11793,7 +11793,7 @@ var markers = {
                 "time": "13:05"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 June 2013 Time: 13:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MASSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 June 2013, 13:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11813,7 +11813,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 12 November 2014 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CONSTITUTION/WENDOUREE/KALMA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 November 2014, 08:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11833,7 +11833,7 @@ var markers = {
                 "time": "16:38"
             }, 
             "properties": {
-                "description": "Struck pedestrian (On Road) Date: 03 May 2014 Time: 16:38", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck pedestrian (On Road)<br><strong>Location:</strong> FLEMINGTON ROAD (EPIC ACCESS -> RANDWICK)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 May 2014, 16:38</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11853,7 +11853,7 @@ var markers = {
                 "time": "08:01"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 11 July 2014 Time: 08:01", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DUDLEY/NOVAR/NOVASADELERM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 July 2014, 08:01</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11873,7 +11873,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 30 July 2014 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> CAMERON AVENUE (BENJAMIN/CHAN -> CHANDLER)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 July 2014, 16:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11893,7 +11893,7 @@ var markers = {
                 "time": "21:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 12 February 2013 Time: 21:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MACARTHUR/NORTHBOURNE/WAKEFIELD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 12 February 2013, 21:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11913,7 +11913,7 @@ var markers = {
                 "time": "17:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 29 May 2013 Time: 17:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> SCOLLAY STREET (OAKDEN -> REED)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 29 May 2013, 17:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11933,7 +11933,7 @@ var markers = {
                 "time": "18:05"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 21 October 2014 Time: 18:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COWPER/TOMS INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 October 2014, 18:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11953,7 +11953,7 @@ var markers = {
                 "time": "18:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 11 July 2013 Time: 18:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CHALLIS STREET (MORPHETT -> CAPE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 July 2013, 18:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11973,7 +11973,7 @@ var markers = {
                 "time": "06:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 06 March 2014 Time: 06:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COULTER/JOHN CLELAND INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 06 March 2014, 06:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11993,7 +11993,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 June 2013 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GOLDEN/HICKS INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 June 2013, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12013,7 +12013,7 @@ var markers = {
                 "time": "15:25"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 12 June 2013 Time: 15:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MAJURA AVENUE (OFFICER -> DUTTON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 June 2013, 15:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12033,7 +12033,7 @@ var markers = {
                 "time": "12:15"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 09 February 2013 Time: 12:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> DALEY/NORTH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 09 February 2013, 12:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12053,7 +12053,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 27 February 2014 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BOUGAINVILLE/EMPIRE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 February 2014, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12073,7 +12073,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 November 2014 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> TELOPEA/WENTWORTH/EASTLAKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 November 2014, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12093,7 +12093,7 @@ var markers = {
                 "time": "12:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 September 2014 Time: 12:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BOWES/LAUNCESTON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 September 2014, 12:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12113,7 +12113,7 @@ var markers = {
                 "time": "08:38"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 30 April 2012 Time: 08:38", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MASSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 April 2012, 08:38</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12133,7 +12133,7 @@ var markers = {
                 "time": "15:21"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 31 January 2012 Time: 15:21", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MELROSE/MELRYARRRA/YAMBMELRRA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 31 January 2012, 15:21</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12153,7 +12153,7 @@ var markers = {
                 "time": "07:55"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 17 October 2012 Time: 07:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> NORTHBOURNE/SWINDEN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 October 2012, 07:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12173,7 +12173,7 @@ var markers = {
                 "time": "14:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 03 March 2015 Time: 14:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> AIKMAN/GINNINDERRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 March 2015, 14:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12193,7 +12193,7 @@ var markers = {
                 "time": "07:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 22 August 2012 Time: 07:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MOONLIGHT/FLEMINGTON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 August 2012, 07:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12213,7 +12213,7 @@ var markers = {
                 "time": "10:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 09 February 2013 Time: 10:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ANTILL/MADIGAN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 09 February 2013, 10:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12233,7 +12233,7 @@ var markers = {
                 "time": "08:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 30 July 2014 Time: 08:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FLOREY/GINNINDERRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 July 2014, 08:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12253,7 +12253,7 @@ var markers = {
                 "time": "11:01"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 04 August 2014 Time: 11:01", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MORPHETT/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 August 2014, 11:01</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12273,7 +12273,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 13 April 2015 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MELROSE/THEODORE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 April 2015, 17:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12293,7 +12293,7 @@ var markers = {
                 "time": "07:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 03 December 2012 Time: 07:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> SOUTHERN CROSS DRIVE (CHAVE -> STARKE)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 December 2012, 07:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12313,7 +12313,7 @@ var markers = {
                 "time": "16:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 September 2014 Time: 16:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARTON/GOLD CREEK INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 September 2014, 16:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12333,7 +12333,7 @@ var markers = {
                 "time": "18:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 12 March 2014 Time: 18:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> TAYLOR/WARRUMBUL INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 March 2014, 18:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12353,7 +12353,7 @@ var markers = {
                 "time": "07:25"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 03 October 2012 Time: 07:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COMMONWEALTH/PARKWCOMMSRM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 October 2012, 07:25</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12373,7 +12373,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 28 February 2013 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARRITT/BODDINGTON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 28 February 2013, 08:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12393,7 +12393,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 25 February 2015 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BINDUBI/BARDI INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 25 February 2015, 08:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12413,7 +12413,7 @@ var markers = {
                 "time": "05:43"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 24 May 2012 Time: 05:43", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MUGGA WAY (ALEXANDER -> FRANCIS)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 24 May 2012, 05:43</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12433,7 +12433,7 @@ var markers = {
                 "time": "18:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 09 October 2013 Time: 18:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COLLEGE/COOINDA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 09 October 2013, 18:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12453,7 +12453,7 @@ var markers = {
                 "time": "17:22"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 07 February 2013 Time: 17:22", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> LAWSNPARKWRM/PARKEEDINNRM/PARKES INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 February 2013, 17:22</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12473,7 +12473,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 14 October 2014 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 October 2014, 17:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12493,7 +12493,7 @@ var markers = {
                 "time": "16:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 30 March 2012 Time: 16:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DOWNARD/GURR INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 March 2012, 16:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12513,7 +12513,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 26 November 2014 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CAPTAIN COOK/WILD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 November 2014, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12533,7 +12533,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 21 October 2014 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ELLENBOROUGH/GINNINDERRA/MOUAT/RIGGALL INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 October 2014, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12553,7 +12553,7 @@ var markers = {
                 "time": "07:20"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 27 May 2015 Time: 07:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COULTER/GINNINDERRA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 27 May 2015, 07:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12573,7 +12573,7 @@ var markers = {
                 "time": "08:05"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 March 2015 Time: 08:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BATTYE/BRAYBROOKE/PURDIE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 March 2015, 08:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12593,7 +12593,7 @@ var markers = {
                 "time": "14:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 August 2012 Time: 14:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DRAKEFORD/JOHNSON/WOODCOCK INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 August 2012, 14:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12613,7 +12613,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 29 November 2012 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MCCAUGHEY STREET (MASSON -> BARRY/NORTH)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 29 November 2012, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12633,7 +12633,7 @@ var markers = {
                 "time": "11:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 26 November 2014 Time: 11:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HINDMARSH/HINDWTUGGSRM/TUGGSHINDERM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 November 2014, 11:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12653,7 +12653,7 @@ var markers = {
                 "time": "18:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 14 April 2014 Time: 18:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BONNEY/COWPER/FOVEAUX INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 14 April 2014, 18:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12673,7 +12673,7 @@ var markers = {
                 "time": "11:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 19 July 2014 Time: 11:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BATMAN STREET (GOOREEN -> LIMESTONE/QUICK)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 July 2014, 11:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12693,7 +12693,7 @@ var markers = {
                 "time": "16:31"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 13 November 2014 Time: 16:31", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (CONDAMINE/IPIMA -> MACARTHUR/WAKEFIELD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 November 2014, 16:31</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12713,7 +12713,7 @@ var markers = {
                 "time": "06:10"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 04 March 2014 Time: 06:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> HINDMARSH/YAMBA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 March 2014, 06:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12733,7 +12733,7 @@ var markers = {
                 "time": "15:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 February 2013 Time: 15:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> FLEMINGTON ROAD (LYSAGHT -> WELLS STATION)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 February 2013, 15:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12753,7 +12753,7 @@ var markers = {
                 "time": "17:13"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 24 August 2012 Time: 17:13", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> YAMBA DRIVE (COLBECK -> NUMERALLA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 24 August 2012, 17:13</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12773,7 +12773,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 February 2013 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DONALDSON/ELIMATTA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 February 2013, 08:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12793,7 +12793,7 @@ var markers = {
                 "time": "20:48"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 12 May 2015 Time: 20:48", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COMMONWEALTH/FLYNWCOMMNRM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 12 May 2015, 20:48</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12813,7 +12813,7 @@ var markers = {
                 "time": "14:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 08 June 2014 Time: 14:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> EFKARPIDIS ST (GUNGAHLIN PL -> HINDER ST)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 June 2014, 14:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12833,7 +12833,7 @@ var markers = {
                 "time": "10:50"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 15 December 2013 Time: 10:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> KINGNKINGWTL/KINGS INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 15 December 2013, 10:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12853,7 +12853,7 @@ var markers = {
                 "time": "19:39"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 21 February 2012 Time: 19:39", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> BONNEY/WAKEFIELD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 February 2012, 19:39</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12873,7 +12873,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 06 February 2012 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> MACARTHUR/NORTHBOURNE/WAKEFIELD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 February 2012, 18:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12893,7 +12893,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 04 November 2013 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> FARRELL/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 November 2013, 09:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12913,7 +12913,7 @@ var markers = {
                 "time": "07:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 09 April 2014 Time: 07:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MCMILLAN CRESCENT (CANBERRA -> MATINA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 09 April 2014, 07:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12933,7 +12933,7 @@ var markers = {
                 "time": "17:26"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 20 November 2013 Time: 17:26", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MARCUS CLARKE/UNIVERSITY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 November 2013, 17:26</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12953,7 +12953,7 @@ var markers = {
                 "time": "14:45"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 01 November 2012 Time: 14:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> KATOOMBA/TANAMI INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 01 November 2012, 14:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12973,7 +12973,7 @@ var markers = {
                 "time": "16:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 22 July 2014 Time: 16:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HIBBERSON STREET (GOZZARD -> GUNGAHLIN)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 July 2014, 16:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12993,7 +12993,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 12 December 2013 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> SHANNON CIRCUIT (SHANNON -> TWEED)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 December 2013, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13013,7 +13013,7 @@ var markers = {
                 "time": "07:49"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 02 April 2013 Time: 07:49", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> BARRY/COOYONG/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 April 2013, 07:49</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13033,7 +13033,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 26 July 2012 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BARRALLIER/CANBERRA/CUNNINGHAM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 26 July 2012, 08:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13053,7 +13053,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 02 April 2012 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> PHILLIP/WINDEYER INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 02 April 2012, 08:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13073,7 +13073,7 @@ var markers = {
                 "time": "07:25"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 22 February 2013 Time: 07:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> BUGDEN/STERNBERG INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 February 2013, 07:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13093,7 +13093,7 @@ var markers = {
                 "time": "09:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 16 November 2014 Time: 09:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARTON/GUNDAROO/WILLIAM SLIM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 November 2014, 09:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13113,7 +13113,7 @@ var markers = {
                 "time": "14:51"
             }, 
             "properties": {
-                "description": "Fall from moving vehicle (On Road) Date: 14 October 2012 Time: 14:51", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Fall from moving vehicle (On Road)<br><strong>Location:</strong> FARRELL/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 14 October 2012, 14:51</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13133,7 +13133,7 @@ var markers = {
                 "time": "19:10"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 23 April 2013 Time: 19:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> PARKES WAY (CORANDERRK -> ANZAC)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 23 April 2013, 19:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13153,7 +13153,7 @@ var markers = {
                 "time": "07:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 April 2013 Time: 07:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ANTHONY ROLFE/GUNDAROO/MIRRABEI INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 April 2013, 07:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13173,7 +13173,7 @@ var markers = {
                 "time": "19:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 22 February 2013 Time: 19:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> FOA/WATTLE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 22 February 2013, 19:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13193,7 +13193,7 @@ var markers = {
                 "time": "18:00"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 02 May 2013 Time: 18:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (ALINGA -> BUNDA/RUDD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 May 2013, 18:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13213,7 +13213,7 @@ var markers = {
                 "time": "21:25"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 31 May 2013 Time: 21:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MARCUS CLARKE/RUDD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 31 May 2013, 21:25</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13233,7 +13233,7 @@ var markers = {
                 "time": "20:05"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 06 December 2014 Time: 20:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MOUBRAY/NETTLEFOLD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 December 2014, 20:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13253,7 +13253,7 @@ var markers = {
                 "time": "14:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 12 October 2014 Time: 14:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> EASTLAKE PDE (WENTWORTH AV -> TREVILLIAN QY)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 October 2014, 14:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13273,7 +13273,7 @@ var markers = {
                 "time": "11:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 02 April 2015 Time: 11:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> TORRENS STREET (BALLUMBIR/COOYONG -> ELOUERA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 April 2015, 11:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13293,7 +13293,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 January 2015 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ANTILL/ TAY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 January 2015, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13313,7 +13313,7 @@ var markers = {
                 "time": "07:50"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 07 February 2013 Time: 07:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COOYONG/MORT INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 February 2013, 07:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13333,7 +13333,7 @@ var markers = {
                 "time": "15:50"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 04 August 2012 Time: 15:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MASSON/WATSON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 August 2012, 15:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13353,7 +13353,7 @@ var markers = {
                 "time": "13:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 19 June 2013 Time: 13:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BELCONNEN/KINGSFORD SMITH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 19 June 2013, 13:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13373,7 +13373,7 @@ var markers = {
                 "time": "16:35"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 03 February 2014 Time: 16:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DICKSON PLACE (COWPER -> BADHAM)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 February 2014, 16:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13393,7 +13393,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 08 July 2014 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BELCONNEN/BELCWGUNGS RAMP/GUNGSBELCERM RAMP INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 08 July 2014, 16:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13413,7 +13413,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Fall from moving vehicle (On Road) Date: 04 February 2014 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Fall from moving vehicle (On Road)<br><strong>Location:</strong> NORTHBOURNE AVENUE (ELOUERA/GOULD -> GIRRAHWEEN/MASSON)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 February 2014, 08:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13433,7 +13433,7 @@ var markers = {
                 "time": "21:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 24 October 2013 Time: 21:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GARRAN/LIVERSIDGE/McCOY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 October 2013, 21:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13453,7 +13453,7 @@ var markers = {
                 "time": "09:05"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 27 March 2012 Time: 09:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> LAUNCESTON/MELROSE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 March 2012, 09:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13473,7 +13473,7 @@ var markers = {
                 "time": "08:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 29 April 2013 Time: 08:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> FLEMINGTON/MORISSET/SANDFORD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 29 April 2013, 08:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13493,7 +13493,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 26 April 2013 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CONDAMINE STREET (BENT -> MCCAUGHEY)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 April 2013, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13513,7 +13513,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 20 February 2012 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> NORTHBOURNE AVENUE (ALINGA -> BUNDA/RUDD)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 February 2012, 08:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13533,7 +13533,7 @@ var markers = {
                 "time": "15:50"
             }, 
             "properties": {
-                "description": "Struck object  (On Road) Date: 05 June 2012 Time: 15:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck object  (On Road)<br><strong>Location:</strong> FAIRBAIRN/MAJURA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 June 2012, 15:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13553,7 +13553,7 @@ var markers = {
                 "time": "11:55"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 November 2012 Time: 11:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> TORRENS STREET (IPIMA -> IJONG)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 November 2012, 11:55</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13573,7 +13573,7 @@ var markers = {
                 "time": "17:50"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 10 February 2014 Time: 17:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BARRY/COOYONG/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 February 2014, 17:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13593,7 +13593,7 @@ var markers = {
                 "time": "10:22"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 November 2014 Time: 10:22", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ELLERY/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 13 November 2014, 10:22</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13613,7 +13613,7 @@ var markers = {
                 "time": "17:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 01 January 2014 Time: 17:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ATHLLON/BEASLEY (SW) INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 January 2014, 17:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13633,7 +13633,7 @@ var markers = {
                 "time": "12:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 25 January 2015 Time: 12:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> RUSSELL/SIR THOMAS BLAMEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 25 January 2015, 12:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13653,7 +13653,7 @@ var markers = {
                 "time": "12:05"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 June 2012 Time: 12:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GARRAN ROAD (EGGLESTON -> FELLOWS)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 15 June 2012, 12:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13673,7 +13673,7 @@ var markers = {
                 "time": "08:25"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 March 2013 Time: 08:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MULLEY STREET (BLACKWOOD -> GOVETT)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 March 2013, 08:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13693,7 +13693,7 @@ var markers = {
                 "time": "06:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 30 July 2014 Time: 06:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ATHLLON/SULWOOD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 July 2014, 06:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13713,7 +13713,7 @@ var markers = {
                 "time": "10:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 10 June 2014 Time: 10:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BATTYE/BRAYBROOKE/PURDIE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 June 2014, 10:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13733,7 +13733,7 @@ var markers = {
                 "time": "20:56"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 April 2012 Time: 20:56", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MASSON/MOORE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 April 2012, 20:56</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13753,7 +13753,7 @@ var markers = {
                 "time": "09:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 10 February 2012 Time: 09:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DONALDSON/DOONKUNA/ELOUERA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 February 2012, 09:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13773,7 +13773,7 @@ var markers = {
                 "time": "17:01"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 17 June 2014 Time: 17:01", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MASSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 June 2014, 17:01</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13793,7 +13793,7 @@ var markers = {
                 "time": "09:45"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 06 November 2012 Time: 09:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> IPIMA/WISE INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 06 November 2012, 09:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13813,7 +13813,7 @@ var markers = {
                 "time": "17:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 20 May 2014 Time: 17:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> SOUTHERN CROSS/STARKE (SE) INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 May 2014, 17:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13833,7 +13833,7 @@ var markers = {
                 "time": "07:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 24 April 2015 Time: 07:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MORT STREET (COOYONG -> ELOUERA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 24 April 2015, 07:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13853,7 +13853,7 @@ var markers = {
                 "time": "08:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 29 June 2012 Time: 08:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COWPER STREET (MORPHETT -> DAVENPORT)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 29 June 2012, 08:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13873,7 +13873,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 September 2013 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ALLAWOONA/GINNINDERRA/WANDERLIGHT INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 23 September 2013, 16:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13893,7 +13893,7 @@ var markers = {
                 "time": "13:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 29 January 2012 Time: 13:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ALLAWOONA/GINNINDERRA/WANDERLIGHT INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 29 January 2012, 13:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13913,7 +13913,7 @@ var markers = {
                 "time": "06:45"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 20 February 2014 Time: 06:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> MAJURA/SPITFIRE/MEDDHUNG INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 February 2014, 06:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13933,7 +13933,7 @@ var markers = {
                 "time": "21:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 04 June 2015 Time: 21:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GORDON/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 June 2015, 21:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13953,7 +13953,7 @@ var markers = {
                 "time": "17:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 21 May 2015 Time: 17:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ATHLLON/BEASLEY (SW) INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 May 2015, 17:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -13973,7 +13973,7 @@ var markers = {
                 "time": "18:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 July 2015 Time: 18:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BRAYBROOKE/GINNINDERRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 July 2015, 18:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -13993,7 +13993,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 08 June 2015 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CURRIE/MANUKA/NEW SOUTH WALES/TELOPEA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 08 June 2015, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14013,7 +14013,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 26 May 2015 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GOYDER/JERRABOMBERRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 May 2015, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14033,7 +14033,7 @@ var markers = {
                 "time": "09:30"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 05 June 2015 Time: 09:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> HENTY STREET (IPIMA/LOWANNA -> IJONG)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 June 2015, 09:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14053,7 +14053,7 @@ var markers = {
                 "time": "11:05"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 08 June 2015 Time: 11:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> GINNINDERRA/TILLYARD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 08 June 2015, 11:05</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14073,7 +14073,7 @@ var markers = {
                 "time": "17:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 17 June 2015 Time: 17:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CARREYARRNRM/CARRUTHERS/YARRNCARRWRM INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 June 2015, 17:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14093,7 +14093,7 @@ var markers = {
                 "time": "17:24"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 16 June 2015 Time: 17:24", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ALLSOP/CHILDERS INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 June 2015, 17:24</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14113,7 +14113,7 @@ var markers = {
                 "time": "13:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 June 2015 Time: 13:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BENJAMIN/CAMERON/CHAN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 June 2015, 13:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14133,7 +14133,7 @@ var markers = {
                 "time": "07:45"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 03 July 2015 Time: 07:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ADELAIDE/ADELEHOPENRM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 03 July 2015, 07:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14153,7 +14153,7 @@ var markers = {
                 "time": "07:50"
             }, 
             "properties": {
-                "description": "Struck pedestrian (On Road) Date: 18 June 2015 Time: 07:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck pedestrian (On Road)<br><strong>Location:</strong> BARRY DRIVE (CLUNIES ROSS/FROGGATT -> BOLDREWOOD)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 18 June 2015, 07:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14173,7 +14173,7 @@ var markers = {
                 "time": "08:25"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 08 July 2015 Time: 08:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ALEXANDRINA DRIVE (CORONATION/FLYNN -> MARINER)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 July 2015, 08:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14193,7 +14193,7 @@ var markers = {
                 "time": "17:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 26 May 2015 Time: 17:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COULTER/LACHLAN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 26 May 2015, 17:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14213,7 +14213,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 25 July 2015 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> GENGE/NARELLAN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 25 July 2015, 16:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14233,7 +14233,7 @@ var markers = {
                 "time": "07:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 June 2015 Time: 07:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> TORRENS STREET (HELEMON -> IPIMA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 June 2015, 07:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14253,7 +14253,7 @@ var markers = {
                 "time": "07:50"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 22 June 2015 Time: 07:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> NORTHBOURNE/SWINDEN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 June 2015, 07:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14273,7 +14273,7 @@ var markers = {
                 "time": "08:25"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 26 June 2015 Time: 08:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HODGSON CRESCENT (MARR -> COLLINGS)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 June 2015, 08:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14293,7 +14293,7 @@ var markers = {
                 "time": "15:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 20 July 2015 Time: 15:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MELROSE DRIVE (PARRAMATTA -> EGGLESTON)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 20 July 2015, 15:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14313,7 +14313,7 @@ var markers = {
                 "time": "06:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 July 2015 Time: 06:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CANBERRA/EMPIRE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 July 2015, 06:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14333,7 +14333,7 @@ var markers = {
                 "time": "15:05"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 04 August 2015 Time: 15:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> BARRY/BOLDREWOOD INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 August 2015, 15:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14353,7 +14353,7 @@ var markers = {
                 "time": "12:57"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 29 July 2015 Time: 12:57", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ALLARA STREET (CONSTITUTION -> ALLARA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 29 July 2015, 12:57</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14373,7 +14373,7 @@ var markers = {
                 "time": "10:50"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 16 August 2015 Time: 10:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTH ROAD (DALEY -> BARRY/MCCAUGHEY)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 16 August 2015, 10:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14393,7 +14393,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 15 June 2015 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (ELOUERA/GOULD -> GIRRAHWEEN/MASSON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 June 2015, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14413,7 +14413,7 @@ var markers = {
                 "time": "13:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 05 April 2015 Time: 13:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> GILES STREET (PRINTERS -> EASTLAKE)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 April 2015, 13:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14433,7 +14433,7 @@ var markers = {
                 "time": "16:30"
             }, 
             "properties": {
-                "description": "Struck object  (On Road) Date: 04 August 2015 Time: 16:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck object  (On Road)<br><strong>Location:</strong> CANBERRA AVENUE (MILDURA -> MONANCANBWRM)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 August 2015, 16:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14453,7 +14453,7 @@ var markers = {
                 "time": "07:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 25 June 2015 Time: 07:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DAWES/WENTWORTH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 25 June 2015, 07:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14473,7 +14473,7 @@ var markers = {
                 "time": "07:10"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 04 August 2015 Time: 07:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MELROSE/MELRYARRRA/YAMBMELRRA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 August 2015, 07:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14493,7 +14493,7 @@ var markers = {
                 "time": "09:20"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 16 July 2015 Time: 09:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ADELAIDE/COTTEADELERM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 July 2015, 09:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14513,7 +14513,7 @@ var markers = {
                 "time": "07:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 August 2015 Time: 07:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HAYES/MONARO/VANCOUVER INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 August 2015, 07:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14533,7 +14533,7 @@ var markers = {
                 "time": "19:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 30 June 2015 Time: 19:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MASSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 June 2015, 19:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14553,7 +14553,7 @@ var markers = {
                 "time": "06:25"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 07 August 2015 Time: 06:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CANBERRA/MCMILLAN (SW) INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 August 2015, 06:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14573,7 +14573,7 @@ var markers = {
                 "time": "12:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 07 August 2015 Time: 12:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> KENT/STRICKLAND INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 August 2015, 12:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14593,7 +14593,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 07 August 2015 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> GENGE (NARELLAN -> BUNDA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 August 2015, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14613,7 +14613,7 @@ var markers = {
                 "time": "11:35"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 08 June 2015 Time: 11:35", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> IRON KNOB STREET (BEACONSFIELD -> GERALDTON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 June 2015, 11:35</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14633,7 +14633,7 @@ var markers = {
                 "time": "11:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 30 August 2015 Time: 11:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> WIZARD/HALL BEST INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 August 2015, 11:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14653,7 +14653,7 @@ var markers = {
                 "time": "19:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 August 2015 Time: 19:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> LONDON/WEST INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 August 2015, 19:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14673,7 +14673,7 @@ var markers = {
                 "time": "19:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 20 August 2015 Time: 19:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> EDINBURGH/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 20 August 2015, 19:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14693,7 +14693,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 24 August 2015 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> ANTILL/PIGOT INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 August 2015, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14713,7 +14713,7 @@ var markers = {
                 "time": "15:20"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 11 September 2015 Time: 15:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> HODGSON CRESCENT (MARR -> COLLINGS)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 September 2015, 15:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14733,7 +14733,7 @@ var markers = {
                 "time": "16:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 02 July 2015 Time: 16:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CARREYARRNRM/CARRUTHERS/YARRNCARRWRM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 July 2015, 16:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14753,7 +14753,7 @@ var markers = {
                 "time": "17:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 08 September 2015 Time: 17:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CANBERRA AV/TOM PRICE ST INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 September 2015, 17:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14773,7 +14773,7 @@ var markers = {
                 "time": "08:25"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 September 2015 Time: 08:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> ATHLLON/BEASLEY/MAWSON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 September 2015, 08:25</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14793,7 +14793,7 @@ var markers = {
                 "time": "05:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 17 September 2015 Time: 05:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FURNEAUX/MANUKA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 17 September 2015, 05:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14813,7 +14813,7 @@ var markers = {
                 "time": "08:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 08 September 2015 Time: 08:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> TELOPEA/WENTWORTH/EASTLAKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 September 2015, 08:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14833,7 +14833,7 @@ var markers = {
                 "time": "16:10"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 23 September 2015 Time: 16:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> CANBERRA/DALBY INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 23 September 2015, 16:10</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14853,7 +14853,7 @@ var markers = {
                 "time": "18:30"
             }, 
             "properties": {
-                "description": "Collision with parked vehicle Date: 16 September 2015 Time: 18:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Collision with parked vehicle<br><strong>Location:</strong> WESTON STREET (GUILFOYLE -> DEANE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 September 2015, 18:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14873,7 +14873,7 @@ var markers = {
                 "time": "06:09"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 15 September 2015 Time: 06:09", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> CHILDERS/HUTTON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 September 2015, 06:09</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14893,7 +14893,7 @@ var markers = {
                 "time": "11:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 26 September 2015 Time: 11:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DAMALA/NAMATJIRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 September 2015, 11:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14913,7 +14913,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 24 September 2015 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (BARRY/COOYONG -> McKAY)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 September 2015, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14933,7 +14933,7 @@ var markers = {
                 "time": "16:25"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 September 2015 Time: 16:25", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> STATE/SYDNEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 September 2015, 16:25</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14953,7 +14953,7 @@ var markers = {
                 "time": "17:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 17 September 2015 Time: 17:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> KEVERSTONE CIRCUIT (JIGGI -> KEVERSTONE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 17 September 2015, 17:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -14973,7 +14973,7 @@ var markers = {
                 "time": "18:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 03 October 2015 Time: 18:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MCMILLAN/STURT INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 03 October 2015, 18:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -14993,7 +14993,7 @@ var markers = {
                 "time": "09:45"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 18 September 2015 Time: 09:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COWPER STREET (DICKSON SHOPS ACCESS -> ANTILL)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 September 2015, 09:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15013,7 +15013,7 @@ var markers = {
                 "time": "07:20"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 30 September 2015 Time: 07:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> MONARO HIGHWAY (JOHNSON -> OLD COOMA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 30 September 2015, 07:20</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15033,7 +15033,7 @@ var markers = {
                 "time": "07:17"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 15 October 2015 Time: 07:17", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> ADELAIDE/COTTEADELERM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 October 2015, 07:17</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15053,7 +15053,7 @@ var markers = {
                 "time": "11:40"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 05 October 2015 Time: 11:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> BLACK MOUNTAIN DRIVE ( BLACK MOUNTAIN LOOP - TOP OF BLACK MOUNTAIN)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 October 2015, 11:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15073,7 +15073,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Struck pedestrian (Off Road) Date: 24 September 2015 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck pedestrian (Off Road)<br><strong>Location:</strong> FLINDERS WAY (MONARO -> MUGGA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 24 September 2015, 08:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15093,7 +15093,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 08 October 2015 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BLAXLAND/FROME INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 October 2015, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15113,7 +15113,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 12 October 2015 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> SOWARD WAY (SCOLLAY -> ANKETELL)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 October 2015, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15133,7 +15133,7 @@ var markers = {
                 "time": "14:57"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 13 October 2015 Time: 14:57", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> FARRELL/MARCUS CLARKE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 October 2015, 14:57</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15153,7 +15153,7 @@ var markers = {
                 "time": "17:20"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 13 October 2015 Time: 17:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FROGGATT/ORMOND INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 13 October 2015, 17:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15173,7 +15173,7 @@ var markers = {
                 "time": "16:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 19 September 2015 Time: 16:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> PADDYS RIVER ROAD (COTTER -> LAUREL CAMP)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 19 September 2015, 16:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15193,7 +15193,7 @@ var markers = {
                 "time": "09:05"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 October 2015 Time: 09:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CURRONG/DIRRAWAN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 October 2015, 09:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15213,7 +15213,7 @@ var markers = {
                 "time": "09:30"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 15 October 2015 Time: 09:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> NORTHBOURNE/SWINDEN INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 15 October 2015, 09:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15233,7 +15233,7 @@ var markers = {
                 "time": "07:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 October 2015 Time: 07:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> HERRON/MULVANY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 October 2015, 07:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15253,7 +15253,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 October 2015 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> COWPER/COX INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 23 October 2015, 09:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15273,7 +15273,7 @@ var markers = {
                 "time": "11:40"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 16 October 2015 Time: 11:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DAVID STREET (HAY -> SARGOOD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 16 October 2015, 11:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15293,7 +15293,7 @@ var markers = {
                 "time": "17:18"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 15 October 2015 Time: 17:18", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HUTTON/KINGSLEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 October 2015, 17:18</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15313,7 +15313,7 @@ var markers = {
                 "time": "16:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 21 October 2015 Time: 16:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COWPER STREET (DICKSON SHOPS ACCESS -> ANTILL)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 21 October 2015, 16:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15333,7 +15333,7 @@ var markers = {
                 "time": "08:20"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 22 October 2015 Time: 08:20", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DAVID STREET (HAY -> SARGOOD)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 22 October 2015, 08:20</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15353,7 +15353,7 @@ var markers = {
                 "time": "22:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 01 November 2015 Time: 22:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MORT STREET (COOYONG -> ELOUERA)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 01 November 2015, 22:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15373,7 +15373,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 24 October 2015 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> ARTHUR/MONARO/TASMANIA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 24 October 2015, 16:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15393,7 +15393,7 @@ var markers = {
                 "time": "15:23"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 26 October 2015 Time: 15:23", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY/MCCAUGHEY/NORTH INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 October 2015, 15:23</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15413,7 +15413,7 @@ var markers = {
                 "time": "17:40"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 19 February 2014 Time: 17:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BARRY/CLUNIES ROSS INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 19 February 2014, 17:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15433,7 +15433,7 @@ var markers = {
                 "time": "08:00"
             }, 
             "properties": {
-                "description": "Rear end collision Date: 06 November 2015 Time: 08:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Rear end collision<br><strong>Location:</strong> FEDERAL/OLD WELL STATION INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 06 November 2015, 08:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15453,7 +15453,7 @@ var markers = {
                 "time": "22:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 10 August 2015 Time: 22:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> STREETON/DIXON/UNWIN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 10 August 2015, 22:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15473,7 +15473,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 November 2015 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> BOLDREWOOD/DAVID/MILLER INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 05 November 2015, 08:30</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15493,7 +15493,7 @@ var markers = {
                 "time": "11:45"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 10 November 2015 Time: 11:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> HORSE PARK DRIVE ( WHITROD -> ARRABRI/YEND )<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 November 2015, 11:45</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15513,7 +15513,7 @@ var markers = {
                 "time": "07:45"
             }, 
             "properties": {
-                "description": "Overturned (On Road) Date: 29 January 2015 Time: 07:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Overturned (On Road)<br><strong>Location:</strong> KENT STREET (STRICKLAND -> MACARTNEY)<br><strong>Severity:</strong> Fatal<br><strong>Date/time:</strong> 29 January 2015, 07:45</span></p>", 
                 "marker-color": "#2A0A0A", 
                 "marker-size": "large", 
                 "marker-symbol": "cemetery"
@@ -15533,7 +15533,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 11 November 2015 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> LA PEROUSE STREET (DALRYMPLE -> FORTITUDE)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 11 November 2015, 09:00</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15553,7 +15553,7 @@ var markers = {
                 "time": "19:50"
             }, 
             "properties": {
-                "description": "Struck object  (On Road) Date: 09 November 2015 Time: 19:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Struck object  (On Road)<br><strong>Location:</strong> MONARO HIGHWAY (ISABELLA -> OLD TUGGERANONG)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 09 November 2015, 19:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15573,7 +15573,7 @@ var markers = {
                 "time": "09:39"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 07 November 2015 Time: 09:39", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> CURRAN/O'HANLON INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 07 November 2015, 09:39</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15593,7 +15593,7 @@ var markers = {
                 "time": "15:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 10 November 2015 Time: 15:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BLACKWOOD/TYERS INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 November 2015, 15:15</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15613,7 +15613,7 @@ var markers = {
                 "time": "20:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 17 November 2015 Time: 20:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> IJONG/IPIMA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 17 November 2015, 20:40</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15633,7 +15633,7 @@ var markers = {
                 "time": "16:00"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 12 August 2015 Time: 16:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> DAVID/MACPHERSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 12 August 2015, 16:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15653,7 +15653,7 @@ var markers = {
                 "time": "08:45"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 23 November 2015 Time: 08:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> CAPTAIN COOK/FRANKLIN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 23 November 2015, 08:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15673,7 +15673,7 @@ var markers = {
                 "time": "09:15"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 11 November 2015 Time: 09:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> NORTHBOURNE AVENUE (BARRY/COOYONG -> McKAY)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 11 November 2015, 09:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15693,7 +15693,7 @@ var markers = {
                 "time": "17:40"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 04 June 2013 Time: 17:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FAIRFAX/DRYANDRA INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 04 June 2013, 17:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15713,7 +15713,7 @@ var markers = {
                 "time": "19:30"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 15 January 2013 Time: 19:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FAIRFAX/DRYANDRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 15 January 2013, 19:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15733,7 +15733,7 @@ var markers = {
                 "time": "08:40"
             }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road) Date: 21 May 2014 Time: 08:40", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other -  Single Vehicle (On Road)<br><strong>Location:</strong> PIALLIGO AVENUE (MOLONGLO -> SCHERGER)<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 21 May 2014, 08:40</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15753,7 +15753,7 @@ var markers = {
                 "time": "07:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 18 September 2013 Time: 07:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> FAIRFAX/DRYANDRA INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 18 September 2013, 07:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15773,7 +15773,7 @@ var markers = {
                 "time": "17:15"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 04 March 2015 Time: 17:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COWPER STREET (DICKSON SHOPS ACCESS -> ANTILL)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 04 March 2015, 17:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15793,7 +15793,7 @@ var markers = {
                 "time": "06:55"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 10 February 2012 Time: 06:55", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MONANMORSWRM/MORSHEAD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 10 February 2012, 06:55</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15813,7 +15813,7 @@ var markers = {
                 "time": "12:04"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 19 November 2015 Time: 12:04", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> BARRY/BOLDREWOOD INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 19 November 2015, 12:04</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -15833,7 +15833,7 @@ var markers = {
                 "time": "13:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 25 November 2015 Time: 13:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> HIRSCHFELD CRESCENT (GIBSON -> BENNIE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 25 November 2015, 13:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15853,7 +15853,7 @@ var markers = {
                 "time": "19:15"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 26 November 2015 Time: 19:15", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MAJURA AVENUE (OFFICER -> DUTTON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 November 2015, 19:15</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15873,7 +15873,7 @@ var markers = {
                 "time": "16:50"
             }, 
             "properties": {
-                "description": "Right angle collision Date: 05 October 2015 Time: 16:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right angle collision<br><strong>Location:</strong> MASSON/MCCAUGHEY INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 05 October 2015, 16:50</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15893,7 +15893,7 @@ var markers = {
                 "time": "18:45"
             }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle Date: 25 November 2015 Time: 18:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Right turn into oncoming vehicle<br><strong>Location:</strong> DIBBS/HANNAN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 25 November 2015, 18:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15913,7 +15913,7 @@ var markers = {
                 "time": "12:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 27 November 2015 Time: 12:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> MCCAUGHEY STREET (CONDAMINE -> MASSON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 27 November 2015, 12:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15933,7 +15933,7 @@ var markers = {
                 "time": "08:10"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 30 November 2015 Time: 08:10", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> DE GRAAFF STREET (CORNISH -> WINTON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 30 November 2015, 08:10</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15953,7 +15953,7 @@ var markers = {
                 "time": "16:45"
             }, 
             "properties": {
-                "description": "Head on collision Date: 01 December 2015 Time: 16:45", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Head on collision<br><strong>Location:</strong> WAKEFIELD AVENUE (DOORING -> MACARTHUR/NORTHBOURNE)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 December 2015, 16:45</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15973,7 +15973,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 09 December 2015 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> BELCONNEN/BENJAMIN INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 09 December 2015, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -15993,7 +15993,7 @@ var markers = {
                 "time": "07:43"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 01 December 2015 Time: 07:43", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> NORTHBOURNE AVENUE (ELOUERA/GOULD -> GIRRAHWEEN/MASSON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 01 December 2015, 07:43</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -16013,7 +16013,7 @@ var markers = {
                 "time": "08:30"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 02 December 2015 Time: 08:30", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> CHISHOLM STREET (HOWE -> HAYLEY/PATERSON)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 02 December 2015, 08:30</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -16033,7 +16033,7 @@ var markers = {
                 "time": "19:05"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 26 November 2015 Time: 19:05", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COCOPARRA CRESCENT (LANABA -> MARANUNGA)<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 26 November 2015, 19:05</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -16053,7 +16053,7 @@ var markers = {
                 "time": "13:50"
             }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle Date: 27 November 2015 Time: 13:50", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Other - Vehicle to Vehicle<br><strong>Location:</strong> COOYONG/DONALDSON INTERSECTION<br><strong>Severity:</strong> Injury<br><strong>Date/time:</strong> 27 November 2015, 13:50</span></p>", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -16073,7 +16073,7 @@ var markers = {
                 "time": "16:43"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 08 December 2015 Time: 16:43", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> BARRY/COOYONG/NORTHBOURNE INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 08 December 2015, 16:43</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -16093,7 +16093,7 @@ var markers = {
                 "time": "09:00"
             }, 
             "properties": {
-                "description": "Same direction side swipe Date: 09 December 2015 Time: 09:00", 
+                "description": "<h4>Crash Details</h4><p><span class='legend-text'><strong>Description:</strong> Same direction side swipe<br><strong>Location:</strong> COTTER/COTTETUGGNRM/TUGGNCOTTWRM INTERSECTION<br><strong>Severity:</strong> Property Damage Only<br><strong>Date/time:</strong> 09 December 2015, 09:00</span></p>", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"

@@ -30,7 +30,16 @@ for record in records:
     
     # Properties sub dict
     properties = {}
-    description = data.loc[record, 'CRASH_TYPE'] + " Date: " + data.loc[record, 'CRASH_DATE'] + " Time: " + data.loc[record, 'CRASH_TIME']
+    description = ("<h4>Crash Details</h4>"
+        + "<p><span class='legend-text'><strong>Description:</strong> "
+        + data.loc[record, 'CRASH_TYPE']
+        + "<br><strong>Location:</strong> "
+        + data.loc[record, 'REPORTED_LOCATION']
+        + "<br><strong>Severity:</strong> "
+        + data.loc[record, 'SEVERITY']
+        + "<br><strong>Date/time:</strong> " 
+        + data.loc[record, 'CRASH_DATE'] + ", " + data.loc[record, 'CRASH_TIME'] 
+        + "</span></p>")
     properties["description"] = description
     
     if data.loc[record, 'SEVERITY'] == 'Injury':

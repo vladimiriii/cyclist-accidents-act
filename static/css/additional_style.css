@@ -59,6 +59,11 @@ body { margin:0;
 	font-weight: bold;
 }
 
+.legend-text {
+	font-family: Eurostile, Tahoma, sans-serif;
+	font-size: 90%;
+}
+
 .menu {
 	background-color: #363636 !important;
 	height: 43em;
