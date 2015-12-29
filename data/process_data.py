@@ -28,8 +28,10 @@ for record in records:
     single_point = {}
     single_point["type"] = "Feature"
     
+    # Properties sub dict
     properties = {}
-    properties["description"] = data.loc[record, 'CRASH_TYPE']
+    description = data.loc[record, 'CRASH_TYPE'] + " Date: " + data.loc[record, 'CRASH_DATE'] + " Time: " + data.loc[record, 'CRASH_TIME']
+    properties["description"] = description
     
     if data.loc[record, 'SEVERITY'] == 'Injury':
         properties["marker-color"] = "#FF0000"
@@ -43,13 +45,22 @@ for record in records:
         properties["marker-color"] = "#0040FF"
         properties["marker-size"] = "small"
         properties["marker-symbol"] = "bicycle"
+    
     single_point["properties"] = properties
     
+    # geometry sub dict
     geometry = {}
     geometry["type"] = "Point"
     geometry["coordinates"] = [data.loc[record, 'LONGITUDE'], data.loc[record, 'LATITUDE']]
     single_point["geometry"] = geometry
     
+    # Other Info sub dict
+    other_info = {}
+    other_info["time"] = data.loc[record, 'CRASH_TIME']
+    other_info["date"] = data.loc[record, 'CRASH_DATE']
+    single_point["other_info"] = other_info
+    
+    # Add latest point to file
     features.append(single_point)
     
     # Make locations JSON

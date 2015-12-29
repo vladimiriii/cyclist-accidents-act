@@ -8,8 +8,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 May 2012", 
+                "time": "12:37"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 14 May 2012 Time: 12:37", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -24,8 +28,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 February 2013", 
+                "time": "07:57"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 20 February 2013 Time: 07:57", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -40,8 +48,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 March 2014", 
+                "time": "07:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 17 March 2014 Time: 07:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -56,8 +68,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 January 2012", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 04 January 2012 Time: 08:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -72,8 +88,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 April 2015", 
+                "time": "08:05"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 07 April 2015 Time: 08:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -88,8 +108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 June 2012", 
+                "time": "16:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 10 June 2012 Time: 16:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -104,8 +128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 April 2014", 
+                "time": "11:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 26 April 2014 Time: 11:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -120,8 +148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 April 2012", 
+                "time": "16:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 27 April 2012 Time: 16:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -136,8 +168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 February 2014", 
+                "time": "17:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 05 February 2014 Time: 17:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -152,8 +188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 February 2012", 
+                "time": "05:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 03 February 2012 Time: 05:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -168,8 +208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 June 2014", 
+                "time": "13:50"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 14 June 2014 Time: 13:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -184,8 +228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 November 2013", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 04 November 2013 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -200,8 +248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 September 2014", 
+                "time": "16:30"
+            }, 
             "properties": {
-                "description": "Struck pedestrian (On Road)", 
+                "description": "Struck pedestrian (On Road) Date: 03 September 2014 Time: 16:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -216,8 +268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 August 2014", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 07 August 2014 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -232,8 +288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 September 2012", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 12 September 2012 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -248,8 +308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 October 2014", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 22 October 2014 Time: 08:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -264,8 +328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 October 2013", 
+                "time": "16:38"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 29 October 2013 Time: 16:38", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -280,8 +348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 February 2013", 
+                "time": "07:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 06 February 2013 Time: 07:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -296,8 +368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 August 2014", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 08 August 2014 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -312,8 +388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 March 2013", 
+                "time": "16:05"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 March 2013 Time: 16:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -328,8 +408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 January 2012", 
+                "time": "19:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 January 2012 Time: 19:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -344,8 +428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 October 2014", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 13 October 2014 Time: 17:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -360,8 +448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 March 2014", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 March 2014 Time: 08:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -376,8 +468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 September 2013", 
+                "time": "12:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 26 September 2013 Time: 12:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -392,8 +488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 August 2013", 
+                "time": "07:25"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 August 2013 Time: 07:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -408,8 +508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 November 2014", 
+                "time": "08:25"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 27 November 2014 Time: 08:25", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -424,8 +528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 May 2013", 
+                "time": "06:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 May 2013 Time: 06:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -440,8 +548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 January 2015", 
+                "time": "10:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 17 January 2015 Time: 10:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -456,8 +568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 December 2012", 
+                "time": "08:35"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 21 December 2012 Time: 08:35", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -472,8 +588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 March 2014", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 20 March 2014 Time: 08:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -488,8 +608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 March 2012", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 07 March 2012 Time: 16:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -504,8 +628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 February 2014", 
+                "time": "15:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 21 February 2014 Time: 15:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -520,8 +648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 December 2014", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 December 2014 Time: 08:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -536,8 +668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 August 2013", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 28 August 2013 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -552,8 +688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 August 2014", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 August 2014 Time: 18:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -568,8 +708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 March 2012", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 March 2012 Time: 17:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -584,8 +728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 January 2015", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 05 January 2015 Time: 08:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -600,8 +748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 April 2014", 
+                "time": "15:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 29 April 2014 Time: 15:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -616,8 +768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 September 2012", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road)", 
+                "description": "Other -  Single Vehicle (On Road) Date: 10 September 2012 Time: 08:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -632,8 +788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 November 2013", 
+                "time": "17:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 November 2013 Time: 17:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -648,8 +808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 January 2014", 
+                "time": "14:25"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 14 January 2014 Time: 14:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -664,8 +828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "31 May 2012", 
+                "time": "19:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 31 May 2012 Time: 19:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -680,8 +848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 May 2013", 
+                "time": "18:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 13 May 2013 Time: 18:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -696,8 +868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 May 2015", 
+                "time": "14:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 May 2015 Time: 14:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -712,8 +888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 April 2012", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 03 April 2012 Time: 08:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -728,8 +908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 April 2014", 
+                "time": "15:45"
+            }, 
             "properties": {
-                "description": "Struck pedestrian (On Road)", 
+                "description": "Struck pedestrian (On Road) Date: 28 April 2014 Time: 15:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -744,8 +928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 July 2012", 
+                "time": "08:35"
+            }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road)", 
+                "description": "Other -  Single Vehicle (On Road) Date: 24 July 2012 Time: 08:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -760,8 +948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 March 2013", 
+                "time": "15:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 17 March 2013 Time: 15:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -776,8 +968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 May 2013", 
+                "time": "06:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 May 2013 Time: 06:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -792,8 +988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 May 2014", 
+                "time": "11:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 22 May 2014 Time: 11:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -808,8 +1008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 March 2013", 
+                "time": "16:13"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 27 March 2013 Time: 16:13", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -824,8 +1028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 October 2012", 
+                "time": "17:55"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 17 October 2012 Time: 17:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -840,8 +1048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 May 2013", 
+                "time": "15:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 07 May 2013 Time: 15:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -856,8 +1068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 February 2015", 
+                "time": "07:47"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 10 February 2015 Time: 07:47", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -872,8 +1088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 June 2013", 
+                "time": "17:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 04 June 2013 Time: 17:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -888,8 +1108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 November 2012", 
+                "time": "17:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 13 November 2012 Time: 17:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -904,8 +1128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 October 2012", 
+                "time": "07:30"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 05 October 2012 Time: 07:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -920,8 +1148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 May 2015", 
+                "time": "23:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 25 May 2015 Time: 23:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -936,8 +1168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 March 2014", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 18 March 2014 Time: 08:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -952,8 +1188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 March 2013", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 March 2013 Time: 18:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -968,8 +1208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 May 2012", 
+                "time": "09:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 24 May 2012 Time: 09:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -984,8 +1228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 May 2015", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 25 May 2015 Time: 09:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1000,8 +1248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 June 2012", 
+                "time": "13:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 21 June 2012 Time: 13:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1016,8 +1268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 September 2012", 
+                "time": "11:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 27 September 2012 Time: 11:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1032,8 +1288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 January 2014", 
+                "time": "05:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 06 January 2014 Time: 05:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1048,8 +1308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 May 2012", 
+                "time": "13:05"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 11 May 2012 Time: 13:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1064,8 +1328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 June 2012", 
+                "time": "17:26"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 26 June 2012 Time: 17:26", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1080,8 +1348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 July 2013", 
+                "time": "18:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 28 July 2013 Time: 18:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1096,8 +1368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 October 2013", 
+                "time": "12:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 06 October 2013 Time: 12:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1112,8 +1388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 February 2015", 
+                "time": "17:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 05 February 2015 Time: 17:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1128,8 +1408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 June 2013", 
+                "time": "18:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 14 June 2013 Time: 18:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1144,8 +1428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 December 2014", 
+                "time": "16:00"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 11 December 2014 Time: 16:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1160,8 +1448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 February 2014", 
+                "time": "07:30"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 17 February 2014 Time: 07:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1176,8 +1468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 January 2012", 
+                "time": "09:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 06 January 2012 Time: 09:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1192,8 +1488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 March 2015", 
+                "time": "09:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 02 March 2015 Time: 09:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1208,8 +1508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 August 2012", 
+                "time": "08:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 27 August 2012 Time: 08:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1224,8 +1528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 March 2015", 
+                "time": "07:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 March 2015 Time: 07:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1240,8 +1548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 February 2013", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 19 February 2013 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1256,8 +1568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 August 2013", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 01 August 2013 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1272,8 +1588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 December 2014", 
+                "time": "19:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 02 December 2014 Time: 19:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1288,8 +1608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 November 2013", 
+                "time": "17:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 02 November 2013 Time: 17:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1304,8 +1628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 August 2014", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 27 August 2014 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1320,8 +1648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 September 2013", 
+                "time": "15:40"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 10 September 2013 Time: 15:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1336,8 +1668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 September 2014", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 17 September 2014 Time: 09:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1352,8 +1688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 July 2013", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 08 July 2013 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1368,8 +1708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 August 2014", 
+                "time": "08:55"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 28 August 2014 Time: 08:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1384,8 +1728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 April 2012", 
+                "time": "17:55"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 11 April 2012 Time: 17:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1400,8 +1748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 January 2015", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 January 2015 Time: 18:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1416,8 +1768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 December 2013", 
+                "time": "14:55"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 05 December 2013 Time: 14:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1432,8 +1788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 October 2013", 
+                "time": "17:35"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 October 2013 Time: 17:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1448,8 +1808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 May 2013", 
+                "time": "18:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 06 May 2013 Time: 18:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1464,8 +1828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 November 2014", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 19 November 2014 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1480,8 +1848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 March 2015", 
+                "time": "12:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 March 2015 Time: 12:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1496,8 +1868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 June 2012", 
+                "time": "17:45"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 07 June 2012 Time: 17:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1512,8 +1888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 March 2013", 
+                "time": "11:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 29 March 2013 Time: 11:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1528,8 +1908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 May 2015", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 22 May 2015 Time: 17:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1544,8 +1928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 February 2012", 
+                "time": "18:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 01 February 2012 Time: 18:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1560,8 +1948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 November 2014", 
+                "time": "09:15"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 21 November 2014 Time: 09:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1576,8 +1968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 April 2015", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 28 April 2015 Time: 08:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1592,8 +1988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 June 2012", 
+                "time": "15:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 30 June 2012 Time: 15:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1608,8 +2008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 September 2014", 
+                "time": "18:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 02 September 2014 Time: 18:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1624,8 +2028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 September 2013", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 10 September 2013 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1640,8 +2048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 February 2012", 
+                "time": "05:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 24 February 2012 Time: 05:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1656,8 +2068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 October 2012", 
+                "time": "07:04"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 06 October 2012 Time: 07:04", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1672,8 +2088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 April 2012", 
+                "time": "20:26"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 17 April 2012 Time: 20:26", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1688,8 +2108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 September 2013", 
+                "time": "09:20"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 09 September 2013 Time: 09:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1704,8 +2128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 June 2012", 
+                "time": "10:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 28 June 2012 Time: 10:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1720,8 +2148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 May 2013", 
+                "time": "18:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 07 May 2013 Time: 18:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1736,8 +2168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 November 2012", 
+                "time": "07:20"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 29 November 2012 Time: 07:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1752,8 +2188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 October 2014", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 15 October 2014 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1768,8 +2208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 April 2015", 
+                "time": "07:12"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 15 April 2015 Time: 07:12", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1784,8 +2228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 October 2013", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 21 October 2013 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1800,8 +2248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 January 2014", 
+                "time": "08:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 21 January 2014 Time: 08:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1816,8 +2268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 February 2015", 
+                "time": "08:38"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 21 February 2015 Time: 08:38", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1832,8 +2288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 November 2012", 
+                "time": "17:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 26 November 2012 Time: 17:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1848,8 +2308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 September 2012", 
+                "time": "11:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 09 September 2012 Time: 11:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1864,8 +2328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 December 2013", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 02 December 2013 Time: 08:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1880,8 +2348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 February 2015", 
+                "time": "21:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 06 February 2015 Time: 21:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1896,8 +2368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 March 2014", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 02 March 2014 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1912,8 +2388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 December 2014", 
+                "time": "07:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 December 2014 Time: 07:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1928,8 +2408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 May 2013", 
+                "time": "05:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 10 May 2013 Time: 05:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -1944,8 +2428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 December 2014", 
+                "time": "18:24"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 December 2014 Time: 18:24", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1960,8 +2448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 January 2014", 
+                "time": "10:30"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 18 January 2014 Time: 10:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1976,8 +2468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 April 2012", 
+                "time": "12:00"
+            }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road)", 
+                "description": "Other -  Single Vehicle (On Road) Date: 04 April 2012 Time: 12:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -1992,8 +2488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 September 2013", 
+                "time": "07:10"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 12 September 2013 Time: 07:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2008,8 +2508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 June 2014", 
+                "time": "07:00"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 18 June 2014 Time: 07:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2024,8 +2528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 February 2012", 
+                "time": "09:10"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 15 February 2012 Time: 09:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2040,8 +2548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 January 2013", 
+                "time": "07:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 07 January 2013 Time: 07:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2056,8 +2568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 October 2013", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 28 October 2013 Time: 08:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2072,8 +2588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 November 2012", 
+                "time": "08:53"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 21 November 2012 Time: 08:53", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2088,8 +2608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 August 2014", 
+                "time": "22:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 16 August 2014 Time: 22:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2104,8 +2628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 January 2015", 
+                "time": "07:50"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 15 January 2015 Time: 07:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2120,8 +2648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 March 2012", 
+                "time": "09:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 20 March 2012 Time: 09:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2136,8 +2668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 April 2014", 
+                "time": "01:05"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 21 April 2014 Time: 01:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2152,8 +2688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 February 2015", 
+                "time": "15:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 24 February 2015 Time: 15:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2168,8 +2708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 May 2014", 
+                "time": "06:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 16 May 2014 Time: 06:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2184,8 +2728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 January 2014", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 08 January 2014 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2200,8 +2748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 October 2013", 
+                "time": "17:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 16 October 2013 Time: 17:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2216,8 +2768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 April 2015", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 08 April 2015 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2232,8 +2788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 June 2014", 
+                "time": "07:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 20 June 2014 Time: 07:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2248,8 +2808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 April 2013", 
+                "time": "19:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 27 April 2013 Time: 19:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2264,8 +2828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 February 2013", 
+                "time": "07:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 February 2013 Time: 07:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2280,8 +2848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 March 2013", 
+                "time": "16:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 25 March 2013 Time: 16:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2296,8 +2868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 February 2013", 
+                "time": "16:40"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 04 February 2013 Time: 16:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2312,8 +2888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 September 2014", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 01 September 2014 Time: 08:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2328,8 +2908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 April 2012", 
+                "time": "18:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 26 April 2012 Time: 18:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2344,8 +2928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 August 2013", 
+                "time": "17:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 28 August 2013 Time: 17:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2360,8 +2948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 July 2012", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 04 July 2012 Time: 18:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2376,8 +2968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 February 2015", 
+                "time": "08:05"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 17 February 2015 Time: 08:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2392,8 +2988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 April 2014", 
+                "time": "05:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 07 April 2014 Time: 05:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2408,8 +3008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 June 2014", 
+                "time": "14:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 June 2014 Time: 14:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2424,8 +3028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 March 2012", 
+                "time": "11:55"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 March 2012 Time: 11:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2440,8 +3048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 July 2013", 
+                "time": "14:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 05 July 2013 Time: 14:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2456,8 +3068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 May 2013", 
+                "time": "18:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 02 May 2013 Time: 18:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2472,8 +3088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 November 2013", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 19 November 2013 Time: 08:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2488,8 +3108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 May 2015", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Struck pedestrian (On Road)", 
+                "description": "Struck pedestrian (On Road) Date: 14 May 2015 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2504,8 +3128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 January 2013", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 24 January 2013 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2520,8 +3148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 March 2014", 
+                "time": "18:45"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 28 March 2014 Time: 18:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2536,8 +3168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 August 2013", 
+                "time": "08:55"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 13 August 2013 Time: 08:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2552,8 +3188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 May 2014", 
+                "time": "19:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 07 May 2014 Time: 19:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2568,8 +3208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 December 2013", 
+                "time": "12:00"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 14 December 2013 Time: 12:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2584,8 +3228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 June 2013", 
+                "time": "17:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 28 June 2013 Time: 17:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2600,8 +3248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 July 2012", 
+                "time": "18:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 July 2012 Time: 18:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2616,8 +3268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 May 2015", 
+                "time": "16:00"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 15 May 2015 Time: 16:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2632,8 +3288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 October 2012", 
+                "time": "16:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 28 October 2012 Time: 16:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2648,8 +3308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 October 2014", 
+                "time": "10:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 26 October 2014 Time: 10:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2664,8 +3328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 May 2015", 
+                "time": "13:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 26 May 2015 Time: 13:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2680,8 +3348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 January 2012", 
+                "time": "16:36"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 30 January 2012 Time: 16:36", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2696,8 +3368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 September 2012", 
+                "time": "18:10"
+            }, 
             "properties": {
-                "description": "Struck object (Off Road)", 
+                "description": "Struck object (Off Road) Date: 22 September 2012 Time: 18:10", 
                 "marker-color": "#2A0A0A", 
                 "marker-size": "large", 
                 "marker-symbol": "cemetery"
@@ -2712,8 +3388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 December 2012", 
+                "time": "07:46"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 December 2012 Time: 07:46", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2728,8 +3408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 May 2014", 
+                "time": "09:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 May 2014 Time: 09:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2744,8 +3428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 February 2015", 
+                "time": "16:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 23 February 2015 Time: 16:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2760,8 +3448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 December 2014", 
+                "time": "16:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 17 December 2014 Time: 16:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2776,8 +3468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 February 2013", 
+                "time": "08:05"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 08 February 2013 Time: 08:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2792,8 +3488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 February 2015", 
+                "time": "20:17"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 16 February 2015 Time: 20:17", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2808,8 +3508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 March 2014", 
+                "time": "05:50"
+            }, 
             "properties": {
-                "description": "Struck object  (On Road)", 
+                "description": "Struck object  (On Road) Date: 21 March 2014 Time: 05:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2824,8 +3528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 April 2015", 
+                "time": "20:45"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 18 April 2015 Time: 20:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2840,8 +3548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 July 2014", 
+                "time": "06:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 08 July 2014 Time: 06:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2856,8 +3568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 July 2014", 
+                "time": "10:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 09 July 2014 Time: 10:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2872,8 +3588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 November 2013", 
+                "time": "07:55"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 08 November 2013 Time: 07:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2888,8 +3608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 November 2014", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 14 November 2014 Time: 08:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2904,8 +3628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 September 2013", 
+                "time": "18:05"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 04 September 2013 Time: 18:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2920,8 +3648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 July 2013", 
+                "time": "10:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 20 July 2013 Time: 10:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2936,8 +3668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 February 2015", 
+                "time": "17:50"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 16 February 2015 Time: 17:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2952,8 +3688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 April 2015", 
+                "time": "17:25"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 27 April 2015 Time: 17:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -2968,8 +3708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 June 2014", 
+                "time": "10:44"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 30 June 2014 Time: 10:44", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -2984,8 +3728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 June 2013", 
+                "time": "13:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 17 June 2013 Time: 13:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3000,8 +3748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 December 2012", 
+                "time": "15:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 06 December 2012 Time: 15:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3016,8 +3768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 January 2014", 
+                "time": "19:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 13 January 2014 Time: 19:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3032,8 +3788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 September 2013", 
+                "time": "08:20"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 04 September 2013 Time: 08:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3048,8 +3808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "31 October 2014", 
+                "time": "16:49"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 31 October 2014 Time: 16:49", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3064,8 +3828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 November 2013", 
+                "time": "07:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 06 November 2013 Time: 07:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3080,8 +3848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 March 2015", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 19 March 2015 Time: 18:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3096,8 +3868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 February 2013", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 February 2013 Time: 08:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3112,8 +3888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 April 2014", 
+                "time": "08:20"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 03 April 2014 Time: 08:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3128,8 +3908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 April 2012", 
+                "time": "10:00"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 16 April 2012 Time: 10:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3144,8 +3928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "31 March 2015", 
+                "time": "09:10"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 31 March 2015 Time: 09:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3160,8 +3948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 June 2013", 
+                "time": "12:40"
+            }, 
             "properties": {
-                "description": "Struck animal (not ridden On Road)", 
+                "description": "Struck animal (not ridden On Road) Date: 23 June 2013 Time: 12:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3176,8 +3968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 October 2012", 
+                "time": "08:35"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 29 October 2012 Time: 08:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3192,8 +3988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 December 2014", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 09 December 2014 Time: 08:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3208,8 +4008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 January 2015", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 30 January 2015 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3224,8 +4028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 February 2012", 
+                "time": "18:01"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 07 February 2012 Time: 18:01", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3240,8 +4048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 April 2014", 
+                "time": "18:25"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 April 2014 Time: 18:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3256,8 +4068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 November 2013", 
+                "time": "16:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 21 November 2013 Time: 16:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3272,8 +4088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 January 2015", 
+                "time": "11:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 11 January 2015 Time: 11:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3288,8 +4108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 February 2015", 
+                "time": "08:47"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 13 February 2015 Time: 08:47", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3304,8 +4128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 August 2012", 
+                "time": "13:55"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 08 August 2012 Time: 13:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3320,8 +4148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 January 2013", 
+                "time": "13:10"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 02 January 2013 Time: 13:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3336,8 +4168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 December 2012", 
+                "time": "15:47"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 28 December 2012 Time: 15:47", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3352,8 +4188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 November 2014", 
+                "time": "06:58"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 November 2014 Time: 06:58", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3368,8 +4208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 December 2012", 
+                "time": "11:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 28 December 2012 Time: 11:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3384,8 +4228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 June 2012", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 21 June 2012 Time: 08:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3400,8 +4248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 April 2012", 
+                "time": "16:20"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 11 April 2012 Time: 16:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3416,8 +4268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 November 2014", 
+                "time": "08:39"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 26 November 2014 Time: 08:39", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3432,8 +4288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 July 2012", 
+                "time": "13:05"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 26 July 2012 Time: 13:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3448,8 +4308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 September 2013", 
+                "time": "07:56"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 26 September 2013 Time: 07:56", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3464,8 +4328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 March 2013", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 24 March 2013 Time: 17:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3480,8 +4348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 February 2014", 
+                "time": "16:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 02 February 2014 Time: 16:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3496,8 +4368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 January 2014", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 28 January 2014 Time: 16:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3512,8 +4388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "31 July 2013", 
+                "time": "07:55"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 31 July 2013 Time: 07:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3528,8 +4408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 April 2012", 
+                "time": "16:43"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 13 April 2012 Time: 16:43", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3544,8 +4428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 May 2012", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 11 May 2012 Time: 17:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3560,8 +4448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 January 2012", 
+                "time": "12:55"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 January 2012 Time: 12:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3576,8 +4468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 March 2012", 
+                "time": "07:55"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 March 2012 Time: 07:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3592,8 +4488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 April 2013", 
+                "time": "14:55"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 April 2013 Time: 14:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3608,8 +4508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 June 2014", 
+                "time": "14:15"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 04 June 2014 Time: 14:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3624,8 +4528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 December 2014", 
+                "time": "17:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 December 2014 Time: 17:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3640,8 +4548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 April 2014", 
+                "time": "16:35"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 April 2014 Time: 16:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3656,8 +4568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 November 2013", 
+                "time": "07:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 November 2013 Time: 07:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3672,8 +4588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 May 2014", 
+                "time": "14:05"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 13 May 2014 Time: 14:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3688,8 +4608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 August 2014", 
+                "time": "17:50"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 21 August 2014 Time: 17:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3704,8 +4628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 July 2014", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 16 July 2014 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3720,8 +4648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 April 2013", 
+                "time": "07:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 April 2013 Time: 07:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3736,8 +4668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 January 2015", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 16 January 2015 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3752,8 +4688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 October 2012", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 30 October 2012 Time: 16:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3768,8 +4708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 January 2015", 
+                "time": "09:30"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 07 January 2015 Time: 09:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3784,8 +4728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 February 2012", 
+                "time": "13:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 07 February 2012 Time: 13:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3800,8 +4748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 July 2013", 
+                "time": "18:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 26 July 2013 Time: 18:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3816,8 +4768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 May 2013", 
+                "time": "08:35"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 01 May 2013 Time: 08:35", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3832,8 +4788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 September 2013", 
+                "time": "14:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 24 September 2013 Time: 14:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3848,8 +4808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 April 2013", 
+                "time": "14:20"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 21 April 2013 Time: 14:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3864,8 +4828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 April 2013", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 April 2013 Time: 18:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3880,8 +4848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 August 2013", 
+                "time": "09:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 August 2013 Time: 09:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3896,8 +4868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 May 2014", 
+                "time": "17:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 06 May 2014 Time: 17:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3912,8 +4888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 March 2012", 
+                "time": "14:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 14 March 2012 Time: 14:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3928,8 +4908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 November 2014", 
+                "time": "14:00"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 26 November 2014 Time: 14:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3944,8 +4928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 February 2013", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 February 2013 Time: 08:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -3960,8 +4948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 May 2013", 
+                "time": "07:40"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 22 May 2013 Time: 07:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3976,8 +4968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 March 2015", 
+                "time": "17:39"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 27 March 2015 Time: 17:39", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -3992,8 +4988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 July 2012", 
+                "time": "06:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 14 July 2012 Time: 06:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4008,8 +5008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 August 2013", 
+                "time": "08:07"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 08 August 2013 Time: 08:07", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4024,8 +5028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 February 2013", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 01 February 2013 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4040,8 +5048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 January 2014", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 16 January 2014 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4056,8 +5068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 January 2015", 
+                "time": "17:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 16 January 2015 Time: 17:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4072,8 +5088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 July 2012", 
+                "time": "18:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 03 July 2012 Time: 18:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4088,8 +5108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 April 2014", 
+                "time": "08:35"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 April 2014 Time: 08:35", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4104,8 +5128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 May 2013", 
+                "time": "12:30"
+            }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road)", 
+                "description": "Other -  Single Vehicle (On Road) Date: 09 May 2013 Time: 12:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4120,8 +5148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 May 2014", 
+                "time": "07:55"
+            }, 
             "properties": {
-                "description": "Struck pedestrian (On Road)", 
+                "description": "Struck pedestrian (On Road) Date: 07 May 2014 Time: 07:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4136,8 +5168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "31 July 2014", 
+                "time": "15:55"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 31 July 2014 Time: 15:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4152,8 +5188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 January 2015", 
+                "time": "19:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 January 2015 Time: 19:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4168,8 +5208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 March 2014", 
+                "time": "16:37"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 18 March 2014 Time: 16:37", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4184,8 +5228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 March 2015", 
+                "time": "17:15"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 19 March 2015 Time: 17:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4200,8 +5248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 February 2015", 
+                "time": "12:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 04 February 2015 Time: 12:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4216,8 +5268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 April 2015", 
+                "time": "17:55"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 27 April 2015 Time: 17:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4232,8 +5288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 May 2015", 
+                "time": "14:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 May 2015 Time: 14:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4248,8 +5308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 June 2014", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 26 June 2014 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4264,8 +5328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 April 2014", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 10 April 2014 Time: 08:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4280,8 +5348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 July 2012", 
+                "time": "12:30"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 21 July 2012 Time: 12:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4296,8 +5368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 July 2014", 
+                "time": "14:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 July 2014 Time: 14:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4312,8 +5388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 January 2015", 
+                "time": "12:55"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 08 January 2015 Time: 12:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4328,8 +5408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 October 2013", 
+                "time": "15:25"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 16 October 2013 Time: 15:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4344,8 +5428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 September 2014", 
+                "time": "14:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 12 September 2014 Time: 14:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4360,8 +5448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 March 2015", 
+                "time": "09:05"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 19 March 2015 Time: 09:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4376,8 +5468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 July 2014", 
+                "time": "09:05"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 01 July 2014 Time: 09:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4392,8 +5488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 September 2013", 
+                "time": "14:10"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 27 September 2013 Time: 14:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4408,8 +5508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 February 2013", 
+                "time": "16:55"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 February 2013 Time: 16:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4424,8 +5528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 December 2012", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 20 December 2012 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4440,8 +5548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 May 2012", 
+                "time": "19:01"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 14 May 2012 Time: 19:01", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4456,8 +5568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 June 2014", 
+                "time": "17:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 16 June 2014 Time: 17:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4472,8 +5588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 March 2015", 
+                "time": "08:36"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 16 March 2015 Time: 08:36", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4488,8 +5608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 February 2013", 
+                "time": "08:33"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 01 February 2013 Time: 08:33", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4504,8 +5628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 June 2012", 
+                "time": "17:25"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 01 June 2012 Time: 17:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4520,8 +5648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 February 2015", 
+                "time": "12:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 27 February 2015 Time: 12:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4536,8 +5668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 November 2013", 
+                "time": "18:30"
+            }, 
             "properties": {
-                "description": "Head on collision", 
+                "description": "Head on collision Date: 29 November 2013 Time: 18:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4552,8 +5688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 February 2012", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 22 February 2012 Time: 08:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4568,8 +5708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 May 2012", 
+                "time": "11:30"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 12 May 2012 Time: 11:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4584,8 +5728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 May 2015", 
+                "time": "17:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 17 May 2015 Time: 17:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4600,8 +5748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 November 2014", 
+                "time": "09:40"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 22 November 2014 Time: 09:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4616,8 +5768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 September 2012", 
+                "time": "06:08"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 04 September 2012 Time: 06:08", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4632,8 +5788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 December 2013", 
+                "time": "17:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 December 2013 Time: 17:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4648,8 +5808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 March 2012", 
+                "time": "09:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 23 March 2012 Time: 09:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4664,8 +5828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 March 2014", 
+                "time": "08:55"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 21 March 2014 Time: 08:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4680,8 +5848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 September 2014", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 17 September 2014 Time: 08:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4696,8 +5868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 September 2013", 
+                "time": "16:25"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 10 September 2013 Time: 16:25", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4712,8 +5888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 April 2014", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Struck pedestrian (On Road)", 
+                "description": "Struck pedestrian (On Road) Date: 16 April 2014 Time: 17:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4728,8 +5908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 January 2012", 
+                "time": "17:52"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 January 2012 Time: 17:52", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4744,8 +5928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 June 2012", 
+                "time": "15:35"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 07 June 2012 Time: 15:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4760,8 +5948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 May 2013", 
+                "time": "07:52"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 08 May 2013 Time: 07:52", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4776,8 +5968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 September 2012", 
+                "time": "18:43"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 04 September 2012 Time: 18:43", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4792,8 +5988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 March 2015", 
+                "time": "16:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 March 2015 Time: 16:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4808,8 +6008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 September 2014", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 17 September 2014 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4824,8 +6028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 July 2013", 
+                "time": "16:25"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 28 July 2013 Time: 16:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4840,8 +6048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 September 2012", 
+                "time": "09:05"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 04 September 2012 Time: 09:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4856,8 +6068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 September 2014", 
+                "time": "16:03"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 12 September 2014 Time: 16:03", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4872,8 +6088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 March 2012", 
+                "time": "14:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 March 2012 Time: 14:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4888,8 +6108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 August 2012", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 24 August 2012 Time: 17:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4904,8 +6128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 February 2015", 
+                "time": "12:01"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 February 2015 Time: 12:01", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4920,8 +6148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 January 2012", 
+                "time": "14:11"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 January 2012 Time: 14:11", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4936,8 +6168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 April 2015", 
+                "time": "10:30"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 12 April 2015 Time: 10:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -4952,8 +6188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 April 2012", 
+                "time": "06:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 April 2012 Time: 06:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4968,8 +6208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "31 May 2015", 
+                "time": "10:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 31 May 2015 Time: 10:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -4984,8 +6228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 August 2012", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 12 August 2012 Time: 16:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5000,8 +6248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 May 2012", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 24 May 2012 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5016,8 +6268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 May 2014", 
+                "time": "07:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 30 May 2014 Time: 07:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5032,8 +6288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 March 2015", 
+                "time": "09:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 March 2015 Time: 09:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5048,8 +6308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 May 2015", 
+                "time": "17:25"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 06 May 2015 Time: 17:25", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5064,8 +6328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 August 2013", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 07 August 2013 Time: 08:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5080,8 +6348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 April 2015", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 15 April 2015 Time: 16:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5096,8 +6368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 May 2013", 
+                "time": "16:40"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 01 May 2013 Time: 16:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5112,8 +6388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 July 2013", 
+                "time": "18:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 04 July 2013 Time: 18:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5128,8 +6408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 April 2012", 
+                "time": "18:05"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 17 April 2012 Time: 18:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5144,8 +6428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 September 2014", 
+                "time": "10:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 04 September 2014 Time: 10:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5160,8 +6448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 February 2014", 
+                "time": "18:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 11 February 2014 Time: 18:20", 
                 "marker-color": "#2A0A0A", 
                 "marker-size": "large", 
                 "marker-symbol": "cemetery"
@@ -5176,8 +6468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 June 2013", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 20 June 2013 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5192,8 +6488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 April 2015", 
+                "time": "15:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 02 April 2015 Time: 15:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5208,8 +6508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 November 2014", 
+                "time": "08:23"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 28 November 2014 Time: 08:23", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5224,8 +6528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 November 2013", 
+                "time": "18:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 November 2013 Time: 18:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5240,8 +6548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 May 2014", 
+                "time": "10:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 27 May 2014 Time: 10:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5256,8 +6568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 May 2013", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 05 May 2013 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5272,8 +6588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 April 2014", 
+                "time": "10:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 24 April 2014 Time: 10:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5288,8 +6608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 April 2012", 
+                "time": "18:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 10 April 2012 Time: 18:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5304,8 +6628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 January 2015", 
+                "time": "15:45"
+            }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road)", 
+                "description": "Other -  Single Vehicle (On Road) Date: 16 January 2015 Time: 15:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5320,8 +6648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 December 2013", 
+                "time": "08:56"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 03 December 2013 Time: 08:56", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5336,8 +6668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 March 2012", 
+                "time": "17:03"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 March 2012 Time: 17:03", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5352,8 +6688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 August 2012", 
+                "time": "09:07"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 24 August 2012 Time: 09:07", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5368,8 +6708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 November 2013", 
+                "time": "07:00"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 18 November 2013 Time: 07:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5384,8 +6728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 May 2012", 
+                "time": "17:28"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 22 May 2012 Time: 17:28", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5400,8 +6748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 May 2014", 
+                "time": "17:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 12 May 2014 Time: 17:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5416,8 +6768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 January 2012", 
+                "time": "06:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 09 January 2012 Time: 06:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5432,8 +6788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 July 2014", 
+                "time": "16:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 July 2014 Time: 16:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5448,8 +6808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 July 2013", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 04 July 2013 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5464,8 +6828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 April 2015", 
+                "time": "14:25"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 24 April 2015 Time: 14:25", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5480,8 +6848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 May 2012", 
+                "time": "17:13"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 25 May 2012 Time: 17:13", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5496,8 +6868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 November 2014", 
+                "time": "13:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 November 2014 Time: 13:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5512,8 +6888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 November 2012", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 28 November 2012 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5528,8 +6908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 May 2012", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 15 May 2012 Time: 17:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5544,8 +6928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 April 2013", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 11 April 2013 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5560,8 +6948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 April 2015", 
+                "time": "07:55"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 01 April 2015 Time: 07:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5576,8 +6968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 April 2013", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 09 April 2013 Time: 18:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5592,8 +6988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 July 2014", 
+                "time": "09:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 27 July 2014 Time: 09:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5608,8 +7008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 November 2013", 
+                "time": "17:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 06 November 2013 Time: 17:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5624,8 +7028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 January 2015", 
+                "time": "16:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 January 2015 Time: 16:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5640,8 +7048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 September 2013", 
+                "time": "16:55"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 10 September 2013 Time: 16:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5656,8 +7068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 August 2014", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 23 August 2014 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5672,8 +7088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 October 2013", 
+                "time": "13:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 07 October 2013 Time: 13:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5688,8 +7108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 November 2012", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 November 2012 Time: 18:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5704,8 +7128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 August 2014", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 07 August 2014 Time: 08:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5720,8 +7148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 October 2012", 
+                "time": "08:16"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 October 2012 Time: 08:16", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5736,8 +7168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 February 2012", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 15 February 2012 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5752,8 +7188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 April 2014", 
+                "time": "19:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 10 April 2014 Time: 19:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5768,8 +7208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 December 2013", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 18 December 2013 Time: 08:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5784,8 +7228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 July 2013", 
+                "time": "18:25"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 29 July 2013 Time: 18:25", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5800,8 +7248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 May 2014", 
+                "time": "18:22"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 26 May 2014 Time: 18:22", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5816,8 +7268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 November 2014", 
+                "time": "19:00"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 12 November 2014 Time: 19:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5832,8 +7288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 April 2013", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Struck pedestrian (Off Road)", 
+                "description": "Struck pedestrian (Off Road) Date: 17 April 2013 Time: 18:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5848,8 +7308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 February 2014", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 07 February 2014 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5864,8 +7328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 March 2015", 
+                "time": "18:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 March 2015 Time: 18:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5880,8 +7348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 June 2013", 
+                "time": "21:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 June 2013 Time: 21:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5896,8 +7368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 November 2014", 
+                "time": "16:38"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 November 2014 Time: 16:38", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5912,8 +7388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 May 2015", 
+                "time": "17:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 20 May 2015 Time: 17:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5928,8 +7408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 October 2012", 
+                "time": "16:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 27 October 2012 Time: 16:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5944,8 +7428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 April 2015", 
+                "time": "18:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 01 April 2015 Time: 18:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5960,8 +7448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 October 2012", 
+                "time": "08:05"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 18 October 2012 Time: 08:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -5976,8 +7468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 June 2013", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 04 June 2013 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -5992,8 +7488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 May 2015", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 06 May 2015 Time: 08:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6008,8 +7508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 April 2012", 
+                "time": "13:00"
+            }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road)", 
+                "description": "Other -  Single Vehicle (On Road) Date: 04 April 2012 Time: 13:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6024,8 +7528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 May 2013", 
+                "time": "09:20"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 02 May 2013 Time: 09:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6040,8 +7548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 March 2013", 
+                "time": "09:18"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 28 March 2013 Time: 09:18", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6056,8 +7568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 November 2014", 
+                "time": "05:45"
+            }, 
             "properties": {
-                "description": "Head on collision", 
+                "description": "Head on collision Date: 04 November 2014 Time: 05:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6072,8 +7588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 September 2012", 
+                "time": "08:35"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 September 2012 Time: 08:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6088,8 +7608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 March 2015", 
+                "time": "06:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 March 2015 Time: 06:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6104,8 +7628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 August 2012", 
+                "time": "12:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 27 August 2012 Time: 12:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6120,8 +7648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 June 2012", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 27 June 2012 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6136,8 +7668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 November 2014", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 21 November 2014 Time: 08:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6152,8 +7688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 September 2013", 
+                "time": "18:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 September 2013 Time: 18:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6168,8 +7708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 August 2014", 
+                "time": "17:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 01 August 2014 Time: 17:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6184,8 +7728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 May 2013", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 29 May 2013 Time: 08:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6200,8 +7748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 May 2012", 
+                "time": "10:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 28 May 2012 Time: 10:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6216,8 +7768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 February 2015", 
+                "time": "15:48"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 February 2015 Time: 15:48", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6232,8 +7788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 December 2014", 
+                "time": "19:50"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 16 December 2014 Time: 19:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6248,8 +7808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 May 2013", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 28 May 2013 Time: 08:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6264,8 +7828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 May 2015", 
+                "time": "16:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 13 May 2015 Time: 16:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6280,8 +7848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 October 2014", 
+                "time": "08:48"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 02 October 2014 Time: 08:48", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6296,8 +7868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 November 2014", 
+                "time": "06:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 November 2014 Time: 06:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6312,8 +7888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 May 2013", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 20 May 2013 Time: 08:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6328,8 +7908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 April 2014", 
+                "time": "08:35"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 08 April 2014 Time: 08:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6344,8 +7928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 January 2015", 
+                "time": "09:15"
+            }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road)", 
+                "description": "Other -  Single Vehicle (On Road) Date: 18 January 2015 Time: 09:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6360,8 +7948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 April 2015", 
+                "time": "08:35"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 13 April 2015 Time: 08:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6376,8 +7968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 May 2012", 
+                "time": "08:05"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 10 May 2012 Time: 08:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6392,8 +7988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 January 2014", 
+                "time": "20:28"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 09 January 2014 Time: 20:28", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6408,8 +8008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 February 2013", 
+                "time": "17:25"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 27 February 2013 Time: 17:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6424,8 +8028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 December 2014", 
+                "time": "09:40"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 14 December 2014 Time: 09:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6440,8 +8048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 January 2013", 
+                "time": "08:58"
+            }, 
             "properties": {
-                "description": "Struck pedestrian (On Road)", 
+                "description": "Struck pedestrian (On Road) Date: 23 January 2013 Time: 08:58", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6456,8 +8068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 October 2013", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 21 October 2013 Time: 08:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6472,8 +8088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 December 2014", 
+                "time": "07:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 December 2014 Time: 07:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6488,8 +8108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 March 2015", 
+                "time": "17:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 10 March 2015 Time: 17:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6504,8 +8128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 October 2012", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 23 October 2012 Time: 16:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6520,8 +8148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 March 2015", 
+                "time": "13:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 26 March 2015 Time: 13:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6536,8 +8168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 February 2013", 
+                "time": "08:44"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 22 February 2013 Time: 08:44", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6552,8 +8188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 February 2013", 
+                "time": "11:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 24 February 2013 Time: 11:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6568,8 +8208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 August 2012", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 27 August 2012 Time: 18:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6584,8 +8228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 November 2012", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 02 November 2012 Time: 08:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6600,8 +8248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 June 2015", 
+                "time": "12:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 09 June 2015 Time: 12:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6616,8 +8268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 May 2014", 
+                "time": "17:55"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 14 May 2014 Time: 17:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6632,8 +8288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 February 2015", 
+                "time": "15:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 23 February 2015 Time: 15:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6648,8 +8308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 March 2012", 
+                "time": "07:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 19 March 2012 Time: 07:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6664,8 +8328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 July 2014", 
+                "time": "12:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 02 July 2014 Time: 12:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6680,8 +8348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 February 2013", 
+                "time": "16:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 February 2013 Time: 16:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6696,8 +8368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 June 2014", 
+                "time": "11:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 30 June 2014 Time: 11:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6712,8 +8388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 January 2014", 
+                "time": "16:15"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 11 January 2014 Time: 16:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6728,8 +8408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 June 2013", 
+                "time": "11:23"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 16 June 2013 Time: 11:23", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6744,8 +8428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 December 2013", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 24 December 2013 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6760,8 +8448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 March 2014", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 06 March 2014 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6776,8 +8468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 December 2014", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 08 December 2014 Time: 08:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6792,8 +8488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 December 2014", 
+                "time": "14:50"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 22 December 2014 Time: 14:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6808,8 +8508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 July 2012", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 July 2012 Time: 08:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6824,8 +8528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 October 2013", 
+                "time": "13:30"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 08 October 2013 Time: 13:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6840,8 +8548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 October 2013", 
+                "time": "09:12"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 17 October 2013 Time: 09:12", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6856,8 +8568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 May 2014", 
+                "time": "13:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 May 2014 Time: 13:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6872,8 +8588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 February 2012", 
+                "time": "21:26"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 08 February 2012 Time: 21:26", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6888,8 +8608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 August 2014", 
+                "time": "17:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 August 2014 Time: 17:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6904,8 +8628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 February 2012", 
+                "time": "15:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 10 February 2012 Time: 15:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6920,8 +8648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 October 2013", 
+                "time": "13:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 29 October 2013 Time: 13:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6936,8 +8668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 September 2013", 
+                "time": "08:05"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 24 September 2013 Time: 08:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6952,8 +8688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 November 2012", 
+                "time": "15:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 02 November 2012 Time: 15:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -6968,8 +8708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 April 2014", 
+                "time": "08:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 02 April 2014 Time: 08:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -6984,8 +8728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 October 2013", 
+                "time": "19:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 14 October 2013 Time: 19:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7000,8 +8748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 February 2013", 
+                "time": "07:48"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 04 February 2013 Time: 07:48", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7016,8 +8768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 May 2012", 
+                "time": "09:30"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 14 May 2012 Time: 09:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7032,8 +8788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 November 2012", 
+                "time": "17:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 12 November 2012 Time: 17:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7048,8 +8808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 January 2014", 
+                "time": "14:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 06 January 2014 Time: 14:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7064,8 +8828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 June 2013", 
+                "time": "14:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 14 June 2013 Time: 14:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7080,8 +8848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 August 2012", 
+                "time": "12:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 30 August 2012 Time: 12:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7096,8 +8868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 August 2012", 
+                "time": "17:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 August 2012 Time: 17:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7112,8 +8888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 September 2012", 
+                "time": "07:43"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 25 September 2012 Time: 07:43", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7128,8 +8908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 May 2013", 
+                "time": "19:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 10 May 2013 Time: 19:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7144,8 +8928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 March 2012", 
+                "time": "07:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 07 March 2012 Time: 07:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7160,8 +8948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 July 2012", 
+                "time": "15:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 July 2012 Time: 15:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7176,8 +8968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 March 2012", 
+                "time": "16:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 16 March 2012 Time: 16:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7192,8 +8988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 September 2012", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 03 September 2012 Time: 08:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7208,8 +9008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 November 2012", 
+                "time": "12:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 06 November 2012 Time: 12:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7224,8 +9028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 September 2013", 
+                "time": "08:55"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 08 September 2013 Time: 08:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7240,8 +9048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 June 2014", 
+                "time": "08:35"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 20 June 2014 Time: 08:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7256,8 +9068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 March 2012", 
+                "time": "17:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 21 March 2012 Time: 17:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7272,8 +9088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 August 2013", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 22 August 2013 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7288,8 +9108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 January 2014", 
+                "time": "16:35"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 15 January 2014 Time: 16:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7304,8 +9128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 May 2015", 
+                "time": "14:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 04 May 2015 Time: 14:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7320,8 +9148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 November 2013", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 20 November 2013 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7336,8 +9168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 November 2014", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 26 November 2014 Time: 16:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7352,8 +9188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 September 2012", 
+                "time": "17:25"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 12 September 2012 Time: 17:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7368,8 +9208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 June 2012", 
+                "time": "07:42"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 26 June 2012 Time: 07:42", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7384,8 +9228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 November 2012", 
+                "time": "15:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 November 2012 Time: 15:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7400,8 +9248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 November 2012", 
+                "time": "08:18"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 11 November 2012 Time: 08:18", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7416,8 +9268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 August 2014", 
+                "time": "10:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 August 2014 Time: 10:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7432,8 +9288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 December 2013", 
+                "time": "12:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 16 December 2013 Time: 12:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7448,8 +9308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 March 2014", 
+                "time": "18:55"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 March 2014 Time: 18:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7464,8 +9328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 July 2013", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 05 July 2013 Time: 16:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7480,8 +9348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 February 2012", 
+                "time": "15:00"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 17 February 2012 Time: 15:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7496,8 +9368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 April 2014", 
+                "time": "08:25"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 April 2014 Time: 08:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7512,8 +9388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 August 2012", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 08 August 2012 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7528,8 +9408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 June 2014", 
+                "time": "13:55"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 04 June 2014 Time: 13:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7544,8 +9428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 April 2012", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 16 April 2012 Time: 08:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7560,8 +9448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "31 October 2012", 
+                "time": "08:20"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 31 October 2012 Time: 08:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7576,8 +9468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 July 2012", 
+                "time": "13:00"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 07 July 2012 Time: 13:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7592,8 +9488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 June 2012", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 05 June 2012 Time: 09:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7608,8 +9508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 December 2014", 
+                "time": "17:14"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 14 December 2014 Time: 17:14", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7624,8 +9528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 August 2013", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 15 August 2013 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7640,8 +9548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 August 2014", 
+                "time": "18:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 August 2014 Time: 18:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7656,8 +9568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 March 2015", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 11 March 2015 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7672,8 +9588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 May 2015", 
+                "time": "18:55"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 12 May 2015 Time: 18:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7688,8 +9608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 March 2015", 
+                "time": "16:05"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 26 March 2015 Time: 16:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7704,8 +9628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 October 2014", 
+                "time": "06:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 02 October 2014 Time: 06:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7720,8 +9648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 April 2015", 
+                "time": "16:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 27 April 2015 Time: 16:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7736,8 +9668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 August 2012", 
+                "time": "07:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 09 August 2012 Time: 07:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7752,8 +9688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 December 2013", 
+                "time": "15:40"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 12 December 2013 Time: 15:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7768,8 +9708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 September 2014", 
+                "time": "16:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 11 September 2014 Time: 16:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7784,8 +9728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 July 2014", 
+                "time": "07:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 10 July 2014 Time: 07:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7800,8 +9748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 September 2014", 
+                "time": "16:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 30 September 2014 Time: 16:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7816,8 +9768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 September 2013", 
+                "time": "16:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 20 September 2013 Time: 16:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7832,8 +9788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 November 2013", 
+                "time": "06:50"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 25 November 2013 Time: 06:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7848,8 +9808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 April 2013", 
+                "time": "18:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 22 April 2013 Time: 18:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7864,8 +9828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 March 2014", 
+                "time": "23:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 14 March 2014 Time: 23:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7880,8 +9848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 February 2012", 
+                "time": "17:30"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 04 February 2012 Time: 17:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7896,8 +9868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 February 2013", 
+                "time": "08:09"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 13 February 2013 Time: 08:09", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7912,8 +9888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 June 2013", 
+                "time": "18:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 June 2013 Time: 18:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7928,8 +9908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 May 2012", 
+                "time": "07:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 04 May 2012 Time: 07:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7944,8 +9928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 July 2012", 
+                "time": "17:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 11 July 2012 Time: 17:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7960,8 +9948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 October 2012", 
+                "time": "16:36"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 17 October 2012 Time: 16:36", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -7976,8 +9968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 February 2015", 
+                "time": "06:40"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 02 February 2015 Time: 06:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -7992,8 +9988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 November 2012", 
+                "time": "18:19"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 29 November 2012 Time: 18:19", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8008,8 +10008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 January 2013", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 23 January 2013 Time: 16:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8024,8 +10028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 May 2012", 
+                "time": "09:16"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 01 May 2012 Time: 09:16", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8040,8 +10048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 April 2014", 
+                "time": "19:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 10 April 2014 Time: 19:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8056,8 +10068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 February 2014", 
+                "time": "18:05"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 25 February 2014 Time: 18:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8072,8 +10088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 February 2014", 
+                "time": "20:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 13 February 2014 Time: 20:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8088,8 +10108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "31 March 2015", 
+                "time": "09:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 31 March 2015 Time: 09:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8104,8 +10128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 April 2012", 
+                "time": "08:43"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 30 April 2012 Time: 08:43", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8120,8 +10148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 September 2014", 
+                "time": "17:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 01 September 2014 Time: 17:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8136,8 +10168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 January 2015", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 23 January 2015 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8152,8 +10188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 July 2012", 
+                "time": "09:22"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 24 July 2012 Time: 09:22", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8168,8 +10208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 February 2012", 
+                "time": "16:06"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 13 February 2012 Time: 16:06", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8184,8 +10228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 October 2012", 
+                "time": "19:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 25 October 2012 Time: 19:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8200,8 +10248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 May 2015", 
+                "time": "20:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 May 2015 Time: 20:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8216,8 +10268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 January 2012", 
+                "time": "18:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 11 January 2012 Time: 18:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8232,8 +10288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 October 2014", 
+                "time": "07:35"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 20 October 2014 Time: 07:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8248,8 +10308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 April 2013", 
+                "time": "10:30"
+            }, 
             "properties": {
-                "description": "Struck object  (On Road)", 
+                "description": "Struck object  (On Road) Date: 15 April 2013 Time: 10:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8264,8 +10328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 March 2014", 
+                "time": "18:30"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 27 March 2014 Time: 18:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8280,8 +10348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 May 2014", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 28 May 2014 Time: 09:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8296,8 +10368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 February 2014", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 February 2014 Time: 08:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8312,8 +10388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 June 2013", 
+                "time": "20:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 10 June 2013 Time: 20:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8328,8 +10408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 December 2013", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 04 December 2013 Time: 08:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8344,8 +10428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 August 2013", 
+                "time": "18:10"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 21 August 2013 Time: 18:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8360,8 +10448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 January 2013", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 04 January 2013 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8376,8 +10468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "31 December 2013", 
+                "time": "14:53"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 31 December 2013 Time: 14:53", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8392,8 +10488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 October 2013", 
+                "time": "09:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 25 October 2013 Time: 09:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8408,8 +10508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 September 2013", 
+                "time": "17:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 05 September 2013 Time: 17:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8424,8 +10528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 March 2013", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 07 March 2013 Time: 08:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8440,8 +10548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 May 2014", 
+                "time": "17:35"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 13 May 2014 Time: 17:35", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8456,8 +10568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 May 2012", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 May 2012 Time: 18:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8472,8 +10588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 January 2015", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 21 January 2015 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8488,8 +10608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 October 2013", 
+                "time": "07:55"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 16 October 2013 Time: 07:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8504,8 +10628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 March 2012", 
+                "time": "17:35"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 05 March 2012 Time: 17:35", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8520,8 +10648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 August 2013", 
+                "time": "15:32"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 01 August 2013 Time: 15:32", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8536,8 +10668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 January 2014", 
+                "time": "13:44"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 January 2014 Time: 13:44", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8552,8 +10688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 May 2013", 
+                "time": "12:35"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 03 May 2013 Time: 12:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8568,8 +10708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 April 2013", 
+                "time": "07:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 29 April 2013 Time: 07:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8584,8 +10728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 June 2014", 
+                "time": "07:55"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 10 June 2014 Time: 07:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8600,8 +10748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 March 2012", 
+                "time": "16:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 March 2012 Time: 16:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8616,8 +10768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 February 2012", 
+                "time": "10:55"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 26 February 2012 Time: 10:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8632,8 +10788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 February 2013", 
+                "time": "05:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 25 February 2013 Time: 05:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8648,8 +10808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 December 2013", 
+                "time": "06:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 December 2013 Time: 06:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8664,8 +10828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 August 2013", 
+                "time": "08:05"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 12 August 2013 Time: 08:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8680,8 +10848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 February 2013", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 22 February 2013 Time: 17:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8696,8 +10868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 June 2014", 
+                "time": "18:35"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 16 June 2014 Time: 18:35", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8712,8 +10888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 June 2014", 
+                "time": "17:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 05 June 2014 Time: 17:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8728,8 +10908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 April 2012", 
+                "time": "22:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 16 April 2012 Time: 22:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8744,8 +10928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 March 2015", 
+                "time": "22:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 24 March 2015 Time: 22:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8760,8 +10948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 May 2015", 
+                "time": "16:30"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 12 May 2015 Time: 16:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8776,8 +10968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 March 2015", 
+                "time": "09:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 March 2015 Time: 09:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8792,8 +10988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 February 2015", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 18 February 2015 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8808,8 +11008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 May 2015", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 06 May 2015 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8824,8 +11028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 November 2014", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 November 2014 Time: 08:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8840,8 +11048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 January 2013", 
+                "time": "07:26"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 15 January 2013 Time: 07:26", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8856,8 +11068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 October 2014", 
+                "time": "11:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 21 October 2014 Time: 11:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8872,8 +11088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 May 2013", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 May 2013 Time: 08:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8888,8 +11108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 September 2012", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 10 September 2012 Time: 18:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8904,8 +11128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 October 2013", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 October 2013 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8920,8 +11148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 February 2015", 
+                "time": "11:55"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 22 February 2015 Time: 11:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8936,8 +11168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 October 2013", 
+                "time": "12:25"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 12 October 2013 Time: 12:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8952,8 +11188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 March 2012", 
+                "time": "16:50"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 06 March 2012 Time: 16:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -8968,8 +11208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 June 2013", 
+                "time": "11:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 June 2013 Time: 11:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -8984,8 +11228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 September 2013", 
+                "time": "15:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 24 September 2013 Time: 15:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9000,8 +11248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 June 2013", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 30 June 2013 Time: 08:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9016,8 +11268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 July 2012", 
+                "time": "13:55"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 12 July 2012 Time: 13:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9032,8 +11288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 October 2012", 
+                "time": "10:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 09 October 2012 Time: 10:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9048,8 +11308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 October 2012", 
+                "time": "17:25"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 October 2012 Time: 17:25", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9064,8 +11328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 October 2013", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 10 October 2013 Time: 08:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9080,8 +11348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 April 2012", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 27 April 2012 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9096,8 +11368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 December 2013", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 03 December 2013 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9112,8 +11388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 November 2013", 
+                "time": "07:25"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 November 2013 Time: 07:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9128,8 +11408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 February 2013", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 28 February 2013 Time: 08:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9144,8 +11428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 March 2015", 
+                "time": "18:58"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 30 March 2015 Time: 18:58", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9160,8 +11448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 November 2013", 
+                "time": "20:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 November 2013 Time: 20:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9176,8 +11468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 February 2015", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 05 February 2015 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9192,8 +11488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 March 2015", 
+                "time": "17:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 17 March 2015 Time: 17:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9208,8 +11508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 February 2014", 
+                "time": "09:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 03 February 2014 Time: 09:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9224,8 +11528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 April 2012", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Struck pedestrian (On Road)", 
+                "description": "Struck pedestrian (On Road) Date: 03 April 2012 Time: 16:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9240,8 +11548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 March 2015", 
+                "time": "19:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 20 March 2015 Time: 19:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9256,8 +11568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 May 2015", 
+                "time": "17:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 13 May 2015 Time: 17:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9272,8 +11588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 October 2013", 
+                "time": "20:41"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 14 October 2013 Time: 20:41", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9288,8 +11608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 June 2013", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 June 2013 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9304,8 +11628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 July 2012", 
+                "time": "18:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 July 2012 Time: 18:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9320,8 +11648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 October 2012", 
+                "time": "06:55"
+            }, 
             "properties": {
-                "description": "Opposite direction side swipe", 
+                "description": "Opposite direction side swipe Date: 25 October 2012 Time: 06:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9336,8 +11668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 September 2013", 
+                "time": "15:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 10 September 2013 Time: 15:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9352,8 +11688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 May 2012", 
+                "time": "09:20"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 14 May 2012 Time: 09:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9368,8 +11708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 May 2012", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 23 May 2012 Time: 08:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9384,8 +11728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 November 2013", 
+                "time": "15:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 30 November 2013 Time: 15:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9400,8 +11748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 April 2012", 
+                "time": "11:00"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 29 April 2012 Time: 11:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9416,8 +11768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 October 2013", 
+                "time": "11:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 October 2013 Time: 11:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9432,8 +11788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 June 2013", 
+                "time": "13:05"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 June 2013 Time: 13:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9448,8 +11808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 November 2014", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 12 November 2014 Time: 08:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9464,8 +11828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 May 2014", 
+                "time": "16:38"
+            }, 
             "properties": {
-                "description": "Struck pedestrian (On Road)", 
+                "description": "Struck pedestrian (On Road) Date: 03 May 2014 Time: 16:38", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9480,8 +11848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 July 2014", 
+                "time": "08:01"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 11 July 2014 Time: 08:01", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9496,8 +11868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 July 2014", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 30 July 2014 Time: 16:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9512,8 +11888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 February 2013", 
+                "time": "21:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 12 February 2013 Time: 21:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9528,8 +11908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 May 2013", 
+                "time": "17:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 29 May 2013 Time: 17:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9544,8 +11928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 October 2014", 
+                "time": "18:05"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 21 October 2014 Time: 18:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9560,8 +11948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 July 2013", 
+                "time": "18:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 11 July 2013 Time: 18:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9576,8 +11968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 March 2014", 
+                "time": "06:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 06 March 2014 Time: 06:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9592,8 +11988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 June 2013", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 June 2013 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9608,8 +12008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 June 2013", 
+                "time": "15:25"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 12 June 2013 Time: 15:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9624,8 +12028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 February 2013", 
+                "time": "12:15"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 09 February 2013 Time: 12:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9640,8 +12048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 February 2014", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 27 February 2014 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9656,8 +12068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 November 2014", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 November 2014 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9672,8 +12088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 September 2014", 
+                "time": "12:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 September 2014 Time: 12:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9688,8 +12108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 April 2012", 
+                "time": "08:38"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 30 April 2012 Time: 08:38", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9704,8 +12128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "31 January 2012", 
+                "time": "15:21"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 31 January 2012 Time: 15:21", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9720,8 +12148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 October 2012", 
+                "time": "07:55"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 17 October 2012 Time: 07:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9736,8 +12168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 March 2015", 
+                "time": "14:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 03 March 2015 Time: 14:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9752,8 +12188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 August 2012", 
+                "time": "07:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 22 August 2012 Time: 07:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9768,8 +12208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 February 2013", 
+                "time": "10:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 09 February 2013 Time: 10:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9784,8 +12228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 July 2014", 
+                "time": "08:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 30 July 2014 Time: 08:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9800,8 +12248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 August 2014", 
+                "time": "11:01"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 04 August 2014 Time: 11:01", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9816,8 +12268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 April 2015", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 13 April 2015 Time: 17:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9832,8 +12288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 December 2012", 
+                "time": "07:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 03 December 2012 Time: 07:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9848,8 +12308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 September 2014", 
+                "time": "16:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 September 2014 Time: 16:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9864,8 +12328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 March 2014", 
+                "time": "18:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 12 March 2014 Time: 18:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9880,8 +12348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 October 2012", 
+                "time": "07:25"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 03 October 2012 Time: 07:25", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9896,8 +12368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "28 February 2013", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 28 February 2013 Time: 08:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9912,8 +12388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 February 2015", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 25 February 2015 Time: 08:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9928,8 +12408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 May 2012", 
+                "time": "05:43"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 24 May 2012 Time: 05:43", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9944,8 +12428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 October 2013", 
+                "time": "18:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 09 October 2013 Time: 18:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9960,8 +12448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 February 2013", 
+                "time": "17:22"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 07 February 2013 Time: 17:22", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -9976,8 +12468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 October 2014", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 14 October 2014 Time: 17:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -9992,8 +12488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 March 2012", 
+                "time": "16:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 30 March 2012 Time: 16:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10008,8 +12508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 November 2014", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 26 November 2014 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10024,8 +12528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 October 2014", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 21 October 2014 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10040,8 +12548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 May 2015", 
+                "time": "07:20"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 27 May 2015 Time: 07:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10056,8 +12568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 March 2015", 
+                "time": "08:05"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 March 2015 Time: 08:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10072,8 +12588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 August 2012", 
+                "time": "14:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 August 2012 Time: 14:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10088,8 +12608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 November 2012", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 29 November 2012 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10104,8 +12628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 November 2014", 
+                "time": "11:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 26 November 2014 Time: 11:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10120,8 +12648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 April 2014", 
+                "time": "18:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 14 April 2014 Time: 18:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10136,8 +12668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 July 2014", 
+                "time": "11:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 19 July 2014 Time: 11:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10152,8 +12688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 November 2014", 
+                "time": "16:31"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 13 November 2014 Time: 16:31", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10168,8 +12708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 March 2014", 
+                "time": "06:10"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 04 March 2014 Time: 06:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10184,8 +12728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 February 2013", 
+                "time": "15:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 February 2013 Time: 15:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10200,8 +12748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 August 2012", 
+                "time": "17:13"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 24 August 2012 Time: 17:13", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10216,8 +12768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 February 2013", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 February 2013 Time: 08:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10232,8 +12788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 May 2015", 
+                "time": "20:48"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 12 May 2015 Time: 20:48", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10248,8 +12808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 June 2014", 
+                "time": "14:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 08 June 2014 Time: 14:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10264,8 +12828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 December 2013", 
+                "time": "10:50"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 15 December 2013 Time: 10:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10280,8 +12848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 February 2012", 
+                "time": "19:39"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 21 February 2012 Time: 19:39", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10296,8 +12868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 February 2012", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 06 February 2012 Time: 18:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10312,8 +12888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 November 2013", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 04 November 2013 Time: 09:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10328,8 +12908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 April 2014", 
+                "time": "07:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 09 April 2014 Time: 07:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10344,8 +12928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 November 2013", 
+                "time": "17:26"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 20 November 2013 Time: 17:26", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10360,8 +12948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 November 2012", 
+                "time": "14:45"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 01 November 2012 Time: 14:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10376,8 +12968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 July 2014", 
+                "time": "16:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 22 July 2014 Time: 16:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10392,8 +12988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 December 2013", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 12 December 2013 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10408,8 +13008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 April 2013", 
+                "time": "07:49"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 02 April 2013 Time: 07:49", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10424,8 +13028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 July 2012", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 26 July 2012 Time: 08:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10440,8 +13048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 April 2012", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 02 April 2012 Time: 08:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10456,8 +13068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 February 2013", 
+                "time": "07:25"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 22 February 2013 Time: 07:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10472,8 +13088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 November 2014", 
+                "time": "09:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 16 November 2014 Time: 09:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10488,8 +13108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "14 October 2012", 
+                "time": "14:51"
+            }, 
             "properties": {
-                "description": "Fall from moving vehicle (On Road)", 
+                "description": "Fall from moving vehicle (On Road) Date: 14 October 2012 Time: 14:51", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10504,8 +13128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 April 2013", 
+                "time": "19:10"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 23 April 2013 Time: 19:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10520,8 +13148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 April 2013", 
+                "time": "07:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 April 2013 Time: 07:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10536,8 +13168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 February 2013", 
+                "time": "19:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 22 February 2013 Time: 19:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10552,8 +13188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 May 2013", 
+                "time": "18:00"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 02 May 2013 Time: 18:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10568,8 +13208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "31 May 2013", 
+                "time": "21:25"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 31 May 2013 Time: 21:25", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10584,8 +13228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 December 2014", 
+                "time": "20:05"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 06 December 2014 Time: 20:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10600,8 +13248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 October 2014", 
+                "time": "14:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 12 October 2014 Time: 14:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10616,8 +13268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 April 2015", 
+                "time": "11:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 02 April 2015 Time: 11:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10632,8 +13288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 January 2015", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 January 2015 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10648,8 +13308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 February 2013", 
+                "time": "07:50"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 07 February 2013 Time: 07:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10664,8 +13328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 August 2012", 
+                "time": "15:50"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 04 August 2012 Time: 15:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10680,8 +13348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 June 2013", 
+                "time": "13:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 19 June 2013 Time: 13:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10696,8 +13368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 February 2014", 
+                "time": "16:35"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 03 February 2014 Time: 16:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10712,8 +13388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 July 2014", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 08 July 2014 Time: 16:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10728,8 +13408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 February 2014", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Fall from moving vehicle (On Road)", 
+                "description": "Fall from moving vehicle (On Road) Date: 04 February 2014 Time: 08:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10744,8 +13428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 October 2013", 
+                "time": "21:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 24 October 2013 Time: 21:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10760,8 +13448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 March 2012", 
+                "time": "09:05"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 27 March 2012 Time: 09:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10776,8 +13468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 April 2013", 
+                "time": "08:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 29 April 2013 Time: 08:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10792,8 +13488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 April 2013", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 26 April 2013 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10808,8 +13508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 February 2012", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 20 February 2012 Time: 08:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10824,8 +13528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 June 2012", 
+                "time": "15:50"
+            }, 
             "properties": {
-                "description": "Struck object  (On Road)", 
+                "description": "Struck object  (On Road) Date: 05 June 2012 Time: 15:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10840,8 +13548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 November 2012", 
+                "time": "11:55"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 November 2012 Time: 11:55", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10856,8 +13568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 February 2014", 
+                "time": "17:50"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 10 February 2014 Time: 17:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10872,8 +13588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 November 2014", 
+                "time": "10:22"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 November 2014 Time: 10:22", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10888,8 +13608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 January 2014", 
+                "time": "17:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 01 January 2014 Time: 17:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10904,8 +13628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 January 2015", 
+                "time": "12:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 25 January 2015 Time: 12:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10920,8 +13648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 June 2012", 
+                "time": "12:05"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 June 2012 Time: 12:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10936,8 +13668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 March 2013", 
+                "time": "08:25"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 March 2013 Time: 08:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10952,8 +13688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 July 2014", 
+                "time": "06:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 30 July 2014 Time: 06:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -10968,8 +13708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 June 2014", 
+                "time": "10:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 10 June 2014 Time: 10:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -10984,8 +13728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 April 2012", 
+                "time": "20:56"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 April 2012 Time: 20:56", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11000,8 +13748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 February 2012", 
+                "time": "09:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 10 February 2012 Time: 09:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11016,8 +13768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 June 2014", 
+                "time": "17:01"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 17 June 2014 Time: 17:01", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11032,8 +13788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 November 2012", 
+                "time": "09:45"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 06 November 2012 Time: 09:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11048,8 +13808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 May 2014", 
+                "time": "17:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 20 May 2014 Time: 17:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11064,8 +13828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 April 2015", 
+                "time": "07:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 24 April 2015 Time: 07:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11080,8 +13848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 June 2012", 
+                "time": "08:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 29 June 2012 Time: 08:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11096,8 +13868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 September 2013", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 September 2013 Time: 16:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11112,8 +13888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 January 2012", 
+                "time": "13:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 29 January 2012 Time: 13:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11128,8 +13908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 February 2014", 
+                "time": "06:45"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 20 February 2014 Time: 06:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11144,8 +13928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 June 2015", 
+                "time": "21:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 04 June 2015 Time: 21:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11160,8 +13948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 May 2015", 
+                "time": "17:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 21 May 2015 Time: 17:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11176,8 +13968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 July 2015", 
+                "time": "18:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 July 2015 Time: 18:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11192,8 +13988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 June 2015", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 08 June 2015 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11208,8 +14008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 May 2015", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 26 May 2015 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11224,8 +14028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 June 2015", 
+                "time": "09:30"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 05 June 2015 Time: 09:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11240,8 +14048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 June 2015", 
+                "time": "11:05"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 08 June 2015 Time: 11:05", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11256,8 +14068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 June 2015", 
+                "time": "17:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 17 June 2015 Time: 17:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11272,8 +14088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 June 2015", 
+                "time": "17:24"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 16 June 2015 Time: 17:24", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11288,8 +14108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 June 2015", 
+                "time": "13:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 June 2015 Time: 13:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11304,8 +14128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 July 2015", 
+                "time": "07:45"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 03 July 2015 Time: 07:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11320,8 +14148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 June 2015", 
+                "time": "07:50"
+            }, 
             "properties": {
-                "description": "Struck pedestrian (On Road)", 
+                "description": "Struck pedestrian (On Road) Date: 18 June 2015 Time: 07:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11336,8 +14168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 July 2015", 
+                "time": "08:25"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 08 July 2015 Time: 08:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11352,8 +14188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 May 2015", 
+                "time": "17:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 26 May 2015 Time: 17:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11368,8 +14208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 July 2015", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 25 July 2015 Time: 16:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11384,8 +14228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 June 2015", 
+                "time": "07:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 June 2015 Time: 07:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11400,8 +14248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 June 2015", 
+                "time": "07:50"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 22 June 2015 Time: 07:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11416,8 +14268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 June 2015", 
+                "time": "08:25"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 26 June 2015 Time: 08:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11432,8 +14288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 July 2015", 
+                "time": "15:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 20 July 2015 Time: 15:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11448,8 +14308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 July 2015", 
+                "time": "06:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 July 2015 Time: 06:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11464,8 +14328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 August 2015", 
+                "time": "15:05"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 04 August 2015 Time: 15:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11480,8 +14348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 July 2015", 
+                "time": "12:57"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 29 July 2015 Time: 12:57", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11496,8 +14368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 August 2015", 
+                "time": "10:50"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 16 August 2015 Time: 10:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11512,8 +14388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 June 2015", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 15 June 2015 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11528,8 +14408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 April 2015", 
+                "time": "13:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 05 April 2015 Time: 13:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11544,8 +14428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 August 2015", 
+                "time": "16:30"
+            }, 
             "properties": {
-                "description": "Struck object  (On Road)", 
+                "description": "Struck object  (On Road) Date: 04 August 2015 Time: 16:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11560,8 +14448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 June 2015", 
+                "time": "07:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 25 June 2015 Time: 07:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11576,8 +14468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 August 2015", 
+                "time": "07:10"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 04 August 2015 Time: 07:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11592,8 +14488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 July 2015", 
+                "time": "09:20"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 16 July 2015 Time: 09:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11608,8 +14508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 August 2015", 
+                "time": "07:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 August 2015 Time: 07:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11624,8 +14528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 June 2015", 
+                "time": "19:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 30 June 2015 Time: 19:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11640,8 +14548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 August 2015", 
+                "time": "06:25"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 07 August 2015 Time: 06:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11656,8 +14568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 August 2015", 
+                "time": "12:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 07 August 2015 Time: 12:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11672,8 +14588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 August 2015", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 07 August 2015 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11688,8 +14608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 June 2015", 
+                "time": "11:35"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 08 June 2015 Time: 11:35", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11704,8 +14628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 August 2015", 
+                "time": "11:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 30 August 2015 Time: 11:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11720,8 +14648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 August 2015", 
+                "time": "19:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 August 2015 Time: 19:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11736,8 +14668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "20 August 2015", 
+                "time": "19:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 20 August 2015 Time: 19:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11752,8 +14688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 August 2015", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 24 August 2015 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11768,8 +14708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 September 2015", 
+                "time": "15:20"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 11 September 2015 Time: 15:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11784,8 +14728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 July 2015", 
+                "time": "16:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 02 July 2015 Time: 16:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11800,8 +14748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 September 2015", 
+                "time": "17:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 08 September 2015 Time: 17:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11816,8 +14768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 September 2015", 
+                "time": "08:25"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 September 2015 Time: 08:25", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11832,8 +14788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 September 2015", 
+                "time": "05:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 17 September 2015 Time: 05:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11848,8 +14808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 September 2015", 
+                "time": "08:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 08 September 2015 Time: 08:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11864,8 +14828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 September 2015", 
+                "time": "16:10"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 23 September 2015 Time: 16:10", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11880,8 +14848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 September 2015", 
+                "time": "18:30"
+            }, 
             "properties": {
-                "description": "Collision with parked vehicle", 
+                "description": "Collision with parked vehicle Date: 16 September 2015 Time: 18:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11896,8 +14868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 September 2015", 
+                "time": "06:09"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 15 September 2015 Time: 06:09", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11912,8 +14888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 September 2015", 
+                "time": "11:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 26 September 2015 Time: 11:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11928,8 +14908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 September 2015", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 24 September 2015 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11944,8 +14928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 September 2015", 
+                "time": "16:25"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 September 2015 Time: 16:25", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11960,8 +14948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 September 2015", 
+                "time": "17:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 17 September 2015 Time: 17:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -11976,8 +14968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "03 October 2015", 
+                "time": "18:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 03 October 2015 Time: 18:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -11992,8 +14988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 September 2015", 
+                "time": "09:45"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 18 September 2015 Time: 09:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12008,8 +15008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 September 2015", 
+                "time": "07:20"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 30 September 2015 Time: 07:20", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12024,8 +15028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 October 2015", 
+                "time": "07:17"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 15 October 2015 Time: 07:17", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12040,8 +15048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 October 2015", 
+                "time": "11:40"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 05 October 2015 Time: 11:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12056,8 +15068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 September 2015", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Struck pedestrian (Off Road)", 
+                "description": "Struck pedestrian (Off Road) Date: 24 September 2015 Time: 08:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12072,8 +15088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 October 2015", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 08 October 2015 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12088,8 +15108,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 October 2015", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 12 October 2015 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12104,8 +15128,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 October 2015", 
+                "time": "14:57"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 13 October 2015 Time: 14:57", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12120,8 +15148,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "13 October 2015", 
+                "time": "17:20"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 13 October 2015 Time: 17:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12136,8 +15168,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 September 2015", 
+                "time": "16:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 19 September 2015 Time: 16:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12152,8 +15188,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 October 2015", 
+                "time": "09:05"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 October 2015 Time: 09:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12168,8 +15208,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 October 2015", 
+                "time": "09:30"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 15 October 2015 Time: 09:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12184,8 +15228,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 October 2015", 
+                "time": "07:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 October 2015 Time: 07:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12200,8 +15248,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 October 2015", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 October 2015 Time: 09:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12216,8 +15268,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "16 October 2015", 
+                "time": "11:40"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 16 October 2015 Time: 11:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12232,8 +15288,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 October 2015", 
+                "time": "17:18"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 15 October 2015 Time: 17:18", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12248,8 +15308,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 October 2015", 
+                "time": "16:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 21 October 2015 Time: 16:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12264,8 +15328,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "22 October 2015", 
+                "time": "08:20"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 22 October 2015 Time: 08:20", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12280,8 +15348,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 November 2015", 
+                "time": "22:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 01 November 2015 Time: 22:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12296,8 +15368,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "24 October 2015", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 24 October 2015 Time: 16:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12312,8 +15388,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 October 2015", 
+                "time": "15:23"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 26 October 2015 Time: 15:23", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12328,8 +15408,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 February 2014", 
+                "time": "17:40"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 19 February 2014 Time: 17:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12344,8 +15428,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "06 November 2015", 
+                "time": "08:00"
+            }, 
             "properties": {
-                "description": "Rear end collision", 
+                "description": "Rear end collision Date: 06 November 2015 Time: 08:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12360,8 +15448,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 August 2015", 
+                "time": "22:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 10 August 2015 Time: 22:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12376,8 +15468,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 November 2015", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 November 2015 Time: 08:30", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12392,8 +15488,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 November 2015", 
+                "time": "11:45"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 10 November 2015 Time: 11:45", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12408,8 +15508,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "29 January 2015", 
+                "time": "07:45"
+            }, 
             "properties": {
-                "description": "Overturned (On Road)", 
+                "description": "Overturned (On Road) Date: 29 January 2015 Time: 07:45", 
                 "marker-color": "#2A0A0A", 
                 "marker-size": "large", 
                 "marker-symbol": "cemetery"
@@ -12424,8 +15528,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 November 2015", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 11 November 2015 Time: 09:00", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12440,8 +15548,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 November 2015", 
+                "time": "19:50"
+            }, 
             "properties": {
-                "description": "Struck object  (On Road)", 
+                "description": "Struck object  (On Road) Date: 09 November 2015 Time: 19:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12456,8 +15568,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "07 November 2015", 
+                "time": "09:39"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 07 November 2015 Time: 09:39", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12472,8 +15588,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 November 2015", 
+                "time": "15:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 10 November 2015 Time: 15:15", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12488,8 +15608,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "17 November 2015", 
+                "time": "20:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 17 November 2015 Time: 20:40", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12504,8 +15628,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "12 August 2015", 
+                "time": "16:00"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 12 August 2015 Time: 16:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12520,8 +15648,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "23 November 2015", 
+                "time": "08:45"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 23 November 2015 Time: 08:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12536,8 +15668,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "11 November 2015", 
+                "time": "09:15"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 11 November 2015 Time: 09:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12552,8 +15688,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 June 2013", 
+                "time": "17:40"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 04 June 2013 Time: 17:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12568,8 +15708,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "15 January 2013", 
+                "time": "19:30"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 15 January 2013 Time: 19:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12584,8 +15728,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "21 May 2014", 
+                "time": "08:40"
+            }, 
             "properties": {
-                "description": "Other -  Single Vehicle (On Road)", 
+                "description": "Other -  Single Vehicle (On Road) Date: 21 May 2014 Time: 08:40", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12600,8 +15748,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "18 September 2013", 
+                "time": "07:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 18 September 2013 Time: 07:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12616,8 +15768,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "04 March 2015", 
+                "time": "17:15"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 04 March 2015 Time: 17:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12632,8 +15788,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "10 February 2012", 
+                "time": "06:55"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 10 February 2012 Time: 06:55", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12648,8 +15808,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "19 November 2015", 
+                "time": "12:04"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 19 November 2015 Time: 12:04", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12664,8 +15828,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 November 2015", 
+                "time": "13:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 25 November 2015 Time: 13:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12680,8 +15848,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 November 2015", 
+                "time": "19:15"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 26 November 2015 Time: 19:15", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12696,8 +15868,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "05 October 2015", 
+                "time": "16:50"
+            }, 
             "properties": {
-                "description": "Right angle collision", 
+                "description": "Right angle collision Date: 05 October 2015 Time: 16:50", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12712,8 +15888,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "25 November 2015", 
+                "time": "18:45"
+            }, 
             "properties": {
-                "description": "Right turn into oncoming vehicle", 
+                "description": "Right turn into oncoming vehicle Date: 25 November 2015 Time: 18:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12728,8 +15908,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 November 2015", 
+                "time": "12:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 27 November 2015 Time: 12:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12744,8 +15928,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "30 November 2015", 
+                "time": "08:10"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 30 November 2015 Time: 08:10", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12760,8 +15948,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 December 2015", 
+                "time": "16:45"
+            }, 
             "properties": {
-                "description": "Head on collision", 
+                "description": "Head on collision Date: 01 December 2015 Time: 16:45", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12776,8 +15968,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 December 2015", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 09 December 2015 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12792,8 +15988,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "01 December 2015", 
+                "time": "07:43"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 01 December 2015 Time: 07:43", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12808,8 +16008,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "02 December 2015", 
+                "time": "08:30"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 02 December 2015 Time: 08:30", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12824,8 +16028,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "26 November 2015", 
+                "time": "19:05"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 26 November 2015 Time: 19:05", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12840,8 +16048,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "27 November 2015", 
+                "time": "13:50"
+            }, 
             "properties": {
-                "description": "Other - Vehicle to Vehicle", 
+                "description": "Other - Vehicle to Vehicle Date: 27 November 2015 Time: 13:50", 
                 "marker-color": "#FF0000", 
                 "marker-size": "medium", 
                 "marker-symbol": "hospital"
@@ -12856,8 +16068,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "08 December 2015", 
+                "time": "16:43"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 08 December 2015 Time: 16:43", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"
@@ -12872,8 +16088,12 @@ var markers = {
                 ], 
                 "type": "Point"
             }, 
+            "other_info": {
+                "date": "09 December 2015", 
+                "time": "09:00"
+            }, 
             "properties": {
-                "description": "Same direction side swipe", 
+                "description": "Same direction side swipe Date: 09 December 2015 Time: 09:00", 
                 "marker-color": "#0040FF", 
                 "marker-size": "small", 
                 "marker-symbol": "bicycle"

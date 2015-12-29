@@ -45,24 +45,39 @@
 			</nav>
 		</div>
 		<div class="row">
-			<div class="col-md-1">
+			<div class="col-md-2">
+				<br>
 				<div class="form">
+					<p>Show accidents as:</p>
 					<div class="btn-group-vertical btn-group" data-toggle="buttons">
-						<label class="btn btn-default btn-block active"><input type="radio" name="optradio" value="heatmap" checked>Heatmap</label>
-						<label class="btn btn-default btn-block"><input type="radio" name="optradio" value="featureLayer">Markers</label>
+						<label class="btn btn-primary btn-block active"><input type="radio" name="optradio" value="heatmap" checked>Heatmap</label>
+						<label class="btn btn-primary btn-block"><input type="radio" name="optradio" value="featureLayer">Markers</label>
+					</div>
+				</div>
+				<br>
+				<div class="form">
+					<p>Loop through all accidents:</p>
+					<div class="btn-group-vertical btn-group" data-toggle="buttons">
+						<button type="button" class="btn btn-primary" id="mbm">
+							<span class="glyphicon glyphicon-play"></span> Month by Month
+						</button>	
+						<button type="button" class="btn btn-primary" id="hbh">
+							<span class="glyphicon glyphicon-play"></span> Hour by Hour
+						</button>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-11">
+			<div class="col-md-10">
 				<div id='map'>
 					<script>
+					//Settings
+					var delay = 1500 // Loop delay
+					
 					//Activate Map
 					L.mapbox.accessToken = 'pk.eyJ1IjoiYnJldHRyb21lcm8iLCJhIjoiMDNmMGMyNDlmYTNhOTE1OTMxMDBlOTlmMzlhYWI1NzcifQ.8h_c4cDzPK3GMVVDlbE-VQ';
 					
 					var map = L.mapbox.map('map', 'mapbox.streets')
 						.setView([-35.3075, 149.124417], 12);
-					
-					var layers = document.getElementById('menu-ui');
 
 					// Heat Map Layer
 					var heatmap = L.heatLayer( locations, 
@@ -75,6 +90,7 @@
 						})
 						.addTo(map);
 					
+					// Marker Layer
 					var featureLayer = L.mapbox.featureLayer( markers, 
 						{
 							id: "markers",
@@ -94,31 +110,167 @@
 						}
 					};
 					
+					function monthlyLoop() {
+						
+						// Remove current layer
+						if (map.hasLayer(featureLayer)) {
+							map.removeLayer(featureLayer);
+							var currentView = "markers";
+						} else if (map.hasLayer(heatmap)) {
+							map.removeLayer(heatmap);
+							var currentView = "heatmap";
+						}
+						
+						var records = markers["features"];
+						i = 0;
+						timedLoop(i, "monthly", records, currentView);
+					};
+					
+					function hourlyLoop() {
+						
+						// Remove current layer
+						if (map.hasLayer(featureLayer)) {
+							map.removeLayer(featureLayer);
+							var currentView = "markers";
+						} else if (map.hasLayer(heatmap)) {
+							map.removeLayer(heatmap);
+							var currentView = "heatmap";
+						}
+
+						var records = markers["features"];
+						i = 0;
+						timedLoop(i, "hourly", records, currentView);
+					};
+					
+					function timedLoop(i, type, records, view) {
+					    setTimeout(function(x) {
+							var features = [];
+							
+							//Remove previous layer
+							if (i > 0) {
+								map.removeLayer(filteredLayer);
+							}
+							
+							// If currently viewing markers:
+							if (view == "markers") {
+							
+								//Data for monthly loop
+								if (type == "monthly") {
+									var max_i = 12;
+									for (record in records) {
+										current_record = records[record];
+										record_month = new Date(current_record["other_info"]["date"]).getMonth();
+										if (record_month == i) {
+											features.push(current_record);
+										}; //if correct month
+									}; // loop
+								}; // if monthly
+							
+								//Data for hourly loop
+								if (type == "hourly") {
+									var max_i = 24;
+									for (record in records) {
+										current_record = records[record];
+										record_hour = Number(current_record["other_info"]["time"].substr(0,2));
+										if (record_hour == i) {
+											features.push(current_record);
+										} // if correct hour
+									} // loop
+								} // if hourly
+								
+								var filtered = {features: features};
+							
+								//Create layer object
+								window.filteredLayer = L.mapbox.featureLayer( filtered, 
+									{
+										id: "filtered",
+										interactive: true,
+										type: "symbol",
+										source: "filtered",
+									});
+							
+							// If heatmap layer:
+							} else if (view == "heatmap") {
+								
+								//Data for monthly loop
+								if (type == "monthly") {
+									var max_i = 12;
+									for (record in records) {
+										current_record = records[record];
+										record_month = new Date(current_record["other_info"]["date"]).getMonth();
+										if (record_month == i) {
+											row = [];
+											row.push(current_record["geometry"]["coordinates"][1]);
+											row.push(current_record["geometry"]["coordinates"][0]);
+											row.push(1);
+											features.push(row);
+										};
+									}; // loop
+								}; // if monthly
+							
+								//Data for hourly loop
+								if (type == "hourly") {
+									var max_i = 24;
+									for (record in records) {
+										current_record = records[record];
+										record_hour = Number(current_record["other_info"]["time"].substr(0,2));
+										if (record_hour == i) {
+											row = [];
+											row.push(current_record["geometry"]["coordinates"][1]);
+											row.push(current_record["geometry"]["coordinates"][0]);
+											row.push(1);
+											features.push(row);
+										} // if correct hour
+									} // loop
+								} // if hourly
+								var filtered = features
+								
+								// Heat Map Layer
+								window.filteredLayer = L.heatLayer( filtered, 
+									{
+										minOpacity: 0.4,
+										maxZoom: 18,
+										radius: 30,
+										blur: 15,
+										max: 1.0
+									})
+								
+							} // if heatmap
+							
+							//Add New layer to map
+							filteredLayer.addTo(map);
+							
+							//Advance loop
+							i = i + 1
+							if (i <= max_i) {
+								timedLoop(i, type, records, view);
+							}
+							// If last loop, redisplay all data
+							else if (i > max_i) {
+								if (view == "markers") {
+									featureLayer.addTo(map);
+								} else if (view == "heatmap") {
+									heatmap.addTo(map);
+								}
+							}
+						}, delay);
+					};
+					
+					// Layer Toggle Input
 					$('input[name=optradio]:radio').change(function() {
 						changeView(this.value);
 					});
 					
-					/*
-					addLayer(featureLayer, 'Markers', 2);
-					addLayer(heatmap, 'Heatmap', 1);
-
-					function addLayer(layer) {
-
-					    link.onclick = function(e) {
-					        e.preventDefault();
-					        e.stopPropagation();
-
-					        if (map.hasLayer(layer)) {
-					            map.removeLayer(layer);
-					            this.className = '';
-					        } else {
-					            map.addLayer(layer);
-					            this.className = 'active';
-					        }
-					    };
-					};*/
+					// Loop button events
+					var mbm = document.getElementById("mbm");
+					var hbh = document.getElementById("hbh");
 					
+					$(mbm).on('click', monthlyLoop);
+					$(hbh).on('click', hourlyLoop);
 					
+					//mbm.addEventListener("click", monthlyMarkerLoop(), false);
+					//hbh.addEventListener("click", hourlyMarkerLoop(), false);
+								
 				</script>
 			</div>
 		</div>
